@@ -1,0 +1,503 @@
+CIIU ID S,CIIU ID D,CIIU ID CL,CIIU label CL
+1,1,111,"Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas "
+1,1,112,Cultivo de arroz 
+1,1,113,"Cultivo de hortalizas, raíces y tubérculos "
+1,1,114,Cultivo de tabaco 
+1,1,115,Cultivo de plantas textiles 
+1,1,119,Otros cultivos transitorios n.c.p.
+1,1,121,Cultivo de frutas tropicales y subtropicales
+1,1,122,Cultivo de plátano y banano
+1,1,123,Cultivo de café
+1,1,124,Cultivo de caña de azúcar
+1,1,125,Cultivo de flor de corte
+1,1,126,Cultivo de palma para aceite (palma africana) y otros frutos oleaginosos
+1,1,127,Cultivo de plantas con las que se preparan bebidas
+1,1,128,Cultivo de especias y de plantas aromáticas y medicinales 
+1,1,129,Otros cultivos permanentes n.c.p.
+1,1,130,"Propagación de plantas (actividades de los viveros, excepto viveros forestales) "
+1,1,141,Cría de ganado bovino y bufalino
+1,1,142,Cría de caballos y otros equinos 
+1,1,143,Cría de ovejas y cabras 
+1,1,144,Cría de ganado porcino
+1,1,145,Cría de aves de corral
+1,1,149,Cría de otros animales n.c.p.
+1,1,150,Explotación mixta (agrícola y pecuaria) 
+1,1,161,Actividades de apoyo a la agricultura 
+1,1,162,Actividades de apoyo a la ganadería
+1,1,163,Actividades posteriores a la cosecha 
+1,1,164,Tratamiento de semillas para propagación 
+1,1,170,Caza ordinaria y mediante trampas y actividades de servicios conexas 
+1,2,210,Silvicultura y otras actividades forestales
+1,2,220,Extracción de madera 
+1,2,230,Recolección de productos forestales diferentes a la madera
+1,2,240,Servicios de apoyo a la silvicultura 
+1,3,311,Pesca marítima 
+1,3,312,Pesca de agua dulce 
+1,3,321,Acuicultura marítima 
+1,3,322,Acuicultura de agua dulce
+2,5,510,Extracción de hulla (carbón de piedra)
+2,5,520,Extracción de carbón lignito
+2,6,610,Extracción de petróleo crudo
+2,6,620,Extracción de gas natural
+2,7,710,Extracción de minerales de hierro
+2,7,721,Extracción de minerales de uranio y de torio
+2,7,722,Extracción de oro y otros metales preciosos
+2,7,723,Extracción de minerales de níquel
+2,7,729,Extracción de otros minerales metalíferos no ferrosos n.c.p.
+2,8,811,"Extracción de piedra, arena, arcillas comunes, yeso y anhidrita"
+2,8,812,"Extracción de arcillas de uso industrial, caliza, caolín y bentonitas"
+2,8,820,"Extracción de esmeraldas, piedras preciosas y semipreciosas"
+2,8,891,Extracción de minerales para la fabricación de abonos y productos químicos
+2,8,892,Extracción de halita (sal)
+2,8,899,Extracción de otros minerales no metálicos n.c.p.
+2,9,910,Actividades de apoyo para la extracción de petróleo y de gas natural
+2,9,990,Actividades de apoyo para otras actividades de explotación de minas y canteras
+3,10,1011,Procesamiento y conservación de carne y productos cárnicos
+3,10,1012,"Procesamiento y conservación de pescados, crustáceos y moluscos"
+3,10,1020,"Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos"
+3,10,1030,Elaboración de aceites y grasas de origen vegetal y animal
+3,10,1040,Elaboración de productos lácteos
+3,10,1051,Elaboración de productos de molinería
+3,10,1052,Elaboración de almidones y productos derivados del almidón
+3,10,1061,Trilla de café
+3,10,1062,"Descafeinado, tostión y molienda del café"
+3,10,1063,Otros derivados del café
+3,10,1071,Elaboración y refinación de azúcar
+3,10,1072,Elaboración de panela
+3,10,1081,Elaboración de productos de panadería
+3,10,1082,"Elaboración de cacao, chocolate y productos de confitería"
+3,10,1083,"Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares"
+3,10,1084,Elaboración de comidas y platos preparados
+3,10,1089,Elaboración de otros productos alimenticios n.c.p.
+3,10,1090,Elaboración de alimentos preparados para animales
+3,11,1101,"Destilación, rectificación y mezcla de bebidas alcohólicas"
+3,11,1102,Elaboración de bebidas fermentadas no destiladas
+3,11,1103,"Producción de malta, elaboración de cervezas y otras bebidas malteadas"
+3,11,1104,"Elaboración de bebidas no alcohólicas, producción de aguas minerales y de otras aguas embotelladas"
+3,12,1200,Elaboración de productos de tabaco
+3,13,1311,Preparación e hilatura de fibras textiles
+3,13,1312,Tejeduría de productos textiles
+3,13,1313,Acabado de productos textiles
+3,13,1391,Fabricación de tejidos de punto y ganchillo
+3,13,1392,"Confección de artículos con materiales textiles, excepto prendas de vestir"
+3,13,1393,Fabricación de tapetes y alfombras para pisos
+3,13,1394,"Fabricación de cuerdas, cordeles, cables, bramantes y redes"
+3,13,1399,Fabricación de otros artículos textiles n.c.p.
+3,14,1410,"Confección de prendas de vestir, excepto prendas de piel"
+3,14,1420,Fabricación de artículos de piel
+3,14,1430,Fabricación de artículos de punto y ganchillo
+3,15,1511,Curtido y recurtido de cueros; recurtido y teñido de pieles
+3,15,1512,"Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero, y fabricación de artículos de talabartería y guarnicionería"
+3,15,1513,"Fabricación de artículos de viaje, bolsos de mano y artículos similares; artículos de talabartería y guarnicionería elaborados en otros materiales"
+3,15,1521,"Fabricación de calzado de cuero y piel, con cualquier tipo de suela"
+3,15,1522,"Fabricación de otros tipos de calzado, excepto calzado de cuero y piel"
+3,15,1523,Fabricación de partes del calzado
+3,16,1610,"Aserrado, acepillado e impregnación de la madera"
+3,16,1620,"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles"
+3,16,1630,"Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción"
+3,16,1640,Fabricación de recipientes de madera
+3,16,1690,"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería"
+3,17,1701,Fabricación de pulpas (pastas) celulósicas; papel y cartón
+3,17,1702,"Fabricación de papel y cartón ondulado (corrugado); fabricación de envases, empaques y de embalajes de papel y cartón."
+3,17,1709,Fabricación de otros artículos de papel y cartón
+3,18,1811,Actividades de impresión
+3,18,1812,Actividades de servicios relacionados con la impresión
+3,18,1820,Producción de copias a partir de grabaciones originales 
+3,19,1910,Fabricación de productos de hornos de coque
+3,19,1921,Fabricación de productos de la refinación del petróleo
+3,19,1922,Actividad de mezcla de combustibles
+3,20,2011,Fabricación de sustancias y productos químicos básicos
+3,20,2012,Fabricación de abonos y compuestos inorgánicos nitrogenados
+3,20,2013,Fabricación de plásticos en formas primarias
+3,20,2014,Fabricación de caucho sintético en formas primarias
+3,20,2021,Fabricación de plaguicidas y otros productos químicos de uso agropecuario
+3,20,2022,"Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas"
+3,20,2023,"Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador"
+3,20,2029,Fabricación de otros productos químicos n.c.p.
+3,20,2030,Fabricación de fibras sintéticas y artificiales
+3,21,2100,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico"
+3,22,2211,Fabricación de llantas y neumáticos de caucho
+3,22,2212,Reencauche de llantas usadas
+3,22,2219,Fabricación de formas básicas de caucho y otros productos de caucho n.c.p.
+3,22,2221,Fabricación de formas básicas de plástico
+3,22,2229,Fabricación de artículos de plástico n.c.p.
+3,23,2310,Fabricación de vidrio y productos de vidrio
+3,23,2391,Fabricación de productos refractarios
+3,23,2392,Fabricación de materiales de arcilla para la construcción
+3,23,2393,Fabricación de otros productos de cerámica y porcelana
+3,23,2394,"Fabricación de cemento, cal y yeso"
+3,23,2395,"Fabricación de artículos de hormigón, cemento y yeso"
+3,23,2396,"Corte, tallado y acabado de la piedra"
+3,23,2399,Fabricación de otros productos minerales no metálicos n.c.p.
+3,24,2410,Industrias básicas de hierro y de acero
+3,24,2421,Industrias básicas de metales preciosos
+3,24,2429,Industrias básicas de otros metales no ferrosos
+3,24,2431,Fundición de hierro y de acero
+3,24,2432,Fundición de metales no ferrosos 
+3,25,2511,Fabricación de productos metálicos para uso estructural
+3,25,2512,"Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercancías"
+3,25,2513,"Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central"
+3,25,2520,Fabricación de armas y municiones
+3,25,2591,"Forja, prensado, estampado y laminado de metal; pulvimetalurgia"
+3,25,2592,Tratamiento y revestimiento de metales; mecanizado
+3,25,2593,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería"
+3,25,2599,Fabricación de otros productos elaborados de metal n.c.p.
+3,26,2610,Fabricación de componentes y tableros electrónicos
+3,26,2620,Fabricación de computadoras y de equipo periférico
+3,26,2630,Fabricación de equipos de comunicación
+3,26,2640,Fabricación de aparatos electrónicos de consumo
+3,26,2651,"Fabricación de equipo de medición, prueba, navegación y control"
+3,26,2652,Fabricación de relojes
+3,26,2660,Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico
+3,26,2670,Fabricación de instrumentos ópticos y equipo fotográfico
+3,26,2680,Fabricación de medios magnéticos y ópticos para almacenamiento de datos
+3,27,2711,"Fabricación de motores, generadores y transformadores eléctricos"
+3,27,2712,Fabricación de aparatos de distribución y control de la energía eléctrica
+3,27,2720,"Fabricación de pilas, baterías y acumuladores eléctricos"
+3,27,2731,Fabricación de hilos y cables eléctricos y de fibra óptica
+3,27,2732,Fabricación de dispositivos de cableado
+3,27,2740,Fabricación de equipos eléctricos de iluminación
+3,27,2750,Fabricación de aparatos de uso doméstico
+3,27,2790,Fabricación de otros tipos de equipo eléctrico n.c.p.
+3,28,2811,"Fabricación de motores, turbinas, y partes para motores de combustión interna"
+3,28,2812,Fabricación de equipos de potencia hidráulica y neumática
+3,28,2813,"Fabricación de otras bombas, compresores, grifos y válvulas"
+3,28,2814,"Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión"
+3,28,2815,"Fabricación de hornos, hogares y quemadores industriales"
+3,28,2816,Fabricación de equipo de elevación y manipulación
+3,28,2817,Fabricación de maquinaria y equipo de oficina (excepto computadoras y equipo periférico)
+3,28,2818,Fabricación de herramientas manuales con motor
+3,28,2819,Fabricación de otros tipos de maquinaria y equipo de uso general n.c.p.
+3,28,2821,Fabricación de maquinaria agropecuaria y forestal
+3,28,2822,Fabricación de máquinas formadoras de metal y de máquinas herramienta
+3,28,2823,Fabricación de maquinaria para la metalurgia
+3,28,2824,Fabricación de maquinaria para explotación de minas y canteras y para obras de construcción
+3,28,2825,"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco"
+3,28,2826,"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros"
+3,28,2829,Fabricación de otros tipos de maquinaria y equipo de uso especial n.c.p.
+3,29,2910,Fabricación de vehículos automotores y sus motores
+3,29,2920,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques 
+3,29,2930,"Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores"
+3,30,3011,Construcción de barcos y de estructuras flotantes
+3,30,3012,Construcción de embarcaciones de recreo y deporte
+3,30,3020,Fabricación de locomotoras y de material rodante para ferrocarriles
+3,30,3030,"Fabricación de aeronaves, naves espaciales y de maquinaria conexa"
+3,30,3040,Fabricación de vehículos militares de combate
+3,30,3091,Fabricación de motocicletas
+3,30,3092,Fabricación de bicicletas y de sillas de ruedas para personas con discapacidad
+3,30,3099,Fabricación de otros tipos de equipo de transporte n.c.p.
+3,31,3110,Fabricación de muebles 
+3,31,3120,Fabricación de colchones y somieres
+3,32,3210,"Fabricación de joyas, bisutería y artículos conexos"
+3,32,3220,Fabricación de instrumentos musicales
+3,32,3230,Fabricación de artículos y equipo para la práctica del deporte
+3,32,3240,"Fabricación de juegos, juguetes y rompecabezas"
+3,32,3250,"Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario)"
+3,32,3290,Otras industrias manufactureras n.c.p.
+3,33,3311,Mantenimiento y reparación especializado de productos elaborados en metal
+3,33,3312,Mantenimiento y reparación especializado de maquinaria y equipo
+3,33,3313,Mantenimiento y reparación especializado de equipo electrónico y óptico
+3,33,3314,Mantenimiento y reparación especializado de equipo eléctrico
+3,33,3315,"Mantenimiento y reparación especializado de equipo de transporte, excepto los vehículos automotores, motocicletas y bicicletas"
+3,33,3319,Mantenimiento y reparación de otros tipos de equipos y sus componentes n.c.p.
+3,33,3320,Instalación especializada de maquinaria y equipo industrial 
+4,35,3511,Generación de energía eléctrica
+4,35,3512,Transmisión de energía eléctrica
+4,35,3513,Distribución de energía eléctrica
+4,35,3514,Comercialización de energía eléctrica
+4,35,3520,Producción de gas; distribución de combustibles gaseosos por tuberías
+4,35,3530,Suministro de vapor y aire acondicionado
+5,36,3600,"Captación, tratamiento y distribución de agua"
+5,37,3700,Evacuación y tratamiento de aguas residuales
+5,38,3811,Recolección de desechos no peligrosos
+5,38,3812,Recolección de desechos peligrosos
+5,38,3821,Tratamiento y disposición de desechos no peligrosos
+5,38,3822,Tratamiento y disposición de desechos peligrosos
+5,38,3830,Recuperación de materiales
+5,39,3900,Actividades de saneamiento ambiental y otros servicios de gestión de desechos
+6,41,4111,Construcción de edificios residenciales
+6,41,4112,Construcción de edificios no residenciales
+6,42,4210,Construcción de carreteras y vías de ferrocarril
+6,42,4220,Construcción de proyectos de servicio público
+6,42,4290,Construcción de otras obras de ingeniería civil
+6,43,4311,Demolición
+6,43,4312,Preparación del terreno
+6,43,4321,Instalaciones eléctricas
+6,43,4322,"Instalaciones de fontanería, calefacción y aire acondicionado"
+6,43,4329,Otras instalaciones especializadas
+6,43,4330,Terminación y acabado de edificios y obras de ingeniería civil
+6,43,4390,Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil
+7,45,4511,Comercio de vehículos automotores nuevos
+7,45,4512,Comercio de vehículos automotores usados
+7,45,4520,Mantenimiento y reparación de vehículos automotores
+7,45,4530,"Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores"
+7,45,4541,"Comercio de motocicletas y de sus partes, piezas y accesorios"
+7,45,4542,Mantenimiento y reparación de motocicletas y de sus partes y piezas
+7,46,4610,Comercio al por mayor a cambio de una retribución o por contrata
+7,46,4620,Comercio al por mayor de materias primas agropecuarias; animales vivos
+7,46,4631,Comercio al por mayor de productos alimenticios
+7,46,4632,Comercio al por mayor de bebidas y tabaco
+7,46,4641,"Comercio al por mayor de productos textiles, productos confeccionados para uso doméstico"
+7,46,4642,Comercio al por mayor de prendas de vestir
+7,46,4643,Comercio al por mayor de calzado
+7,46,4644,Comercio al por mayor de aparatos y equipo de uso doméstico
+7,46,4645,"Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador"
+7,46,4649,Comercio al por mayor de otros utensilios domésticos n.c.p.
+7,46,4651,"Comercio al por mayor de computadores, equipo periférico y programas de informática"
+7,46,4652,"Comercio al por mayor de equipo, partes y piezas electrónicos y de telecomunicaciones"
+7,46,4653,Comercio al por mayor de maquinaria y equipo agropecuarios
+7,46,4659,Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.
+7,46,4661,"Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos"
+7,46,4662,Comercio al por mayor de metales y productos metalíferos
+7,46,4663,"Comercio al por mayor de materiales de construcción, artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción"
+7,46,4664,"Comercio al por mayor de productos químicos básicos, cauchos y plásticos en formas primarias y productos químicos de uso agropecuario"
+7,46,4665,"Comercio al por mayor de desperdicios, desechos y chatarra"
+7,46,4669,Comercio al por mayor de otros productos n.c.p.
+7,46,4690,Comercio al por mayor no especializado
+7,47,4711,"Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por alimentos, bebidas o tabaco"
+7,47,4719,"Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas y tabaco"
+7,47,4721,Comercio al por menor de productos agrícolas para el consumo en establecimientos especializados
+7,47,4722,"Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados"
+7,47,4723,"Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados"
+7,47,4724,"Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados"
+7,47,4729,"Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados"
+7,47,4731,Comercio al por menor de combustible para automotores
+7,47,4732,"Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores"
+7,47,4741,"Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados"
+7,47,4742,"Comercio al por menor de equipos y aparatos de sonido y de video, en establecimientos especializados"
+7,47,4751,Comercio al por menor de productos textiles en establecimientos especializados
+7,47,4752,"Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados"
+7,47,4753,"Comercio al por menor de tapices, alfombras y cubrimientos para paredes y pisos en establecimientos especializados"
+7,47,4754,"Comercio al por menor de electrodomésticos y gasodomésticos de uso doméstico, muebles y equipos de iluminación"
+7,47,4755,Comercio al por menor de artículos y utensilios de uso doméstico
+7,47,4759,Comercio al por menor de otros artículos domésticos en establecimientos especializados
+7,47,4761,"Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados"
+7,47,4762,"Comercio al por menor de artículos deportivos, en establecimientos especializados "
+7,47,4769,Comercio al por menor de otros artículos culturales y de entretenimiento n.c.p. en establecimientos especializados
+7,47,4771,Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel) en establecimientos especializados
+7,47,4772,Comercio al por menor de todo tipo de calzado y artículos de cuero y sucedáneos del cuero en establecimientos especializados.
+7,47,4773,"Comercio al por menor de productos farmacéuticos y medicinales, cosméticos y artículos de tocador en establecimientos especializados"
+7,47,4774,Comercio al por menor de otros productos nuevos en establecimientos especializados
+7,47,4775,Comercio al por menor de artículos de segunda mano
+7,47,4781,"Comercio al por menor de alimentos, bebidas y tabaco, en puestos de venta móviles"
+7,47,4782,"Comercio al por menor de productos textiles, prendas de vestir y calzado, en puestos de venta móviles"
+7,47,4789,Comercio al por menor de otros productos en puestos de venta móviles
+7,47,4791,Comercio al por menor realizado a través de Internet
+7,47,4792,Comercio al por menor realizado a través de casas de venta o por correo
+7,47,4799,"Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados."
+8,49,4911,Transporte férreo de pasajeros
+8,49,4912,Transporte férreo de carga 
+8,49,4921,Transporte de pasajeros
+8,49,4922,Transporte mixto
+8,49,4923,Transporte de carga por carretera
+8,49,4930,Transporte por tuberías
+8,50,5011,Transporte de pasajeros marítimo y de cabotaje 
+8,50,5012,Transporte de carga marítimo y de cabotaje 
+8,50,5021,Transporte fluvial de pasajeros
+8,50,5022,Transporte fluvial de carga
+8,51,5111,Transporte aéreo nacional de pasajeros 
+8,51,5112,Transporte aéreo internacional de pasajeros 
+8,51,5121,Transporte aéreo nacional de carga 
+8,51,5122,Transporte aéreo internacional de carga 
+8,52,5210,Almacenamiento y depósito
+8,52,5221,"Actividades de estaciones, vías y servicios complementarios para el transporte terrestre"
+8,52,5222,Actividades de puertos y servicios complementarios para el transporte acuático
+8,52,5223,"Actividades de aeropuertos, servicios de navegación aérea y demás actividades conexas al transporte aéreo"
+8,52,5224,Manipulación de carga
+8,52,5229,Otras actividades complementarias al transporte
+8,53,5310,Actividades postales nacionales
+8,53,5320,Actividades de mensajería
+9,55,5511,Alojamiento en hoteles 
+9,55,5512,Alojamiento en apartahoteles
+9,55,5513,Alojamiento en centros vacacionales 
+9,55,5514,Alojamiento rural
+9,55,5519,Otros tipos de alojamientos para visitantes
+9,55,5520,Actividades de zonas de camping y parques para vehículos recreacionales
+9,55,5530,Servicio por horas 
+9,55,5590,Otros tipos de alojamiento n.c.p.
+9,56,5611,Expendio a la mesa de comidas preparadas
+9,56,5612,Expendio por autoservicio de comidas preparadas
+9,56,5613,Expendio de comidas preparadas en cafeterías
+9,56,5619,Otros tipos de expendio de comidas preparadas n.c.p.
+9,56,5621,Catering para eventos
+9,56,5629,Actividades de otros servicios de comidas
+9,56,5630,Expendio de bebidas alcohólicas para el consumo dentro del establecimiento
+10,58,5811,Edición de libros
+10,58,5812,Edición de directorios y listas de correo
+10,58,5813,"Edición de periódicos, revistas y otras publicaciones periódicas"
+10,58,5819,Otros trabajos de edición
+10,58,5820,Edición de programas de informática (software)
+10,59,5911,"Actividades de producción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión"
+10,59,5912,"Actividades de posproducción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión"
+10,59,5913,"Actividades de distribución de películas cinematográficas, videos, programas, anuncios y comerciales de televisión"
+10,59,5914,Actividades de exhibición de películas cinematográficas y videos
+10,59,5920,Actividades de grabación de sonido y edición de musica
+10,60,6010,Actividades de programación y transmisión en el servicio de radiodifusión sonora
+10,60,6020,Actividades de programación y transmisión de televisión
+10,61,6110,Actividades de telecomunicaciones alámbricas
+10,61,6120,Actividades de telecomunicaciones inalámbricas
+10,61,6130,Actividades de telecomunicación satelital
+10,61,6190,Otras actividades de telecomunicaciones
+10,62,6201,"Actividades de desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas)"
+10,62,6202,Actividades de consultoría informática y actividades de administración de instalaciones informáticas
+10,62,6209,Otras actividades de tecnologías de información y actividades de servicios informáticos
+10,63,6311,"Procesamiento de datos, alojamiento (hosting) y actividades relacionadas"
+10,63,6312,Portales web
+10,63,6391,Actividades de agencias de noticias
+10,63,6399,Otras actividades de servicio de información n.c.p.
+11,64,6411,Banco Central
+11,64,6412,Bancos comerciales
+11,64,6421,Actividades de las corporaciones financieras
+11,64,6422,Actividades de las compañías de financiamiento
+11,64,6423,Banca de segundo piso
+11,64,6424,Actividades de las cooperativas financieras
+11,64,6431,"Fideicomisos, fondos y entidades financieras similares"
+11,64,6432,Fondos de cesantías
+11,64,6491,Leasing financiero (arrendamiento financiero)
+11,64,6492,Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario
+11,64,6493,Actividades de compra de cartera o factoring
+11,64,6494,Otras actividades de distribución de fondos
+11,64,6495,Instituciones especiales oficiales
+11,64,6499,"Otras actividades de servicio financiero, excepto las de seguros y pensiones n.c.p."
+11,65,6511,Seguros generales 
+11,65,6512,Seguros de vida
+11,65,6513,Reaseguros
+11,65,6514,Capitalización
+11,65,6521,Servicios de seguros sociales de salud
+11,65,6522,Servicios de seguros sociales de riesgos profesionales
+11,65,6531,Régimen de prima media con prestación definida (RPM)
+11,65,6532,Régimen de ahorro individual (RAI)
+11,66,6611,Administración de mercados financieros
+11,66,6612,Corretaje de valores y de contratos de productos básicos
+11,66,6613,Otras actividades relacionadas con el mercado de valores
+11,66,6614,Actividades de las casas de cambio
+11,66,6615,Actividades de los profesionales de compra y venta de divisas
+11,66,6619,Otras actividades auxiliares de las actividades de servicios financieros n.c.p.
+11,66,6621,Actividades de agentes y corredores de seguros
+11,66,6629,"Evaluación de riesgos y daños, y otras actividades de servicios auxiliares"
+11,66,6630,Actividades de administración de fondos
+12,68,6810,Actividades inmobiliarias realizadas con bienes propios o arrendados
+12,68,6820,Actividades inmobiliarias realizadas a cambio de una retribución o por contrata 
+13,69,6910,Actividades jurídicas
+13,69,6920,"Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria"
+13,70,7010,Actividades de administración empresarial
+13,70,7020,Actividades de consultaría de gestión
+13,71,7110,Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica
+13,71,7120,Ensayos y análisis técnicos
+13,72,7210,Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería 
+13,72,7220,Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades
+13,73,7310,Publicidad
+13,73,7320,Estudios de mercado y realización de encuestas de opinión pública
+13,74,7410,Actividades especializadas de diseño 
+13,74,7420,Actividades de fotografía
+13,74,7490,"Otras actividades profesionales, científicas y técnicas n.c.p."
+13,75,7500,Actividades veterinarias
+14,77,7710,Alquiler y arrendamiento de vehículos automotores
+14,77,7721,Alquiler y arrendamiento de equipo recreativo y deportivo
+14,77,7722,Alquiler de videos y discos 
+14,77,7729,Alquiler y arrendamiento de otros efectos personales y enseres domésticos n.c.p.
+14,77,7730,"Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p."
+14,77,7740,"Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor"
+14,78,7810,Actividades de agencias de empleo
+14,78,7820,Actividades de agencias de empleo temporal
+14,78,7830,Otras actividades de suministro de recurso humano
+14,79,7911,Actividades de las agencias de viaje
+14,79,7912,Actividades de operadores turísticos
+14,79,7990,Otros servicios de reserva y actividades relacionadas
+14,80,8010,Actividades de seguridad privada
+14,80,8020,Actividades de servicios de sistemas de seguridad
+14,80,8030,Actividades de detectives e investigadores privados
+14,81,8110,Actividades combinadas de apoyo a instalaciones
+14,81,8121,Limpieza general interior de edificios
+14,81,8129,Otras actividades de limpieza de edificios e instalaciones industriales
+14,81,8130,Actividades de paisajismo y servicios de mantenimiento conexos
+14,82,8211,Actividades combinadas de servicios administrativos de oficina
+14,82,8219,"Fotocopiado, preparación de documentos y otras actividades especializadas de apoyo a oficina"
+14,82,8220,Actividades de centros de llamadas (Call center)
+14,82,8230,Organización de convenciones y eventos comerciales
+14,82,8291,Actividades de agencias de cobranza y oficinas de calificación crediticia
+14,82,8292,Actividades de envase y empaque
+14,82,8299,Otras actividades de servicio de apoyo a las empresas n.c.p.
+15,84,8411,Actividades legislativas de la administración pública
+15,84,8412,Actividades ejecutivas de la administración pública
+15,84,8413,"Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social "
+15,84,8414,Actividades reguladoras y facilitadoras de la actividad económica
+15,84,8415,Actividades de los otros órganos de control
+15,84,8421,Relaciones exteriores 
+15,84,8422,Actividades de defensa
+15,84,8423,Orden público y actividades de seguridad
+15,84,8424,Administración de justicia
+15,84,8430,Actividades de planes de seguridad social de afiliación obligatoria
+16,85,8511,Educación de la primera infancia
+16,85,8512,Educación preescolar
+16,85,8513,Educación básica primaria
+16,85,8521,Educación básica secundaria 
+16,85,8522,Educación media académica
+16,85,8523,Educación media técnica y de formación laboral
+16,85,8530,Establecimientos que combinan diferentes niveles de educación 
+16,85,8541,Educación técnica profesional
+16,85,8542,Educación tecnológica
+16,85,8543,Educación de instituciones universitarias o de escuelas tecnológicas
+16,85,8544,Educación de universidades
+16,85,8551,Formación académica no formal 
+16,85,8552,Enseñanza deportiva y recreativa
+16,85,8553,Enseñanza cultural
+16,85,8559,Otros tipos de educación n.c.p.
+16,85,8560,Actividades de apoyo a la educación
+17,86,8610,"Actividades de hospitales y clínicas, con internación"
+17,86,8621,"Actividades de la práctica médica, sin internación"
+17,86,8622,Actividades de la práctica odontológica
+17,86,8691,Actividades de apoyo diagnóstico
+17,86,8692,Actividades de apoyo terapéutico
+17,86,8699,Otras actividades de atención de la salud humana
+17,87,8710,Actividades de atención residencial medicalizada de tipo general
+17,87,8720,"Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas"
+17,87,8730,Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas
+17,87,8790,Otras actividades de atención en instituciones con alojamiento
+17,88,8810,Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas
+17,88,8890,Otras actividades de asistencia social sin alojamiento
+18,90,9001,Creación literaria
+18,90,9002,Creación musical
+18,90,9003,Creación teatral
+18,90,9004,Creación audiovisual
+18,90,9005,Artes plásticas y visuales
+18,90,9006,Actividades teatrales
+18,90,9007,Actividades de espectáculos musicales en vivo
+18,90,9008,Otras actividades de espectáculos en vivo
+18,91,9101,Actividades de bibliotecas y archivos
+18,91,9102,"Actividades y funcionamiento de museos, conservación de edificios y sitios históricos"
+18,91,9103,"Actividades de jardines botánicos, zoológicos y reservas naturales"
+18,92,9200,Actividades de juegos de azar y apuestas
+18,93,9311,Gestión de instalaciones deportivas
+18,93,9312,Actividades de clubes deportivos
+18,93,9319,Otras actividades deportivas
+18,93,9321,Actividades de parques de atracciones y parques temáticos
+18,93,9329,Otras actividades recreativas y de esparcimiento n.c.p.
+19,94,9411,Actividades de asociaciones empresariales y de empleadores
+19,94,9412,Actividades de asociaciones profesionales
+19,94,9420,Actividades de sindicatos de empleados
+19,94,9491,Actividades de asociaciones religiosas
+19,94,9492,Actividades de asociaciones políticas
+19,94,9499,Actividades de otras asociaciones n.c.p.
+19,95,9511,Mantenimiento y reparación de computadores y de equipo periférico
+19,95,9511,Mantenimiento y reparación de computadores y de equipo periférico
+19,95,9512,Mantenimiento y reparación de equipos de comunicación
+19,95,9512,Mantenimiento y reparación de equipos de comunicación
+19,95,9521,Mantenimiento y reparación de aparatos electrónicos de consumo
+19,95,9521,Mantenimiento y reparación de aparatos electrónicos de consumo
+19,95,9522,Mantenimiento y reparación de aparatos y equipos domésticos y de jardinería 
+19,95,9522,Mantenimiento y reparación de aparatos y equipos domésticos y de jardinería 
+19,95,9523,Reparación de calzado y artículos de cuero
+19,95,9523,Reparación de calzado y artículos de cuero
+19,95,9524,Reparación de muebles y accesorios para el hogar
+19,95,9524,Reparación de muebles y accesorios para el hogar
+19,95,9529,Mantenimiento y reparación de otros efectos personales y enseres domésticos
+19,95,9529,Mantenimiento y reparación de otros efectos personales y enseres domésticos
+19,96,9601,"Lavado y limpieza, incluso la limpieza en seco, de productos textiles y de piel"
+19,96,9602,Peluquería y otros tratamientos de belleza
+19,96,9603,Pompas fúnebres y actividades relacionadas
+19,96,9609,Otras actividades de servicios personales n.c.p.
+20,97,9700,Actividades de los hogares individuales como empleadores de personal doméstico
+20,98,9810,Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio
+20,98,9820,Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio
+21,99,9900,Actividades de organizaciones y entidades extraterritoriales
