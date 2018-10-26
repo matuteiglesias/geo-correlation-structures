@@ -1,0 +1,345 @@
+,reg_id,reg_name,comuna_id,comuna_cus,comuna_tax,comuna_nam,prov_name,prov_id,area_name,area_id,LLMACode
+0,1.0,Tarapacá,113.0,1101,1201.0,Iquique,Iquique,11.0,Iquique,11.0,1101
+1,1.0,Tarapacá,5.0,1107,1211.0,Alto Hospicio,Iquique,11.0,Iquique,11.0,1101
+2,1.0,Tarapacá,226.0,1401,1204.0,Pozo Almonte,Tamarugal,14.0,Tamarugal,14.0,1101
+3,1.0,Tarapacá,26.0,1402,1208.0,Camiña,Tamarugal,14.0,Tamarugal,14.0,1101
+4,1.0,Tarapacá,58.0,1403,1210.0,Colchane,Tamarugal,14.0,Tamarugal,14.0,1101
+5,1.0,Tarapacá,108.0,1404,1206.0,Huara,Tamarugal,14.0,Tamarugal,14.0,1101
+6,1.0,Tarapacá,217.0,1405,1203.0,Pica,Tamarugal,14.0,Tamarugal,14.0,1101
+7,2.0,Antofagasta,9.0,2101,2201.0,Antofagasta,Antofagasta,21.0,Antofagasta,21.0,2101
+8,2.0,Antofagasta,170.0,2102,2203.0,Mejillones,Antofagasta,21.0,Antofagasta,21.0,2101
+9,2.0,Antofagasta,309.0,2103,2206.0,Sierra Gorda,Antofagasta,21.0,Antofagasta,21.0,2101
+10,2.0,Antofagasta,313.0,2104,2202.0,Taltal,Antofagasta,21.0,Antofagasta,21.0,2101
+11,2.0,Antofagasta,19.0,2201,2301.0,Calama,El Loa,22.0,El Loa,22.0,2201
+12,2.0,Antofagasta,189.0,2202,2302.0,Ollague,El Loa,22.0,El Loa,22.0,2201
+13,2.0,Antofagasta,189.0,2202,2302.0,Ollague,El Loa,22.0,El Loa,22.0,2201
+14,2.0,Antofagasta,297.0,2203,2303.0,San Pedro de Atacama,El Loa,22.0,El Loa,22.0,2201
+15,2.0,Antofagasta,321.0,2301,2101.0,Tocopilla,Tocopilla,23.0,Tocopilla,23.0,2301
+16,2.0,Antofagasta,165.0,2302,2103.0,María Elena,Tocopilla,23.0,Tocopilla,23.0,2301
+17,3.0,Atacama,68.0,3101,3201.0,Copiapó,Copiapó,31.0,Copiapó,31.0,3101
+18,3.0,Atacama,21.0,3102,3202.0,Caldera,Copiapó,31.0,Copiapó,31.0,3101
+19,3.0,Atacama,317.0,3103,3203.0,Tierra Amarilla,Copiapó,31.0,Copiapó,31.0,3101
+20,3.0,Atacama,39.0,3201,3101.0,Chañaral,Chañaral,32.0,Chañaral,32.0,3202
+21,3.0,Atacama,81.0,3202,3102.0,Diego de Almagro,Chañaral,32.0,Chañaral,32.0,3202
+22,3.0,Atacama,330.0,3301,3301.0,Vallenar,Huasco,33.0,Huasco,33.0,3301
+23,3.0,Atacama,4.0,3302,3304.0,Alto del Carmen,Huasco,33.0,Huasco,33.0,3301
+24,3.0,Atacama,93.0,3303,3302.0,Freirina,Huasco,33.0,Huasco,33.0,3301
+25,3.0,Atacama,109.0,3304,3303.0,Huasco,Huasco,33.0,Huasco,33.0,3301
+26,4.0,Coquimbo,126.0,4101,4101.0,La Serena,Elqui,41.0,Elqui,41.0,4101
+27,4.0,Coquimbo,69.0,4102,4103.0,Coquimbo,Elqui,41.0,Elqui,41.0,4101
+28,4.0,Coquimbo,7.0,4103,4104.0,Andacollo,Elqui,41.0,Elqui,41.0,4101
+29,4.0,Coquimbo,122.0,4104,4102.0,La Higuera,Elqui,41.0,Elqui,41.0,4101
+30,4.0,Coquimbo,195.0,4105,4106.0,Paihuano,Elqui,41.0,Elqui,41.0,4101
+31,4.0,Coquimbo,334.0,4106,4105.0,Vicuña,Elqui,41.0,Elqui,41.0,4101
+32,4.0,Coquimbo,111.0,4201,4301.0,Illapel,Choapa,42.0,Choapa,42.0,4201
+33,4.0,Coquimbo,27.0,4202,4304.0,Canela,Choapa,42.0,Choapa,42.0,4201
+34,4.0,Coquimbo,156.0,4203,4303.0,Los Vilos,Choapa,42.0,Choapa,42.0,4201
+35,4.0,Coquimbo,278.0,4204,4302.0,Salamanca,Choapa,42.0,Choapa,42.0,4201
+36,4.0,Coquimbo,192.0,4301,4201.0,Ovalle,Limarí,43.0,Limarí,43.0,4301
+37,4.0,Coquimbo,62.0,4302,4205.0,Combarbalá,Limarí,43.0,Limarí,43.0,4301
+38,4.0,Coquimbo,174.0,4303,4203.0,Monte Patria,Limarí,43.0,Limarí,43.0,4301
+39,4.0,Coquimbo,237.0,4304,4204.0,Punitaqui,Limarí,43.0,Limarí,43.0,4301
+40,4.0,Coquimbo,271.0,4305,4206.0,Río Hurtado,Limarí,43.0,Limarí,43.0,4301
+41,5.0,Valparaíso,331.0,5101,5301.0,Valparaíso,Valparaíso,51.0,Valparaíso,51.0,5108
+42,5.0,Valparaíso,31.0,5102,5305.0,Casablanca,Valparaíso,51.0,Valparaíso,51.0,5108
+43,5.0,Valparaíso,63.0,5103,5309.0,Con Cón,Valparaíso,51.0,Valparaíso,51.0,5108
+44,5.0,Valparaíso,229.0,5105,5307.0,Puchuncaví,Valparaíso,51.0,Valparaíso,51.0,5108
+45,5.0,Valparaíso,253.0,5106,5304.0,Quilpué,Marga Marga,58.0,Marga Marga,58.0,5108
+46,5.0,Valparaíso,257.0,5107,5306.0,Quintero,Valparaíso,51.0,Valparaíso,51.0,5108
+47,5.0,Valparaíso,337.0,5108,5303.0,Villa Alemana,Marga Marga,58.0,Marga Marga,58.0,5108
+48,5.0,Valparaíso,339.0,5109,5302.0,Viña del Mar,Valparaíso,51.0,Valparaíso,51.0,5108
+49,5.0,Valparaíso,151.0,5301,5701.0,Los Andes,Los Andes,53.0,Los Andes,53.0,5701
+50,5.0,Valparaíso,24.0,5302,5702.0,Calle Larga,Los Andes,53.0,Los Andes,53.0,5701
+51,5.0,Valparaíso,268.0,5303,5704.0,Rinconada,Los Andes,53.0,Los Andes,53.0,5701
+52,5.0,Valparaíso,283.0,5304,5703.0,San Esteban,Los Andes,53.0,Los Andes,53.0,5701
+53,5.0,Valparaíso,123.0,5401,5201.0,La Ligua,Petorca,54.0,Petorca,54.0,5401
+54,5.0,Valparaíso,16.0,5402,5203.0,Cabildo,Petorca,54.0,Petorca,54.0,5402
+55,5.0,Valparaíso,202.0,5403,5205.0,Papudo,Petorca,54.0,Petorca,54.0,5401
+56,5.0,Valparaíso,215.0,5404,5202.0,Petorca,Petorca,54.0,Petorca,54.0,5402
+57,5.0,Valparaíso,344.0,5405,5204.0,Zapallar,Petorca,54.0,Petorca,54.0,5401
+58,5.0,Valparaíso,252.0,5501,5501.0,Quillota,Quillota,55.0,Quillota,55.0,5501
+59,5.0,Valparaíso,22.0,5502,5504.0,Calera,Quillota,55.0,Quillota,55.0,5501
+60,5.0,Valparaíso,103.0,5503,5503.0,Hijuelas,Quillota,55.0,Quillota,55.0,5501
+61,5.0,Valparaíso,118.0,5504,5505.0,La Cruz,Quillota,55.0,Quillota,55.0,5501
+62,5.0,Valparaíso,138.0,5505,5506.0,Limache,Marga Marga,58.0,Marga Marga,58.0,5108
+63,5.0,Valparaíso,183.0,5506,5502.0,Nogales,Quillota,55.0,Quillota,55.0,5501
+64,5.0,Valparaíso,190.0,5507,5507.0,Olmué,Marga Marga,58.0,Marga Marga,58.0,5108
+65,5.0,Valparaíso,279.0,5601,5401.0,San Antonio,San Antonio,56.0,San Antonio,56.0,5601
+66,5.0,Valparaíso,1.0,5602,5406.0,Algarrobo,San Antonio,56.0,San Antonio,56.0,5601
+67,5.0,Valparaíso,30.0,5603,5403.0,Cartagena,San Antonio,56.0,San Antonio,56.0,5601
+68,5.0,Valparaíso,86.0,5604,5405.0,El Quisco,San Antonio,56.0,San Antonio,56.0,5601
+69,5.0,Valparaíso,87.0,5605,5404.0,El Tabo,San Antonio,56.0,San Antonio,56.0,5601
+70,5.0,Valparaíso,308.0,5606,5402.0,Santo Domingo,San Antonio,56.0,San Antonio,56.0,5601
+71,5.0,Valparaíso,285.0,5701,5601.0,San Felipe,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+72,5.0,Valparaíso,33.0,5702,5603.0,Catemu,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+73,5.0,Valparaíso,142.0,5703,5606.0,Llay Llay,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+74,5.0,Valparaíso,201.0,5704,5602.0,Panquehue,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+75,5.0,Valparaíso,242.0,5705,5604.0,Putaendo,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+76,5.0,Valparaíso,306.0,5706,5605.0,Santa María,San Felipe de Aconcagua,57.0,San Felipe de Aconcagua,57.0,5701
+77,6.0,O'Higgins,259.0,6101,6101.0,Rancagua,Cachapoal,61.0,Cachapoal,61.0,6101
+78,6.0,O'Higgins,52.0,6102,6107.0,Codegua,Cachapoal,61.0,Cachapoal,61.0,6101
+79,6.0,O'Higgins,56.0,6103,6116.0,Coinco,Cachapoal,61.0,Cachapoal,61.0,6101
+80,6.0,O'Higgins,61.0,6104,6106.0,Coltauco,Cachapoal,61.0,Cachapoal,61.0,6101
+81,6.0,O'Higgins,82.0,6105,6105.0,Doñihue,Cachapoal,61.0,Cachapoal,61.0,6101
+82,6.0,O'Higgins,101.0,6106,6103.0,Graneros,Cachapoal,61.0,Cachapoal,61.0,6101
+83,6.0,O'Higgins,133.0,6107,6109.0,Las Cabras,Cachapoal,61.0,Cachapoal,61.0,6106
+84,6.0,O'Higgins,159.0,6108,6102.0,Machalí,Cachapoal,61.0,Cachapoal,61.0,6101
+85,6.0,O'Higgins,163.0,6109,6115.0,Malloa,Cachapoal,61.0,Cachapoal,61.0,6112
+86,6.0,O'Higgins,175.0,6110,6104.0,San Francisco de Mostazal,Cachapoal,61.0,Cachapoal,61.0,6101
+87,6.0,O'Higgins,188.0,6111,6114.0,Olivar,Cachapoal,61.0,Cachapoal,61.0,6101
+88,6.0,O'Higgins,216.0,6112,6108.0,Peumo,Cachapoal,61.0,Cachapoal,61.0,6106
+89,6.0,O'Higgins,218.0,6113,6111.0,Pichidegua,Cachapoal,61.0,Cachapoal,61.0,6112
+90,6.0,O'Higgins,255.0,6114,6117.0,Quinta de Tilcoco,Cachapoal,61.0,Cachapoal,61.0,6112
+91,6.0,O'Higgins,265.0,6115,6112.0,Rengo,Cachapoal,61.0,Cachapoal,61.0,6112
+92,6.0,O'Higgins,266.0,6116,6113.0,Requínoa,Cachapoal,61.0,Cachapoal,61.0,6112
+93,6.0,O'Higgins,302.0,6117,6110.0,San Vicente,Cachapoal,61.0,Cachapoal,61.0,6112
+94,6.0,O'Higgins,219.0,6201,6301.0,Pichilemu,Cardenal Caro,62.0,Cardenal Caro,62.0,6201
+95,6.0,O'Higgins,119.0,6202,6304.0,La Estrella,Cardenal Caro,62.0,Cardenal Caro,62.0,6304
+96,6.0,O'Higgins,140.0,6203,6303.0,Litueche,Cardenal Caro,62.0,Cardenal Caro,62.0,6201
+97,6.0,O'Higgins,164.0,6204,6305.0,Marchigüe,Cardenal Caro,62.0,Cardenal Caro,62.0,6304
+98,6.0,O'Higgins,180.0,6205,6302.0,Navidad,Cardenal Caro,62.0,Cardenal Caro,62.0,6201
+99,6.0,O'Higgins,203.0,6206,6306.0,Paredones,Cardenal Caro,62.0,Cardenal Caro,62.0,6201
+100,6.0,O'Higgins,286.0,6301,6201.0,San Fernando,Colchagua,63.0,Colchagua,63.0,6301
+101,6.0,O'Higgins,40.0,6302,6209.0,Chépica,Colchagua,63.0,Colchagua,63.0,6307
+102,6.0,O'Higgins,45.0,6303,6202.0,Chimbarongo,Colchagua,63.0,Colchagua,63.0,6301
+103,6.0,O'Higgins,146.0,6304,6206.0,Lolol,Colchagua,63.0,Colchagua,63.0,6307
+104,6.0,O'Higgins,178.0,6305,6203.0,Nancagua,Colchagua,63.0,Colchagua,63.0,6307
+105,6.0,O'Higgins,199.0,6306,6207.0,Palmilla,Colchagua,63.0,Colchagua,63.0,6307
+106,6.0,O'Higgins,213.0,6307,6208.0,Peralillo,Colchagua,63.0,Colchagua,63.0,6304
+107,6.0,O'Higgins,223.0,6308,6204.0,Placilla,Colchagua,63.0,Colchagua,63.0,6307
+108,6.0,O'Higgins,236.0,6309,6214.0,Pumanque,Colchagua,63.0,Colchagua,63.0,6304
+109,6.0,O'Higgins,304.0,6310,6205.0,Santa Cruz,Colchagua,63.0,Colchagua,63.0,6307
+110,7.0,Maule,311.0,7101,7201.0,Talca,Talca,71.0,Talca,71.0,7101
+111,7.0,Maule,66.0,7102,7208.0,Constitución,Talca,71.0,Talca,71.0,7102
+112,7.0,Maule,78.0,7103,7207.0,Curepto,Talca,71.0,Talca,71.0,7103
+113,7.0,Maule,88.0,7104,7209.0,Empedrado,Talca,71.0,Talca,71.0,7102
+114,7.0,Maule,168.0,7105,7206.0,Maule,Talca,71.0,Talca,71.0,7101
+115,7.0,Maule,206.0,7106,7203.0,Pelarco,Talca,71.0,Talca,71.0,7101
+116,7.0,Maule,209.0,7107,7205.0,Pencahue,Talca,71.0,Talca,71.0,7101
+117,7.0,Maule,270.0,7108,7204.0,Río Claro,Talca,71.0,Talca,71.0,7301
+118,7.0,Maule,282.0,7109,7202.0,San Clemente,Talca,71.0,Talca,71.0,7101
+119,7.0,Maule,299.0,7110,7210.0,San Rafael,Talca,71.0,Talca,71.0,7101
+120,7.0,Maule,34.0,7201,7401.0,Cauquenes,Cauquenes,72.0,Cauquenes,72.0,7201
+121,7.0,Maule,38.0,7202,7403.0,Chanco,Cauquenes,72.0,Cauquenes,72.0,7102
+122,7.0,Maule,207.0,7203,7402.0,Pelluhue,Cauquenes,72.0,Cauquenes,72.0,7201
+123,7.0,Maule,79.0,7301,7101.0,Curicó,Curicó,73.0,Curicó,73.0,7301
+124,7.0,Maule,105.0,7302,7107.0,Hualañé,Curicó,73.0,Curicó,73.0,7103
+125,7.0,Maule,137.0,7303,7105.0,Licantén,Curicó,73.0,Curicó,73.0,7103
+126,7.0,Maule,173.0,7304,7108.0,Molina,Curicó,73.0,Curicó,73.0,7301
+127,7.0,Maule,261.0,7305,7104.0,Rauco,Curicó,73.0,Curicó,73.0,7301
+128,7.0,Maule,275.0,7306,7103.0,Romeral,Curicó,73.0,Curicó,73.0,7301
+129,7.0,Maule,277.0,7307,7109.0,Sagrada Familia,Curicó,73.0,Curicó,73.0,7301
+130,7.0,Maule,315.0,7308,7102.0,Teno,Curicó,73.0,Curicó,73.0,7301
+131,7.0,Maule,332.0,7309,7106.0,Vichuquén,Curicó,73.0,Curicó,73.0,7103
+132,7.0,Maule,139.0,7401,7301.0,Linares,Linares,74.0,Linares,74.0,7401
+133,7.0,Maule,57.0,7402,7303.0,Colbún,Linares,74.0,Linares,74.0,7401
+134,7.0,Maule,148.0,7403,7304.0,Longaví,Linares,74.0,Linares,74.0,7401
+135,7.0,Maule,204.0,7404,7305.0,Parral,Linares,74.0,Linares,74.0,7404
+136,7.0,Maule,267.0,7405,7306.0,Retiro,Linares,74.0,Linares,74.0,7404
+137,7.0,Maule,289.0,7406,7310.0,San Javier,Linares,74.0,Linares,74.0,7406
+138,7.0,Maule,336.0,7407,7309.0,Villa Alegre,Linares,74.0,Linares,74.0,7406
+139,7.0,Maule,341.0,7408,7302.0,Yerbas Buenas,Linares,74.0,Linares,74.0,7401
+140,8.0,Bío Bío,64.0,8101,8201.0,Concepción,Concepción,81.0,Concepción,81.0,8101
+141,8.0,Bío Bío,70.0,8102,8207.0,Coronel,Concepción,81.0,Concepción,81.0,8101
+142,8.0,Bío Bío,41.0,8103,8211.0,Chiguayante,Concepción,81.0,Concepción,81.0,8101
+143,8.0,Bío Bío,91.0,8104,8204.0,Florida,Concepción,81.0,Concepción,81.0,8101
+144,8.0,Bío Bío,107.0,8105,8203.0,Hualqui,Concepción,81.0,Concepción,81.0,8101
+145,8.0,Bío Bío,157.0,8106,8208.0,Lota,Concepción,81.0,Concepción,81.0,8101
+146,8.0,Bío Bío,210.0,8107,8202.0,Penco,Concepción,81.0,Concepción,81.0,8101
+147,8.0,Bío Bío,298.0,8108,8210.0,San Pedro de la Paz,Concepción,81.0,Concepción,81.0,8101
+148,8.0,Bío Bío,305.0,8109,8209.0,Santa Juana,Concepción,81.0,Concepción,81.0,8101
+149,8.0,Bío Bío,312.0,8110,8206.0,Talcahuano,Concepción,81.0,Concepción,81.0,8101
+150,8.0,Bío Bío,323.0,8111,8205.0,Tomé,Concepción,81.0,Concepción,81.0,8101
+151,8.0,Bío Bío,106.0,8112,8212.0,Hualpén,Concepción,81.0,Concepción,81.0,8101
+152,8.0,Bío Bío,136.0,8201,8303.0,Lebu,Arauco,82.0,Arauco,82.0,8202
+153,8.0,Bío Bío,11.0,8202,8301.0,Arauco,Arauco,82.0,Arauco,82.0,8202
+154,8.0,Bío Bío,28.0,8203,8305.0,Cañete,Arauco,82.0,Arauco,82.0,8203
+155,8.0,Bío Bío,67.0,8204,8306.0,Contulmo,Arauco,82.0,Arauco,82.0,8203
+156,8.0,Bío Bío,76.0,8205,8302.0,Curanilahue,Arauco,82.0,Arauco,82.0,8202
+157,8.0,Bío Bío,150.0,8206,8304.0,Los Álamos,Arauco,82.0,Arauco,82.0,8202
+158,8.0,Bío Bío,320.0,8207,8307.0,Tirúa,Arauco,82.0,Arauco,82.0,8203
+159,8.0,Bío Bío,152.0,8301,8401.0,Los Ángeles,Biobío,83.0,Biobío,83.0,8301
+160,8.0,Bío Bío,10.0,8302,8413.0,Antuco,Biobío,83.0,Biobío,83.0,8301
+161,8.0,Bío Bío,18.0,8303,8410.0,Cabrero,Biobío,83.0,Biobío,83.0,8401
+162,8.0,Bío Bío,131.0,8304,8403.0,Laja,Biobío,83.0,Biobío,83.0,8301
+163,8.0,Bío Bío,176.0,8305,8407.0,Mulchén,Biobío,83.0,Biobío,83.0,8301
+164,8.0,Bío Bío,177.0,8306,8405.0,Nacimiento,Biobío,83.0,Biobío,83.0,8301
+165,8.0,Bío Bío,181.0,8307,8406.0,Negrete,Biobío,83.0,Biobío,83.0,8301
+166,8.0,Bío Bío,248.0,8308,8408.0,Quilaco,Biobío,83.0,Biobío,83.0,8301
+167,8.0,Bío Bío,250.0,8309,8404.0,Quilleco,Biobío,83.0,Biobío,83.0,8301
+168,8.0,Bío Bío,301.0,8310,8411.0,San Rosendo,Biobío,83.0,Biobío,83.0,8301
+169,8.0,Bío Bío,303.0,8311,8402.0,Santa Bárbara,Biobío,83.0,Biobío,83.0,8301
+170,8.0,Bío Bío,328.0,8312,8412.0,Tucapel,Biobío,83.0,Biobío,83.0,8416
+171,8.0,Bío Bío,342.0,8313,8409.0,Yumbel,Biobío,83.0,Biobío,83.0,8401
+172,8.0,Bío Bío,3.0,8314,8414.0,Alto Bío Bío,Biobío,83.0,Biobío,83.0,8301
+173,8.0,Bío Bío,43.0,8401,8101.0,Chillán,Ñuble,84.0,Ñuble,84.0,8401
+174,8.0,Bío Bío,15.0,8402,8113.0,Bulnes,Ñuble,84.0,Ñuble,84.0,8401
+175,8.0,Bío Bío,49.0,8403,8107.0,Cobquecura,Ñuble,84.0,Ñuble,84.0,8404
+176,8.0,Bío Bío,53.0,8404,8120.0,Coelemu,Ñuble,84.0,Ñuble,84.0,8404
+177,8.0,Bío Bío,55.0,8405,8103.0,Coihueco,Ñuble,84.0,Ñuble,84.0,8401
+178,8.0,Bío Bío,44.0,8406,8121.0,Chillán Viejo,Ñuble,84.0,Ñuble,84.0,8401
+179,8.0,Bío Bío,84.0,8407,8118.0,El Carmen,Ñuble,84.0,Ñuble,84.0,8401
+180,8.0,Bío Bío,182.0,8408,8105.0,Ninhue,Ñuble,84.0,Ñuble,84.0,8401
+181,8.0,Bío Bío,185.0,8409,8110.0,Ñiquén,Ñuble,84.0,Ñuble,84.0,8401
+182,8.0,Bío Bío,208.0,8410,8117.0,Pemuco,Ñuble,84.0,Ñuble,84.0,8401
+183,8.0,Bío Bío,220.0,8411,8102.0,Pinto,Ñuble,84.0,Ñuble,84.0,8401
+184,8.0,Bío Bío,224.0,8412,8106.0,Portezuelo,Ñuble,84.0,Ñuble,84.0,8401
+185,8.0,Bío Bío,251.0,8413,8115.0,Quillón,Ñuble,84.0,Ñuble,84.0,8401
+186,8.0,Bío Bío,258.0,8414,8104.0,Quirihue,Ñuble,84.0,Ñuble,84.0,8404
+187,8.0,Bío Bío,260.0,8415,8119.0,Ránquil,Ñuble,84.0,Ñuble,84.0,8401
+188,8.0,Bío Bío,281.0,8416,8109.0,San Carlos,Ñuble,84.0,Ñuble,84.0,8401
+189,8.0,Bío Bío,284.0,8417,8111.0,San Fabián,Ñuble,84.0,Ñuble,84.0,7404
+190,8.0,Bío Bío,288.0,8418,8114.0,San Ignacio,Ñuble,84.0,Ñuble,84.0,8401
+191,8.0,Bío Bío,294.0,8419,8112.0,San Nicolás,Ñuble,84.0,Ñuble,84.0,8401
+192,8.0,Bío Bío,327.0,8420,8108.0,Trehuaco,Ñuble,84.0,Ñuble,84.0,8404
+193,8.0,Bío Bío,343.0,8421,8116.0,Yungay,Ñuble,84.0,Ñuble,84.0,8416
+194,9.0,Araucanía,314.0,9101,9201.0,Temuco,Cautín,91.0,Cautín,91.0,9101
+195,9.0,Araucanía,29.0,9102,9209.0,Carahue,Cautín,91.0,Cautín,91.0,9102
+196,9.0,Araucanía,72.0,9103,9204.0,Cunco,Cautín,91.0,Cautín,91.0,9101
+197,9.0,Araucanía,77.0,9104,9218.0,Curarrehue,Cautín,91.0,Cautín,91.0,9117
+198,9.0,Araucanía,92.0,9105,9203.0,Freire,Cautín,91.0,Cautín,91.0,9101
+199,9.0,Araucanía,98.0,9106,9207.0,Galvarino,Cautín,91.0,Cautín,91.0,9210
+200,9.0,Araucanía,100.0,9107,9212.0,Gorbea,Cautín,91.0,Cautín,91.0,9101
+201,9.0,Araucanía,135.0,9108,9205.0,Lautaro,Cautín,91.0,Cautín,91.0,9101
+202,9.0,Araucanía,147.0,9109,9214.0,Loncoche,Cautín,91.0,Cautín,91.0,9117
+203,9.0,Araucanía,171.0,9110,9217.0,Melipeuco,Cautín,91.0,Cautín,91.0,9101
+204,9.0,Araucanía,184.0,9111,9208.0,Nueva Imperial,Cautín,91.0,Cautín,91.0,9101
+205,9.0,Araucanía,194.0,9112,9220.0,Padre Las Casas,Cautín,91.0,Cautín,91.0,9101
+206,9.0,Araucanía,214.0,9113,9206.0,Perquenco,Cautín,91.0,Cautín,91.0,9101
+207,9.0,Araucanía,222.0,9114,9211.0,Pitrufquén,Cautín,91.0,Cautín,91.0,9101
+208,9.0,Araucanía,230.0,9115,9216.0,Pucón,Cautín,91.0,Cautín,91.0,9117
+209,9.0,Araucanía,276.0,9116,9210.0,Saavedra,Cautín,91.0,Cautín,91.0,9102
+210,9.0,Araucanía,316.0,9117,9219.0,Teodoro Schmidt,Cautín,91.0,Cautín,91.0,9101
+211,9.0,Araucanía,322.0,9118,9213.0,Toltén,Cautín,91.0,Cautín,91.0,9101
+212,9.0,Araucanía,335.0,9119,9202.0,Vilcún,Cautín,91.0,Cautín,91.0,9101
+213,9.0,Araucanía,338.0,9120,9215.0,Villarrica,Cautín,91.0,Cautín,91.0,9117
+214,9.0,Araucanía,46.0,9121,9221.0,Cholchol,Cautín,91.0,Cautín,91.0,9101
+215,9.0,Araucanía,8.0,9201,9101.0,Angol,Malleco,92.0,Malleco,92.0,9201
+216,9.0,Araucanía,60.0,9202,9105.0,Collipulli,Malleco,92.0,Malleco,92.0,9201
+217,9.0,Araucanía,73.0,9203,9110.0,Curacautín,Malleco,92.0,Malleco,92.0,9203
+218,9.0,Araucanía,89.0,9204,9106.0,Ercilla,Malleco,92.0,Malleco,92.0,9211
+219,9.0,Araucanía,149.0,9205,9111.0,Lonquimay,Malleco,92.0,Malleco,92.0,9203
+220,9.0,Araucanía,155.0,9206,9103.0,Los Sauces,Malleco,92.0,Malleco,92.0,9201
+221,9.0,Araucanía,158.0,9207,9108.0,Lumaco,Malleco,92.0,Malleco,92.0,9210
+222,9.0,Araucanía,240.0,9208,9102.0,Purén,Malleco,92.0,Malleco,92.0,9210
+223,9.0,Araucanía,263.0,9209,9104.0,Renaico,Malleco,92.0,Malleco,92.0,9201
+224,9.0,Araucanía,326.0,9210,9107.0,Traiguén,Malleco,92.0,Malleco,92.0,9210
+225,9.0,Araucanía,333.0,9211,9109.0,Victoria,Malleco,92.0,Malleco,92.0,9211
+226,10.0,Los Lagos,233.0,10101,10301.0,Puerto Montt,Llanquihue,101.0,Llanquihue,101.0,10101
+227,10.0,Los Lagos,20.0,10102,10309.0,Calbuco,Llanquihue,101.0,Llanquihue,101.0,10101
+228,10.0,Los Lagos,50.0,10103,10302.0,Cochamó,Llanquihue,101.0,Llanquihue,101.0,10101
+229,10.0,Los Lagos,94.0,10104,10304.0,Fresia,Llanquihue,101.0,Llanquihue,101.0,10101
+230,10.0,Los Lagos,95.0,10105,10305.0,Frutillar,Llanquihue,101.0,Llanquihue,101.0,10303
+231,10.0,Los Lagos,154.0,10106,10308.0,Los Muermos,Llanquihue,101.0,Llanquihue,101.0,10101
+232,10.0,Los Lagos,141.0,10107,10306.0,Llanquihue,Llanquihue,101.0,Llanquihue,101.0,10101
+233,10.0,Los Lagos,169.0,10108,10307.0,Maullín,Llanquihue,101.0,Llanquihue,101.0,10101
+234,10.0,Los Lagos,235.0,10109,10303.0,Puerto Varas,Llanquihue,101.0,Llanquihue,101.0,10101
+235,10.0,Los Lagos,32.0,10201,10401.0,Castro,Chiloé,102.0,Chiloé,102.0,10201
+236,10.0,Los Lagos,6.0,10202,10406.0,Ancud,Chiloé,102.0,Chiloé,102.0,10202
+237,10.0,Los Lagos,47.0,10203,10402.0,Chonchi,Chiloé,102.0,Chiloé,102.0,10201
+238,10.0,Los Lagos,75.0,10204,10410.0,Curaco de Vélez,Chiloé,102.0,Chiloé,102.0,10205
+239,10.0,Los Lagos,80.0,10205,10408.0,Dalcahue,Chiloé,102.0,Chiloé,102.0,10205
+240,10.0,Los Lagos,239.0,10206,10405.0,Puqueldón,Chiloé,102.0,Chiloé,102.0,10201
+241,10.0,Los Lagos,245.0,10207,10403.0,Queilén,Chiloé,102.0,Chiloé,102.0,10201
+242,10.0,Los Lagos,246.0,10208,10404.0,Quellón,Chiloé,102.0,Chiloé,102.0,10208
+243,10.0,Los Lagos,247.0,10209,10407.0,Quemchi,Chiloé,102.0,Chiloé,102.0,10205
+244,10.0,Los Lagos,254.0,10210,10415.0,Quinchao,Chiloé,102.0,Chiloé,102.0,10205
+245,10.0,Los Lagos,191.0,10301,10201.0,Osorno,Osorno,103.0,Osorno,103.0,10301
+246,10.0,Los Lagos,234.0,10302,10203.0,Puerto Octay,Osorno,103.0,Osorno,103.0,10301
+247,10.0,Los Lagos,241.0,10303,10206.0,Purranque,Osorno,103.0,Osorno,103.0,10303
+248,10.0,Los Lagos,244.0,10304,10204.0,Puyehue,Osorno,103.0,Osorno,103.0,10301
+249,10.0,Los Lagos,273.0,10305,10205.0,Río Negro,Osorno,103.0,Osorno,103.0,10301
+250,10.0,Los Lagos,292.0,10306,10207.0,San Juan de la Costa,Osorno,103.0,Osorno,103.0,10301
+251,10.0,Los Lagos,295.0,10307,10202.0,San Pablo,Osorno,103.0,Osorno,103.0,10301
+252,10.0,Los Lagos,37.0,10401,10501.0,Chaitén,Palena,104.0,Palena,104.0,10401
+253,10.0,Los Lagos,96.0,10402,10503.0,Futaleufú,Palena,104.0,Palena,104.0,10401
+254,10.0,Los Lagos,104.0,10403,10502.0,Hualaihué,Palena,104.0,Palena,104.0,10401
+255,10.0,Los Lagos,198.0,10404,10504.0,Palena,Palena,104.0,Palena,104.0,10401
+256,11.0,Aysén,54.0,11101,11401.0,Coihaique,Coihaique,111.0,Coihaique,111.0,11101
+257,11.0,Aysén,129.0,11102,11402.0,Lago Verde,Coihaique,111.0,Coihaique,111.0,11101
+258,11.0,Aysén,13.0,11201,11101.0,Aysén,Aisén,112.0,Aisén,112.0,11101
+259,11.0,Aysén,48.0,11202,11102.0,Cisnes,Aisén,112.0,Aisén,112.0,11101
+260,11.0,Aysén,102.0,11203,11104.0,Guaitecas,Aisén,112.0,Aisén,112.0,10208
+261,11.0,Aysén,51.0,11301,11301.0,Cochrane,Capitán Prat,113.0,Capitán Prat,113.0,11101
+262,11.0,Aysén,187.0,11302,11302.0,O'Higgins,Capitán Prat,113.0,Capitán Prat,113.0,12401
+263,11.0,Aysén,325.0,11303,11303.0,Tortel,Capitán Prat,113.0,Capitán Prat,113.0,11101
+264,11.0,Aysén,42.0,11401,11201.0,Chile Chico,General Carrera,114.0,General Carrera,114.0,11101
+265,11.0,Aysén,272.0,11402,11203.0,Río Ibáñez,General Carrera,114.0,General Carrera,114.0,11101
+266,12.0,Magallanes,238.0,12101,12205.0,Punta Arenas,Magallanes,121.0,Magallanes,121.0,12101
+267,12.0,Magallanes,130.0,12102,12206.0,Laguna Blanca,Magallanes,121.0,Magallanes,121.0,12101
+268,12.0,Magallanes,274.0,12103,12202.0,Río Verde,Magallanes,121.0,Magallanes,121.0,12101
+269,12.0,Magallanes,287.0,12104,12204.0,San Gregorio,Magallanes,121.0,Magallanes,121.0,12101
+270,12.0,Magallanes,17.0,12201,12401.0,Cabo de Hornos,Antártica Chilena,122.0,Antártica Chilena,122.0,12101
+271,12.0,Magallanes,225.0,12301,12301.0,Porvenir,Tierra del Fuego,123.0,Tierra del Fuego,123.0,12101
+272,12.0,Magallanes,227.0,12302,12302.0,Primavera,Tierra del Fuego,123.0,Tierra del Fuego,123.0,12101
+273,12.0,Magallanes,319.0,12303,12304.0,Timaukel,Tierra del Fuego,123.0,Tierra del Fuego,123.0,12101
+274,12.0,Magallanes,179.0,12401,12101.0,Natales,Última Esperanza,124.0,Última Esperanza,124.0,12401
+275,12.0,Magallanes,324.0,12402,12103.0,Torres del Paine,Última Esperanza,124.0,Última Esperanza,124.0,12401
+276,13.0,Región Metropolitana Santiago,307.0,13101,13101.0,Santiago,Santiago,131.0,Santiago,13101.0,13101
+277,13.0,Región Metropolitana Santiago,35.0,13102,14166.0,Cerrillos,Santiago,131.0,Cerrillos,13102.0,13101
+278,13.0,Región Metropolitana Santiago,36.0,13103,14156.0,Cerro Navia,Santiago,131.0,Cerro Navia,13103.0,13101
+279,13.0,Región Metropolitana Santiago,65.0,13104,14127.0,Conchalí,Santiago,131.0,Conchalí,13104.0,13101
+280,13.0,Región Metropolitana Santiago,83.0,13105,16165.0,El Bosque,Santiago,131.0,El Bosque,13105.0,13101
+281,13.0,Región Metropolitana Santiago,90.0,13106,14157.0,Estación Central,Santiago,131.0,Estación Central,13106.0,13101
+282,13.0,Región Metropolitana Santiago,110.0,13107,14158.0,Huechuraba,Santiago,131.0,Huechuraba,13107.0,13101
+283,13.0,Región Metropolitana Santiago,112.0,13108,13167.0,Independencia,Santiago,131.0,Independencia,13108.0,13101
+284,13.0,Región Metropolitana Santiago,117.0,13109,16110.0,La Cisterna,Santiago,131.0,La Cisterna,13109.0,13101
+285,13.0,Región Metropolitana Santiago,120.0,13110,15128.0,La Florida,Santiago,131.0,La Florida,13110.0,13101
+286,13.0,Región Metropolitana Santiago,121.0,13111,16131.0,La Granja,Santiago,131.0,La Granja,13111.0,13101
+287,13.0,Región Metropolitana Santiago,124.0,13112,16154.0,La Pintana,Santiago,131.0,La Pintana,13112.0,13101
+288,13.0,Región Metropolitana Santiago,125.0,13113,15132.0,La Reina,Santiago,131.0,La Reina,13113.0,13101
+289,13.0,Región Metropolitana Santiago,134.0,13114,15108.0,Las Condes,Santiago,131.0,Las Condes,13114.0,13101
+290,13.0,Región Metropolitana Santiago,143.0,13115,15161.0,Lo Barnechea,Santiago,131.0,Lo Barnechea,13115.0,13101
+291,13.0,Región Metropolitana Santiago,144.0,13116,16164.0,Lo Espejo,Santiago,131.0,Lo Espejo,13116.0,13101
+292,13.0,Región Metropolitana Santiago,145.0,13117,14155.0,Lo Prado,Santiago,131.0,Lo Prado,13117.0,13101
+293,13.0,Región Metropolitana Santiago,160.0,13118,15151.0,Macul,Santiago,131.0,Macul,13118.0,13101
+294,13.0,Región Metropolitana Santiago,162.0,13119,14109.0,Maipú,Santiago,131.0,Maipú,13119.0,13101
+295,13.0,Región Metropolitana Santiago,186.0,13120,15105.0,Ñuñoa,Santiago,131.0,Ñuñoa,13120.0,13101
+296,13.0,Región Metropolitana Santiago,205.0,13121,16162.0,Pedro Aguirre Cerda,Santiago,131.0,Pedro Aguirre Cerda,13121.0,13101
+297,13.0,Región Metropolitana Santiago,212.0,13122,15152.0,Peñalolén,Santiago,131.0,Peñalolén,13122.0,13101
+298,13.0,Región Metropolitana Santiago,228.0,13123,15103.0,Providencia,Santiago,131.0,Providencia,13123.0,13101
+299,13.0,Región Metropolitana Santiago,231.0,13124,14111.0,Pudahuel,Santiago,131.0,Pudahuel,13124.0,13101
+300,13.0,Región Metropolitana Santiago,249.0,13125,14114.0,Quilicura,Santiago,131.0,Quilicura,13125.0,13101
+301,13.0,Región Metropolitana Santiago,256.0,13126,14107.0,Quinta Normal,Santiago,131.0,Quinta Normal,13126.0,13101
+302,13.0,Región Metropolitana Santiago,262.0,13127,13159.0,Recoleta,Santiago,131.0,Recoleta,13127.0,13101
+303,13.0,Región Metropolitana Santiago,264.0,13128,14113.0,Renca,Santiago,131.0,Renca,13128.0,13101
+304,13.0,Región Metropolitana Santiago,290.0,13129,16163.0,San Joaquín,Santiago,131.0,San Joaquín,13129.0,13101
+305,13.0,Región Metropolitana Santiago,293.0,13130,16106.0,San Miguel,Santiago,131.0,San Miguel,13130.0,13101
+306,13.0,Región Metropolitana Santiago,300.0,13131,16153.0,San Ramón,Santiago,131.0,San Ramón,13131.0,13101
+307,13.0,Región Metropolitana Santiago,340.0,13132,15160.0,Vitacura,Santiago,131.0,Vitacura,13132.0,13101
+308,13.0,Región Metropolitana Santiago,232.0,13201,16301.0,Puente Alto,Cordillera,132.0,Cordillera,132.0,13101
+309,13.0,Región Metropolitana Santiago,221.0,13202,16302.0,Pirque,Cordillera,132.0,Cordillera,132.0,13101
+310,13.0,Región Metropolitana Santiago,291.0,13203,16303.0,San José de Maipo,Cordillera,132.0,Cordillera,132.0,13101
+311,13.0,Región Metropolitana Santiago,59.0,13301,14201.0,Colina,Chacabuco,133.0,Chacabuco,133.0,13101
+312,13.0,Región Metropolitana Santiago,346.0,13302,14202.0,Lampa,Chacabuco,133.0,Chacabuco,133.0,13101
+313,13.0,Región Metropolitana Santiago,318.0,13303,14203.0,Til-Til,Chacabuco,133.0,Chacabuco,133.0,13101
+314,13.0,Región Metropolitana Santiago,280.0,13401,16401.0,San Bernardo,Maipo,134.0,Maipo,134.0,13101
+315,13.0,Región Metropolitana Santiago,14.0,13402,16403.0,Buin,Maipo,134.0,Maipo,134.0,13101
+316,13.0,Región Metropolitana Santiago,23.0,13403,16402.0,Calera de Tango,Maipo,134.0,Maipo,134.0,13101
+317,13.0,Región Metropolitana Santiago,197.0,13404,16404.0,Paine,Maipo,134.0,Maipo,134.0,13101
+318,13.0,Región Metropolitana Santiago,172.0,13501,14601.0,Melipilla,Melipilla,135.0,Melipilla,135.0,13501
+319,13.0,Región Metropolitana Santiago,2.0,13502,14605.0,Alhué,Melipilla,135.0,Melipilla,135.0,13501
+320,13.0,Región Metropolitana Santiago,74.0,13503,14603.0,Curacaví,Melipilla,135.0,Melipilla,135.0,13101
+321,13.0,Región Metropolitana Santiago,166.0,13504,14602.0,María Pinto,Melipilla,135.0,Melipilla,135.0,13501
+322,13.0,Región Metropolitana Santiago,296.0,13505,14604.0,San Pedro,Melipilla,135.0,Melipilla,135.0,13501
+323,13.0,Región Metropolitana Santiago,310.0,13601,14501.0,Talagante,Talagante,136.0,Talagante,136.0,13101
+324,13.0,Región Metropolitana Santiago,85.0,13602,14503.0,El Monte,Talagante,136.0,Talagante,136.0,13101
+325,13.0,Región Metropolitana Santiago,114.0,13603,14502.0,Isla de Maipo,Talagante,136.0,Talagante,136.0,13101
+326,13.0,Región Metropolitana Santiago,193.0,13604,14505.0,Padre Hurtado,Talagante,136.0,Talagante,136.0,13101
+327,13.0,Región Metropolitana Santiago,211.0,13605,14504.0,Peñaflor,Talagante,136.0,Talagante,136.0,13101
+328,14.0,Los Ríos,329.0,14101,10101.0,Valdivia,Valdivia,141.0,Valdivia,141.0,10501
+329,14.0,Los Ríos,71.0,14102,10106.0,Corral,Valdivia,141.0,Valdivia,141.0,10501
+330,14.0,Los Ríos,132.0,14103,10103.0,Lanco,Valdivia,141.0,Valdivia,141.0,10510
+331,14.0,Los Ríos,153.0,14104,10104.0,Los Lagos,Valdivia,141.0,Valdivia,141.0,10501
+332,14.0,Los Ríos,161.0,14105,10107.0,Máfil,Valdivia,141.0,Valdivia,141.0,10501
+333,14.0,Los Ríos,167.0,14106,10102.0,Mariquina,Valdivia,141.0,Valdivia,141.0,10510
+334,14.0,Los Ríos,196.0,14107,10110.0,Paillaco,Valdivia,141.0,Valdivia,141.0,10504
+335,14.0,Los Ríos,200.0,14108,10108.0,Panguipulli,Valdivia,141.0,Valdivia,141.0,10510
+336,14.0,Los Ríos,127.0,14201,10109.0,La Unión,Ranco,142.0,Ranco,142.0,10504
+337,14.0,Los Ríos,97.0,14202,10105.0,Futrono,Ranco,142.0,Ranco,142.0,10504
+338,14.0,Los Ríos,128.0,14203,10112.0,Lago Ranco,Ranco,142.0,Ranco,142.0,10504
+339,14.0,Los Ríos,269.0,14204,10111.0,Río Bueno,Ranco,142.0,Ranco,142.0,10504
+340,15.0,Arica y Parinacota,12.0,15101,1101.0,Arica,Arica,151.0,Arica,151.0,1201
+341,15.0,Arica y Parinacota,25.0,15102,1106.0,Camarones,Arica,151.0,Arica,151.0,1201
+342,15.0,Arica y Parinacota,243.0,15201,1301.0,Putre,Parinacota,152.0,Parinacota,152.0,1201
+343,15.0,Arica y Parinacota,99.0,15202,1302.0,General Lagos,Parinacota,152.0,Parinacota,152.0,1201
