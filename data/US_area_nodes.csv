@@ -1,0 +1,3280 @@
+area_fips,sqrt_size,cluster,area_title,color
+01001,30.8566064033,0.0,"Autauga County, Alabama",#000080
+01003,75.6476743524,0.0,"Baldwin County, Alabama",#000080
+01005,25.7871014884,0.0,"Barbour County, Alabama",#000080
+01007,20.0068539843,0.0,"Bibb County, Alabama",#000080
+01009,28.8059531435,0.0,"Blount County, Alabama",#000080
+01011,13.6213825837,8.0,"Bullock County, Alabama",#ff6800
+01013,23.5356028853,0.0,"Butler County, Alabama",#000080
+01015,52.359081473,0.0,"Calhoun County, Alabama",#000080
+01017,26.3975107052,0.0,"Chambers County, Alabama",#000080
+01019,21.7304738113,0.0,"Cherokee County, Alabama",#000080
+01021,29.167020406,0.0,"Chilton County, Alabama",#000080
+01023,18.4727169047,8.0,"Choctaw County, Alabama",#ff6800
+01025,28.129109929,0.0,"Clarke County, Alabama",#000080
+01027,16.1674398441,8.0,"Clay County, Alabama",#ff6800
+01029,16.0109585488,8.0,"Cleburne County, Alabama",#ff6800
+01031,33.8739903499,0.0,"Coffee County, Alabama",#000080
+01033,38.0070429981,0.0,"Colbert County, Alabama",#000080
+01035,17.3912608048,8.0,"Conecuh County, Alabama",#ff6800
+01037,12.886146739,8.0,"Coosa County, Alabama",#ff6800
+01039,31.9391099756,0.0,"Covington County, Alabama",#000080
+01041,17.1017380533,8.0,"Crenshaw County, Alabama",#ff6800
+01043,44.0223518263,0.0,"Cullman County, Alabama",#000080
+01045,31.6806923826,0.0,"Dale County, Alabama",#000080
+01047,31.8564737633,0.0,"Dallas County, Alabama",#000080
+01049,36.2823418943,0.0,"DeKalb County, Alabama",#000080
+01051,37.5419395107,0.0,"Elmore County, Alabama",#000080
+01053,30.351211372,0.0,"Escambia County, Alabama",#000080
+01055,48.3660193255,0.0,"Etowah County, Alabama",#000080
+01057,19.8082274072,8.0,"Fayette County, Alabama",#ff6800
+01059,25.6885497314,0.0,"Franklin County, Alabama",#000080
+01061,23.7946155707,0.0,"Geneva County, Alabama",#000080
+01063,13.8244090548,8.0,"Greene County, Alabama",#ff6800
+01065,17.5150275614,8.0,"Hale County, Alabama",#ff6800
+01067,19.6950360356,8.0,"Henry County, Alabama",#ff6800
+01069,56.6565887397,0.0,"Houston County, Alabama",#000080
+01071,32.6426539537,0.0,"Jackson County, Alabama",#000080
+01073,138.889801584,0.0,"Jefferson County, Alabama",#000080
+01075,18.3236121413,8.0,"Lamar County, Alabama",#ff6800
+01077,46.8692456785,0.0,"Lauderdale County, Alabama",#000080
+01079,22.6145672254,0.0,"Lawrence County, Alabama",#000080
+01081,54.2940662957,0.0,"Lee County, Alabama",#000080
+01083,38.1516866007,0.0,"Limestone County, Alabama",#000080
+01085,14.1648738361,8.0,"Lowndes County, Alabama",#ff6800
+01087,17.2283911123,8.0,"Macon County, Alabama",#ff6800
+01089,97.4542566687,0.0,"Madison County, Alabama",#000080
+01091,24.3581738831,0.0,"Marengo County, Alabama",#000080
+01093,26.6213305095,0.0,"Marion County, Alabama",#000080
+01095,47.0247908276,0.0,"Marshall County, Alabama",#000080
+01097,102.00722041,0.0,"Mobile County, Alabama",#000080
+01099,22.7952497836,8.0,"Monroe County, Alabama",#ff6800
+01101,83.174260079,0.0,"Montgomery County, Alabama",#000080
+01103,54.7371496842,0.0,"Morgan County, Alabama",#000080
+01105,14.1253880407,8.0,"Perry County, Alabama",#ff6800
+01107,19.6106547004,8.0,"Pickens County, Alabama",#ff6800
+01109,28.3765916273,0.0,"Pike County, Alabama",#000080
+01111,20.9453370194,8.0,"Randolph County, Alabama",#ff6800
+01113,31.5260285509,0.0,"Russell County, Alabama",#000080
+01115,38.8674742626,0.0,"St. Clair County, Alabama",#000080
+01117,72.4523707807,0.0,"Shelby County, Alabama",#000080
+01119,17.3393304644,8.0,"Sumter County, Alabama",#ff6800
+01121,39.0844527203,0.0,"Talladega County, Alabama",#000080
+01123,30.4641214942,0.0,"Tallapoosa County, Alabama",#000080
+01125,68.2150107998,0.0,"Tuscaloosa County, Alabama",#000080
+01127,39.3499460478,0.0,"Walker County, Alabama",#000080
+01129,16.8577969338,8.0,"Washington County, Alabama",#ff6800
+01131,16.9633241164,8.0,"Wilcox County, Alabama",#ff6800
+01133,23.480606655,8.0,"Winston County, Alabama",#ff6800
+01999,99.070227216,5.0,"Unknown Or Undefined, Alabama",#7dff7a
+02013,10.884057075,1.0,"Aleutians East Borough, Alaska",#0000f1
+02016,13.6145055696,4.0,"Aleutians West Census Area, Alaska",#29ffce
+02020,93.6265250369,0.0,"Anchorage Municipality, Alaska",#000080
+02050,20.322772433,4.0,"Bethel Census Area, Alaska",#29ffce
+02060,10.6708325198,1.0,"Bristol Bay Borough, Alaska",#0000f1
+02068,12.376388811,4.0,"Denali Borough, Alaska",#29ffce
+02070,13.688716243,4.0,"Dillingham Census Area, Alaska",#29ffce
+02090,49.4327023689,0.0,"Fairbanks North Star Borough, Alaska",#000080
+02100,13.2525678853,4.0,"Haines Borough, Alaska",#29ffce
+02105,12.489582961,4.0,"Hoonah-Angoon Census Area, Alaska",#29ffce
+02110,34.3462354398,0.0,"Juneau City and Borough, Alaska",#000080
+02122,45.4921587522,0.0,"Kenai Peninsula Borough, Alaska",#000080
+02130,25.6427841888,0.0,"Ketchikan Gateway Borough, Alaska",#000080
+02150,22.8328814693,7.0,"Kodiak Island Borough, Alaska",#ffc400
+02158,9.0,4.0,"Kusilvak Census Area, Alaska",#29ffce
+02164,11.8623219708,1.0,"Lake and Peninsula Borough, Alaska",#0000f1
+02170,45.0955907111,0.0,"Matanuska-Susitna Borough, Alaska",#000080
+02180,18.676241167,4.0,"Nome Census Area, Alaska",#29ffce
+02185,15.6943018676,4.0,"North Slope Borough, Alaska",#29ffce
+02188,13.5069793834,4.0,"Northwest Arctic Borough, Alaska",#29ffce
+02195,14.3061758226,4.0,"Petersburg Borough, Alaska",#29ffce
+02198,15.8821927837,4.0,"Prince of Wales-Hyder Census Area, Alaska",#29ffce
+02201,13.7477270849,4.0,"Prince of Wales-Outer Ketchikan Census Area, AK",#29ffce
+02220,20.5775343672,0.0,"Sitka City and Borough, Alaska",#000080
+02230,12.1023085821,3.0,"Skagway Municipality, Alaska",#00b0ff
+02232,14.2302494708,4.0,"Skagway-Hoonah-Angoon Census Area, Alaska",#29ffce
+02240,17.4316579364,4.0,"Southeast Fairbanks Census Area, Alaska",#29ffce
+02261,24.5337393212,4.0,"Valdez-Cordova Census Area, Alaska",#29ffce
+02270,12.0387931157,4.0,"Wade Hampton Census Area, Alaska",#29ffce
+02275,10.4772429125,1.0,"Wrangell City and Borough, Alaska",#0000f1
+02280,16.2890556305,4.0,"Wrangell-Petersburg Census Area, Alaska",#29ffce
+02282,8.00208306214,4.0,"Yakutat City and Borough, Alaska",#29ffce
+02290,17.699688366,4.0,"Yukon-Koyukuk Census Area, Alaska",#29ffce
+02999,27.2894828279,5.0,"Unknown Or Undefined, Alaska",#7dff7a
+04001,26.022037364,8.0,"Apache County, Arizona",#ff6800
+04003,51.2205780819,0.0,"Cochise County, Arizona",#000080
+04005,62.1392764887,0.0,"Coconino County, Arizona",#000080
+04007,34.6346120118,0.0,"Gila County, Arizona",#000080
+04009,25.2716196929,0.0,"Graham County, Arizona",#000080
+04011,11.8352446478,4.0,"Greenlee County, Arizona",#29ffce
+04012,20.5708030108,6.0,"La Paz County, Arizona",#ceff29
+04013,315.899602295,0.0,"Maricopa County, Arizona",#000080
+04015,64.775868155,0.0,"Mohave County, Arizona",#000080
+04017,44.5316589719,0.0,"Navajo County, Arizona",#000080
+04019,143.512408899,0.0,"Pima County, Arizona",#000080
+04021,56.1129600513,0.0,"Pinal County, Arizona",#000080
+04023,36.3742561152,0.0,"Santa Cruz County, Arizona",#000080
+04025,77.314065231,0.0,"Yavapai County, Arizona",#000080
+04027,58.7823568445,0.0,"Yuma County, Arizona",#000080
+04999,89.1764591864,5.0,"Unknown Or Undefined, Arizona",#7dff7a
+05001,28.7760647894,8.0,"Arkansas County, Arkansas",#ff6800
+05003,25.2831740272,8.0,"Ashley County, Arkansas",#ff6800
+05005,37.4353675824,0.0,"Baxter County, Arkansas",#000080
+05007,76.8383404008,0.0,"Benton County, Arkansas",#000080
+05009,34.0635726859,0.0,"Boone County, Arkansas",#000080
+05011,20.5261157692,8.0,"Bradley County, Arkansas",#ff6800
+05013,12.028735436,8.0,"Calhoun County, Arkansas",#ff6800
+05015,30.5077468694,0.0,"Carroll County, Arkansas",#000080
+05017,21.7138497241,8.0,"Chicot County, Arkansas",#ff6800
+05019,26.646085808,0.0,"Clark County, Arkansas",#000080
+05021,21.5584108729,8.0,"Clay County, Arkansas",#ff6800
+05023,28.0846156271,0.0,"Cleburne County, Arkansas",#000080
+05025,12.1048658719,1.0,"Cleveland County, Arkansas",#0000f1
+05027,28.5011904513,0.0,"Columbia County, Arkansas",#000080
+05029,25.4052238098,8.0,"Conway County, Arkansas",#ff6800
+05031,54.0299666999,0.0,"Craighead County, Arkansas",#000080
+05033,37.3541502337,0.0,"Crawford County, Arkansas",#000080
+05035,37.523817833,0.0,"Crittenden County, Arkansas",#000080
+05037,24.1778135212,8.0,"Cross County, Arkansas",#ff6800
+05039,17.7167305021,8.0,"Dallas County, Arkansas",#ff6800
+05041,23.5055464579,8.0,"Desha County, Arkansas",#ff6800
+05043,24.1894802007,8.0,"Drew County, Arkansas",#ff6800
+05045,54.1811189511,0.0,"Faulkner County, Arkansas",#000080
+05047,19.7087423193,8.0,"Franklin County, Arkansas",#ff6800
+05049,16.5337197535,8.0,"Fulton County, Arkansas",#ff6800
+05051,58.8131389866,0.0,"Garland County, Arkansas",#000080
+05053,19.2500257679,8.0,"Grant County, Arkansas",#ff6800
+05055,31.7140622758,0.0,"Greene County, Arkansas",#000080
+05057,23.853837334,8.0,"Hempstead County, Arkansas",#ff6800
+05059,26.1349595582,0.0,"Hot Spring County, Arkansas",#000080
+05061,20.3930718861,8.0,"Howard County, Arkansas",#ff6800
+05063,32.0541518495,0.0,"Independence County, Arkansas",#000080
+05065,18.0502825023,8.0,"Izard County, Arkansas",#ff6800
+05067,23.5322811042,8.0,"Jackson County, Arkansas",#ff6800
+05069,47.3983205784,0.0,"Jefferson County, Arkansas",#000080
+05071,23.6152274656,0.0,"Johnson County, Arkansas",#000080
+05073,14.5110658377,8.0,"Lafayette County, Arkansas",#ff6800
+05075,22.1394569842,8.0,"Lawrence County, Arkansas",#ff6800
+05077,18.0839751916,8.0,"Lee County, Arkansas",#ff6800
+05079,17.4304172195,8.0,"Lincoln County, Arkansas",#ff6800
+05081,17.1890284313,8.0,"Little River County, Arkansas",#ff6800
+05083,23.6873065599,8.0,"Logan County, Arkansas",#ff6800
+05085,37.9025588616,0.0,"Lonoke County, Arkansas",#000080
+05087,17.5185955623,8.0,"Madison County, Arkansas",#ff6800
+05089,19.0067761517,8.0,"Marion County, Arkansas",#ff6800
+05091,31.1067861223,0.0,"Miller County, Arkansas",#000080
+05093,36.2233481664,8.0,"Mississippi County, Arkansas",#ff6800
+05095,18.9205628461,8.0,"Monroe County, Arkansas",#ff6800
+05097,14.9472485125,2.0,"Montgomery County, Arkansas",#004cff
+05099,15.0114903081,8.0,"Nevada County, Arkansas",#ff6800
+05101,13.0385569851,1.0,"Newton County, Arkansas",#0000f1
+05103,26.8060568256,0.0,"Ouachita County, Arkansas",#000080
+05105,13.8743940237,8.0,"Perry County, Arkansas",#ff6800
+05107,30.6364434402,8.0,"Phillips County, Arkansas",#ff6800
+05109,17.59159702,8.0,"Pike County, Arkansas",#ff6800
+05111,24.3134458848,8.0,"Poinsett County, Arkansas",#ff6800
+05113,24.6564489777,8.0,"Polk County, Arkansas",#ff6800
+05115,43.9406164929,0.0,"Pope County, Arkansas",#000080
+05117,17.1422618944,8.0,"Prairie County, Arkansas",#ff6800
+05119,124.411525904,0.0,"Pulaski County, Arkansas",#000080
+05121,21.7195234389,8.0,"Randolph County, Arkansas",#ff6800
+05123,29.1526564991,8.0,"St. Francis County, Arkansas",#ff6800
+05125,44.7925420734,0.0,"Saline County, Arkansas",#000080
+05127,15.2376283411,8.0,"Scott County, Arkansas",#ff6800
+05129,15.2602034562,8.0,"Searcy County, Arkansas",#ff6800
+05131,63.7121689804,0.0,"Sebastian County, Arkansas",#000080
+05133,19.5096231851,8.0,"Sevier County, Arkansas",#ff6800
+05135,22.2736587254,8.0,"Sharp County, Arkansas",#ff6800
+05137,18.8579906014,8.0,"Stone County, Arkansas",#ff6800
+05139,38.5040504981,0.0,"Union County, Arkansas",#000080
+05141,20.8541324746,8.0,"Van Buren County, Arkansas",#ff6800
+05143,77.9706421145,0.0,"Washington County, Arkansas",#000080
+05145,44.3643867254,0.0,"White County, Arkansas",#000080
+05147,15.8833795532,8.0,"Woodruff County, Arkansas",#ff6800
+05149,22.2446979593,8.0,"Yell County, Arkansas",#ff6800
+05999,76.3296474469,5.0,"Unknown Or Undefined, Arkansas",#7dff7a
+06001,238.276325183,0.0,"Alameda County, California",#000080
+06003,10.7713612056,8.0,"Alpine County, California",#ff6800
+06005,34.215586349,0.0,"Amador County, California",#000080
+06007,90.2043513363,0.0,"Butte County, California",#000080
+06009,37.4134503867,0.0,"Calaveras County, California",#000080
+06011,29.6930861495,8.0,"Colusa County, California",#ff6800
+06013,175.199299212,0.0,"Contra Costa County, California",#000080
+06015,30.1929903565,8.0,"Del Norte County, California",#ff6800
+06017,72.516571724,0.0,"El Dorado County, California",#000080
+06019,177.025614683,0.0,"Fresno County, California",#000080
+06021,34.9079628884,8.0,"Glenn County, California",#ff6800
+06023,73.4464036311,0.0,"Humboldt County, California",#000080
+06025,84.0830088719,0.0,"Imperial County, California",#000080
+06027,28.8086117526,8.0,"Inyo County, California",#ff6800
+06029,135.806119097,0.0,"Kern County, California",#000080
+06031,60.3295348712,0.0,"Kings County, California",#000080
+06033,54.3517862325,0.0,"Lake County, California",#000080
+06035,29.3243425074,8.0,"Lassen County, California",#ff6800
+06037,662.111093397,0.0,"Los Angeles County, California",#000080
+06039,62.8375330161,0.0,"Madera County, California",#000080
+06041,110.857249478,0.0,"Marin County, California",#000080
+06043,24.2266251277,8.0,"Mariposa County, California",#ff6800
+06045,65.9325292454,0.0,"Mendocino County, California",#000080
+06047,79.3843223497,0.0,"Merced County, California",#000080
+06049,20.9252638374,6.0,"Modoc County, California",#ceff29
+06051,26.768688769,0.0,"Mono County, California",#000080
+06053,115.416853189,0.0,"Monterey County, California",#000080
+06055,74.125668176,0.0,"Napa County, California",#000080
+06057,61.2874537253,0.0,"Nevada County, California",#000080
+06059,327.73130327,0.0,"Orange County, California",#000080
+06061,107.373613412,0.0,"Placer County, California",#000080
+06063,31.6434062441,8.0,"Plumas County, California",#ff6800
+06065,225.754112796,0.0,"Riverside County, California",#000080
+06067,233.148474392,0.0,"Sacramento County, California",#000080
+06069,39.7082864888,0.0,"San Benito County, California",#000080
+06071,226.83172999,0.0,"San Bernardino County, California",#000080
+06073,320.494001132,0.0,"San Diego County, California",#000080
+06075,235.05887898,0.0,"San Francisco County, California",#000080
+06077,133.681687792,0.0,"San Joaquin County, California",#000080
+06079,100.632138907,0.0,"San Luis Obispo County, California",#000080
+06081,160.497301317,0.0,"San Mateo County, California",#000080
+06083,122.464717951,0.0,"Santa Barbara County, California",#000080
+06085,254.339935476,0.0,"Santa Clara County, California",#000080
+06087,97.3081649619,0.0,"Santa Cruz County, California",#000080
+06089,83.9456173166,0.0,"Shasta County, California",#000080
+06091,13.1325507381,8.0,"Sierra County, California",#ff6800
+06093,42.4818401912,8.0,"Siskiyou County, California",#ff6800
+06095,102.789141156,0.0,"Solano County, California",#000080
+06097,139.18896029,0.0,"Sonoma County, California",#000080
+06099,122.81557344,0.0,"Stanislaus County, California",#000080
+06101,55.5524419762,0.0,"Sutter County, California",#000080
+06103,43.6975354359,0.0,"Tehama County, California",#000080
+06105,22.0783866877,8.0,"Trinity County, California",#ff6800
+06107,98.2832297697,0.0,"Tulare County, California",#000080
+06109,42.176504593,0.0,"Tuolumne County, California",#000080
+06111,157.417576064,0.0,"Ventura County, California",#000080
+06113,79.0988807538,0.0,"Yolo County, California",#000080
+06115,41.4374504716,0.0,"Yuba County, California",#000080
+06999,230.708718297,5.0,"Unknown Or Undefined, California",#7dff7a
+08001,99.1368002244,0.0,"Adams County, Colorado",#000080
+08003,25.0266603876,0.0,"Alamosa County, Colorado",#000080
+08005,143.428736245,0.0,"Arapahoe County, Colorado",#000080
+08007,25.1200293196,0.0,"Archuleta County, Colorado",#000080
+08009,11.8848977131,1.0,"Baca County, Colorado",#0000f1
+08011,10.8589806298,1.0,"Bent County, Colorado",#0000f1
+08013,117.970797772,0.0,"Boulder County, Colorado",#000080
+08014,48.5644270164,0.0,"Broomfield County, Colorado",#000080
+08015,31.6191309881,0.0,"Chaffee County, Colorado",#000080
+08017,10.5096516487,4.0,"Cheyenne County, Colorado",#29ffce
+08019,20.8467099913,0.0,"Clear Creek County, Colorado",#000080
+08021,13.1635469481,1.0,"Conejos County, Colorado",#0000f1
+08023,10.3499674104,1.0,"Costilla County, Colorado",#0000f1
+08025,8.52461422113,1.0,"Crowley County, Colorado",#0000f1
+08027,14.3962765248,0.0,"Custer County, Colorado",#000080
+08029,31.6998385154,0.0,"Delta County, Colorado",#000080
+08031,167.144666928,0.0,"Denver County, Colorado",#000080
+08033,9.80370840104,2.0,"Dolores County, Colorado",#004cff
+08035,101.218210765,0.0,"Douglas County, Colorado",#000080
+08037,59.9985846394,0.0,"Eagle County, Colorado",#000080
+08039,26.2435025972,0.0,"Elbert County, Colorado",#000080
+08041,135.237115397,0.0,"El Paso County, Colorado",#000080
+08043,32.3353828511,0.0,"Fremont County, Colorado",#000080
+08045,53.4242825713,0.0,"Garfield County, Colorado",#000080
+08047,14.0991387782,0.0,"Gilpin County, Colorado",#000080
+08049,32.208109252,0.0,"Grand County, Colorado",#000080
+08051,35.0123277609,0.0,"Gunnison County, Colorado",#000080
+08053,10.4492348015,8.0,"Hinsdale County, Colorado",#ff6800
+08055,16.109397829,8.0,"Huerfano County, Colorado",#ff6800
+08057,10.0573553594,1.0,"Jackson County, Colorado",#0000f1
+08059,139.150914421,0.0,"Jefferson County, Colorado",#000080
+08061,8.35240674373,1.0,"Kiowa County, Colorado",#0000f1
+08063,18.3441310194,1.0,"Kit Carson County, Colorado",#0000f1
+08065,16.8208699735,0.0,"Lake County, Colorado",#000080
+08067,51.6749455733,0.0,"La Plata County, Colorado",#000080
+08069,104.678252316,0.0,"Larimer County, Colorado",#000080
+08071,23.4011514437,0.0,"Las Animas County, Colorado",#000080
+08073,14.1877294401,1.0,"Lincoln County, Colorado",#0000f1
+08075,27.0907352523,0.0,"Logan County, Colorado",#000080
+08077,71.8472751911,0.0,"Mesa County, Colorado",#000080
+08079,9.7760031759,8.0,"Mineral County, Colorado",#ff6800
+08081,23.3408491297,0.0,"Moffat County, Colorado",#000080
+08083,30.3618259693,0.0,"Montezuma County, Colorado",#000080
+08085,38.9137936127,0.0,"Montrose County, Colorado",#000080
+08087,28.3486023283,0.0,"Morgan County, Colorado",#000080
+08089,24.1558267972,8.0,"Otero County, Colorado",#ff6800
+08091,19.5288248494,0.0,"Ouray County, Colorado",#000080
+08093,24.3000914493,0.0,"Park County, Colorado",#000080
+08095,13.793286842,1.0,"Phillips County, Colorado",#0000f1
+08097,44.2507286282,0.0,"Pitkin County, Colorado",#000080
+08099,21.2387598657,6.0,"Prowers County, Colorado",#ceff29
+08101,59.5702899476,0.0,"Pueblo County, Colorado",#000080
+08103,18.4134397087,7.0,"Rio Blanco County, Colorado",#ffc400
+08105,21.7995376389,0.0,"Rio Grande County, Colorado",#000080
+08107,43.2938052316,0.0,"Routt County, Colorado",#000080
+08109,15.0436665997,1.0,"Saguache County, Colorado",#0000f1
+08111,10.4672012299,3.0,"San Juan County, Colorado",#00b0ff
+08113,27.3711918421,0.0,"San Miguel County, Colorado",#000080
+08115,10.4395082898,4.0,"Sedgwick County, Colorado",#29ffce
+08117,48.3821879529,0.0,"Summit County, Colorado",#000080
+08119,29.8266419737,0.0,"Teller County, Colorado",#000080
+08121,12.9608231416,1.0,"Washington County, Colorado",#0000f1
+08123,79.984571925,0.0,"Weld County, Colorado",#000080
+08125,21.1399906894,1.0,"Yuma County, Colorado",#0000f1
+08999,55.3807420256,5.0,"Unknown Or Undefined, Colorado",#7dff7a
+09001,186.679680669,0.0,"Fairfield County, Connecticut",#000080
+09003,165.079660905,0.0,"Hartford County, Connecticut",#000080
+09005,79.7765580001,0.0,"Litchfield County, Connecticut",#000080
+09007,72.9679860221,0.0,"Middlesex County, Connecticut",#000080
+09009,155.493302311,0.0,"New Haven County, Connecticut",#000080
+09011,86.7689254778,0.0,"New London County, Connecticut",#000080
+09013,56.4118043203,0.0,"Tolland County, Connecticut",#000080
+09015,53.5845867438,0.0,"Windham County, Connecticut",#000080
+09999,87.5844127975,5.0,"Unknown Or Undefined, Connecticut",#7dff7a
+10001,62.0934843092,0.0,"Kent County, Delaware",#000080
+10003,138.704544964,0.0,"New Castle County, Delaware",#000080
+10005,80.0251423785,0.0,"Sussex County, Delaware",#000080
+10999,41.4820385686,5.0,"Unknown Or Undefined, Delaware",#7dff7a
+11001,192.013427523,0.0,District of Columbia,#000080
+12001,84.3323828292,0.0,"Alachua County, Florida",#000080
+12003,22.6347464318,0.0,"Baker County, Florida",#000080
+12005,75.9614720638,0.0,"Bay County, Florida",#000080
+12007,24.833972507,0.0,"Bradford County, Florida",#000080
+12009,124.817091575,0.0,"Brevard County, Florida",#000080
+12011,259.606182209,0.0,"Broward County, Florida",#000080
+12013,17.1810157321,8.0,"Calhoun County, Florida",#ff6800
+12015,68.0505181161,0.0,"Charlotte County, Florida",#000080
+12017,58.1629143284,0.0,"Citrus County, Florida",#000080
+12019,67.082113269,0.0,"Clay County, Florida",#000080
+12021,113.541171471,0.0,"Collier County, Florida",#000080
+12023,40.7341360688,0.0,"Columbia County, Florida",#000080
+12027,27.1027000354,0.0,"DeSoto County, Florida",#000080
+12029,17.4250207807,8.0,"Dixie County, Florida",#ff6800
+12031,169.022969699,0.0,"Duval County, Florida",#000080
+12033,92.2017607345,0.0,"Escambia County, Florida",#000080
+12035,47.9735252716,0.0,"Flagler County, Florida",#000080
+12037,21.4344330607,0.0,"Franklin County, Florida",#000080
+12039,29.6584525814,0.0,"Gadsden County, Florida",#000080
+12041,19.2265936859,8.0,"Gilchrist County, Florida",#ff6800
+12043,14.4340179096,7.0,"Glades County, Florida",#ffc400
+12045,21.4796507613,0.0,"Gulf County, Florida",#000080
+12047,16.60889989,6.0,"Hamilton County, Florida",#ceff29
+12049,25.7293221029,0.0,"Hardee County, Florida",#000080
+12051,30.2443488097,0.0,"Hendry County, Florida",#000080
+12053,61.458906777,0.0,"Hernando County, Florida",#000080
+12055,50.5779298126,0.0,"Highlands County, Florida",#000080
+12057,199.672179747,0.0,"Hillsborough County, Florida",#000080
+12059,20.7818315798,0.0,"Holmes County, Florida",#000080
+12061,71.0975966821,0.0,"Indian River County, Florida",#000080
+12063,32.3446960888,0.0,"Jackson County, Florida",#000080
+12065,19.5082603587,8.0,"Jefferson County, Florida",#ff6800
+12067,13.3643834887,6.0,"Lafayette County, Florida",#ceff29
+12069,88.0136691224,0.0,"Lake County, Florida",#000080
+12071,142.638317722,0.0,"Lee County, Florida",#000080
+12073,93.6410658117,0.0,"Leon County, Florida",#000080
+12075,32.1204825123,0.0,"Levy County, Florida",#000080
+12077,12.0129394523,1.0,"Liberty County, Florida",#0000f1
+12079,20.6527891195,8.0,"Madison County, Florida",#ff6800
+12081,99.5977445241,0.0,"Manatee County, Florida",#000080
+12083,92.4172130603,0.0,"Marion County, Florida",#000080
+12085,79.3589794481,0.0,"Martin County, Florida",#000080
+12086,304.18263885,0.0,"Miami-Dade County, Florida",#000080
+12087,67.6951968942,0.0,"Monroe County, Florida",#000080
+12089,45.6749557997,0.0,"Nassau County, Florida",#000080
+12091,81.0971712853,0.0,"Okaloosa County, Florida",#000080
+12093,32.8519285027,0.0,"Okeechobee County, Florida",#000080
+12095,196.431008931,0.0,"Orange County, Florida",#000080
+12097,78.4417056831,0.0,"Osceola County, Florida",#000080
+12099,229.459339518,0.0,"Palm Beach County, Florida",#000080
+12101,102.627864498,0.0,"Pasco County, Florida",#000080
+12103,181.502922054,0.0,"Pinellas County, Florida",#000080
+12105,114.883816397,0.0,"Polk County, Florida",#000080
+12107,40.2345800099,0.0,"Putnam County, Florida",#000080
+12109,79.3901582202,0.0,"St. Johns County, Florida",#000080
+12111,78.4438759029,0.0,"St. Lucie County, Florida",#000080
+12113,58.4706445136,0.0,"Santa Rosa County, Florida",#000080
+12115,124.789533927,0.0,"Sarasota County, Florida",#000080
+12117,122.473242948,0.0,"Seminole County, Florida",#000080
+12119,38.8298588268,0.0,"Sumter County, Florida",#000080
+12121,30.2151741023,0.0,"Suwannee County, Florida",#000080
+12123,22.5424555359,0.0,"Taylor County, Florida",#000080
+12125,15.3773178663,8.0,"Union County, Florida",#ff6800
+12127,120.234273631,0.0,"Volusia County, Florida",#000080
+12129,23.9949316738,0.0,"Wakulla County, Florida",#000080
+12131,48.1297436335,0.0,"Walton County, Florida",#000080
+12133,22.7124537546,0.0,"Washington County, Florida",#000080
+12999,174.192209337,5.0,"Unknown Or Undefined, Florida",#7dff7a
+13001,22.2777560068,0.0,"Appling County, Georgia",#000080
+13003,12.373150014,2.0,"Atkinson County, Georgia",#004cff
+13005,17.4122972418,8.0,"Bacon County, Georgia",#ff6800
+13007,8.56916306039,1.0,"Baker County, Georgia",#0000f1
+13009,31.6576741618,0.0,"Baldwin County, Georgia",#000080
+13011,18.0728903355,0.0,"Banks County, Georgia",#000080
+13013,35.5076394642,0.0,"Barrow County, Georgia",#000080
+13015,47.7600400813,0.0,"Bartow County, Georgia",#000080
+13017,21.4068765839,0.0,"Ben Hill County, Georgia",#000080
+13019,18.957628192,8.0,"Berrien County, Georgia",#ff6800
+13021,70.2976579573,0.0,"Bibb County, Georgia",#000080
+13023,15.4082023096,8.0,"Bleckley County, Georgia",#ff6800
+13025,16.3338070874,8.0,"Brantley County, Georgia",#ff6800
+13027,17.9503172364,8.0,"Brooks County, Georgia",#ff6800
+13029,27.2820730139,0.0,"Bryan County, Georgia",#000080
+13031,41.1846548322,0.0,"Bulloch County, Georgia",#000080
+13033,20.3168258519,8.0,"Burke County, Georgia",#ff6800
+13035,21.9316036371,0.0,"Butts County, Georgia",#000080
+13037,12.3476107836,1.0,"Calhoun County, Georgia",#0000f1
+13039,32.6343620637,0.0,"Camden County, Georgia",#000080
+13043,16.712769569,8.0,"Candler County, Georgia",#ff6800
+13045,48.5162425756,0.0,"Carroll County, Georgia",#000080
+13047,31.930200413,0.0,"Catoosa County, Georgia",#000080
+13049,14.4954700094,8.0,"Charlton County, Georgia",#ff6800
+13051,91.656969184,0.0,"Chatham County, Georgia",#000080
+13053,12.0174146125,0.0,"Chattahoochee County, Georgia",#000080
+13055,19.4888755407,8.0,"Chattooga County, Georgia",#ff6800
+13057,74.5911608023,0.0,"Cherokee County, Georgia",#000080
+13059,58.830817429,0.0,"Clarke County, Georgia",#000080
+13061,8.89506729723,1.0,"Clay County, Georgia",#0000f1
+13063,68.4536136535,0.0,"Clayton County, Georgia",#000080
+13065,14.4536890441,1.0,"Clinch County, Georgia",#0000f1
+13067,149.819220428,0.0,"Cobb County, Georgia",#000080
+13069,31.9551521047,0.0,"Coffee County, Georgia",#000080
+13071,33.180662278,0.0,"Colquitt County, Georgia",#000080
+13073,49.3275776887,0.0,"Columbia County, Georgia",#000080
+13075,20.6034266683,8.0,"Cook County, Georgia",#ff6800
+13077,49.6354527994,0.0,"Coweta County, Georgia",#000080
+13079,13.1254629548,8.0,"Crawford County, Georgia",#ff6800
+13081,25.6796658486,0.0,"Crisp County, Georgia",#000080
+13083,16.8538653661,8.0,"Dade County, Georgia",#ff6800
+13085,27.2168321518,0.0,"Dawson County, Georgia",#000080
+13087,27.4385894404,0.0,"Decatur County, Georgia",#000080
+13089,136.828537994,0.0,"DeKalb County, Georgia",#000080
+13091,20.993111115,0.0,"Dodge County, Georgia",#000080
+13093,16.1996717584,6.0,"Dooly County, Georgia",#ceff29
+13095,53.5707994672,0.0,"Dougherty County, Georgia",#000080
+13097,53.9100404407,0.0,"Douglas County, Georgia",#000080
+13099,18.8842022664,8.0,"Early County, Georgia",#ff6800
+13101,7.53307521682,1.0,"Echols County, Georgia",#0000f1
+13103,28.8296928613,0.0,"Effingham County, Georgia",#000080
+13105,24.5010689757,0.0,"Elbert County, Georgia",#000080
+13107,23.8445528038,0.0,"Emanuel County, Georgia",#000080
+13109,17.6085522151,0.0,"Evans County, Georgia",#000080
+13111,25.6856917739,0.0,"Fannin County, Georgia",#000080
+13113,60.1639097113,0.0,"Fayette County, Georgia",#000080
+13115,48.0986750304,0.0,"Floyd County, Georgia",#000080
+13117,74.6908841466,0.0,"Forsyth County, Georgia",#000080
+13119,23.3562727375,0.0,"Franklin County, Georgia",#000080
+13121,208.799518412,0.0,"Fulton County, Georgia",#000080
+13123,26.3010803086,0.0,"Gilmer County, Georgia",#000080
+13125,7.17684769639,1.0,"Glascock County, Georgia",#0000f1
+13127,55.3904717896,0.0,"Glynn County, Georgia",#000080
+13129,34.0498409198,0.0,"Gordon County, Georgia",#000080
+13131,23.5433743586,0.0,"Grady County, Georgia",#000080
+13133,22.7910627151,0.0,"Greene County, Georgia",#000080
+13135,159.661003727,0.0,"Gwinnett County, Georgia",#000080
+13137,31.4385139396,0.0,"Habersham County, Georgia",#000080
+13139,67.8347139207,0.0,"Hall County, Georgia",#000080
+13141,10.5272322596,3.0,"Hancock County, Georgia",#00b0ff
+13143,23.6949947832,0.0,"Haralson County, Georgia",#000080
+13145,22.8301266431,0.0,"Harris County, Georgia",#000080
+13147,22.5442422171,0.0,"Hart County, Georgia",#000080
+13149,13.3517283823,8.0,"Heard County, Georgia",#ff6800
+13151,63.1253351398,0.0,"Henry County, Georgia",#000080
+13153,53.3765375601,0.0,"Houston County, Georgia",#000080
+13155,13.805925229,8.0,"Irwin County, Georgia",#ff6800
+13157,38.1149628994,0.0,"Jackson County, Georgia",#000080
+13159,15.5120536849,0.0,"Jasper County, Georgia",#000080
+13161,18.2079042665,0.0,"Jeff Davis County, Georgia",#000080
+13163,20.9777943822,8.0,"Jefferson County, Georgia",#ff6800
+13165,13.4577085953,8.0,"Jenkins County, Georgia",#ff6800
+13167,13.22719661,8.0,"Johnson County, Georgia",#ff6800
+13169,20.451568807,0.0,"Jones County, Georgia",#000080
+13171,17.9590694248,0.0,"Lamar County, Georgia",#000080
+13173,12.703064872,8.0,"Lanier County, Georgia",#ff6800
+13175,35.1445428038,0.0,"Laurens County, Georgia",#000080
+13177,22.3447731895,0.0,"Lee County, Georgia",#000080
+13179,32.4197054519,0.0,"Liberty County, Georgia",#000080
+13181,14.0720227898,0.0,"Lincoln County, Georgia",#000080
+13183,10.2105221171,0.0,"Long County, Georgia",#000080
+13185,56.1167009631,0.0,"Lowndes County, Georgia",#000080
+13187,25.0041028379,0.0,"Lumpkin County, Georgia",#000080
+13189,23.4438454373,0.0,"McDuffie County, Georgia",#000080
+13191,16.7972149052,8.0,"McIntosh County, Georgia",#ff6800
+13193,16.582130849,8.0,"Macon County, Georgia",#ff6800
+13195,21.7000201156,0.0,"Madison County, Georgia",#000080
+13197,11.2760808795,6.0,"Marion County, Georgia",#ceff29
+13199,20.7169511148,8.0,"Meriwether County, Georgia",#ff6800
+13201,14.5636533878,8.0,"Miller County, Georgia",#ff6800
+13205,23.1819493955,8.0,"Mitchell County, Georgia",#ff6800
+13207,23.9336135413,0.0,"Monroe County, Georgia",#000080
+13209,13.8391697384,6.0,"Montgomery County, Georgia",#ceff29
+13211,24.4756033374,0.0,"Morgan County, Georgia",#000080
+13213,23.4778602227,0.0,"Murray County, Georgia",#000080
+13215,71.7595687995,0.0,"Muscogee County, Georgia",#000080
+13217,40.4104683514,0.0,"Newton County, Georgia",#000080
+13219,32.8168800931,0.0,"Oconee County, Georgia",#000080
+13221,15.7921142668,0.0,"Oglethorpe County, Georgia",#000080
+13223,44.5698755834,0.0,"Paulding County, Georgia",#000080
+13225,25.047550018,0.0,"Peach County, Georgia",#000080
+13227,28.2015703717,0.0,"Pickens County, Georgia",#000080
+13229,20.1645807658,0.0,"Pierce County, Georgia",#000080
+13231,17.5003854833,0.0,"Pike County, Georgia",#000080
+13233,27.2726533188,0.0,"Polk County, Georgia",#000080
+13235,16.5341037647,8.0,"Pulaski County, Georgia",#ff6800
+13237,23.2121256626,0.0,"Putnam County, Georgia",#000080
+13239,7.61045646588,6.0,"Quitman County, Georgia",#ceff29
+13241,24.0703746649,0.0,"Rabun County, Georgia",#000080
+13243,14.902007961,8.0,"Randolph County, Georgia",#ff6800
+13245,71.3122382026,0.0,"Richmond County, Georgia",#000080
+13247,47.9820072097,0.0,"Rockdale County, Georgia",#000080
+13249,9.38165636711,1.0,"Schley County, Georgia",#0000f1
+13251,17.6289129395,8.0,"Screven County, Georgia",#ff6800
+13253,16.4344054514,0.0,"Seminole County, Georgia",#000080
+13255,37.6054074126,0.0,"Spalding County, Georgia",#000080
+13257,26.1161933588,0.0,"Stephens County, Georgia",#000080
+13259,11.3289031958,1.0,"Stewart County, Georgia",#0000f1
+13261,28.4573336992,0.0,"Sumter County, Georgia",#000080
+13263,10.3562917001,1.0,"Talbot County, Georgia",#0000f1
+13265,6.92863279305,1.0,"Taliaferro County, Georgia",#0000f1
+13267,20.4011359783,8.0,"Tattnall County, Georgia",#ff6800
+13269,13.9794492023,8.0,"Taylor County, Georgia",#ff6800
+13271,16.722810199,6.0,"Telfair County, Georgia",#ceff29
+13273,15.7759612189,8.0,"Terrell County, Georgia",#ff6800
+13275,38.7037896508,0.0,"Thomas County, Georgia",#000080
+13277,36.3182963641,0.0,"Tift County, Georgia",#000080
+13279,29.3047886005,0.0,"Toombs County, Georgia",#000080
+13281,20.4042965441,0.0,"Towns County, Georgia",#000080
+13283,11.5619621282,8.0,"Treutlen County, Georgia",#ff6800
+13285,41.6539504405,0.0,"Troup County, Georgia",#000080
+13287,15.1441224389,8.0,"Turner County, Georgia",#ff6800
+13289,11.0455765764,8.0,"Twiggs County, Georgia",#ff6800
+13291,26.5215022079,0.0,"Union County, Georgia",#000080
+13293,23.9077094559,0.0,"Upson County, Georgia",#000080
+13295,29.7608856968,0.0,"Walker County, Georgia",#000080
+13297,43.6398954649,0.0,"Walton County, Georgia",#000080
+13299,33.173210649,0.0,"Ware County, Georgia",#000080
+13301,11.5151384142,2.0,"Warren County, Georgia",#004cff
+13303,21.7809804901,8.0,"Washington County, Georgia",#ff6800
+13305,25.9481855499,0.0,"Wayne County, Georgia",#000080
+13307,7.32385751424,1.0,"Webster County, Georgia",#0000f1
+13309,10.4605077421,1.0,"Wheeler County, Georgia",#0000f1
+13311,27.7153473042,0.0,"White County, Georgia",#000080
+13313,51.8656116002,0.0,"Whitfield County, Georgia",#000080
+13315,12.0970939709,1.0,"Wilcox County, Georgia",#0000f1
+13317,17.4953281746,8.0,"Wilkes County, Georgia",#ff6800
+13319,14.4556656658,8.0,"Wilkinson County, Georgia",#ff6800
+13321,20.1048837153,8.0,"Worth County, Georgia",#ff6800
+13999,162.413257679,5.0,"Unknown Or Undefined, Georgia",#7dff7a
+15001,74.2794407455,0.0,"Hawaii County, Hawaii",#000080
+15003,162.479589683,0.0,"Honolulu County, Hawaii",#000080
+15007,51.329023474,0.0,"Kauai County, Hawaii",#000080
+15009,77.1604749136,0.0,"Maui + Kalawao County, Hawaii",#000080
+15999,26.2970062875,5.0,"Unknown Or Undefined, Hawaii",#7dff7a
+16001,122.468415105,0.0,"Ada County, Idaho",#000080
+16003,16.303166992,0.0,"Adams County, Idaho",#000080
+16005,49.2695775285,0.0,"Bannock County, Idaho",#000080
+16007,16.4857923439,0.0,"Bear Lake County, Idaho",#000080
+16009,20.1102516698,8.0,"Benewah County, Idaho",#ff6800
+16011,33.9073902138,0.0,"Bingham County, Idaho",#000080
+16013,42.3041894432,0.0,"Blaine County, Idaho",#000080
+16015,16.3158434055,0.0,"Boise County, Idaho",#000080
+16017,42.2333417898,0.0,"Bonner County, Idaho",#000080
+16019,61.8075321603,0.0,"Bonneville County, Idaho",#000080
+16021,22.9541641275,0.0,"Boundary County, Idaho",#000080
+16023,14.0308475346,2.0,"Butte County, Idaho",#004cff
+16025,10.0356309662,0.0,"Camas County, Idaho",#000080
+16027,67.7198272295,0.0,"Canyon County, Idaho",#000080
+16029,18.135753515,0.0,"Caribou County, Idaho",#000080
+16031,30.13543503,0.0,"Cassia County, Idaho",#000080
+16033,9.3821639295,2.0,"Clark County, Idaho",#004cff
+16035,19.3971238254,8.0,"Clearwater County, Idaho",#ff6800
+16037,16.8786048472,8.0,"Custer County, Idaho",#ff6800
+16039,25.975644881,0.0,"Elmore County, Idaho",#000080
+16041,20.9165291212,0.0,"Franklin County, Idaho",#000080
+16043,21.4572017732,0.0,"Fremont County, Idaho",#000080
+16045,22.4992680657,0.0,"Gem County, Idaho",#000080
+16047,24.5758786114,0.0,"Gooding County, Idaho",#000080
+16049,26.1757187861,0.0,"Idaho County, Idaho",#000080
+16051,26.5663963062,0.0,"Jefferson County, Idaho",#000080
+16053,27.4200207819,0.0,"Jerome County, Idaho",#000080
+16055,72.5184130969,0.0,"Kootenai County, Idaho",#000080
+16057,33.8177010567,0.0,"Latah County, Idaho",#000080
+16059,21.6256663353,0.0,"Lemhi County, Idaho",#000080
+16061,15.523689015,8.0,"Lewis County, Idaho",#ff6800
+16063,13.8146460123,7.0,"Lincoln County, Idaho",#ffc400
+16065,31.8550225289,0.0,"Madison County, Idaho",#000080
+16067,25.0332318811,0.0,"Minidoka County, Idaho",#000080
+16069,36.9952806943,0.0,"Nez Perce County, Idaho",#000080
+16071,13.1395591963,2.0,"Oneida County, Idaho",#004cff
+16073,18.5901386215,7.0,"Owyhee County, Idaho",#ffc400
+16075,25.9189900964,0.0,"Payette County, Idaho",#000080
+16077,16.4880668729,1.0,"Power County, Idaho",#0000f1
+16079,22.4874391747,8.0,"Shoshone County, Idaho",#ff6800
+16081,24.5686356386,0.0,"Teton County, Idaho",#000080
+16083,54.4597346524,0.0,"Twin Falls County, Idaho",#000080
+16085,27.3512354267,0.0,"Valley County, Idaho",#000080
+16087,19.3784674317,0.0,"Washington County, Idaho",#000080
+16999,54.5518102358,5.0,"Unknown Or Undefined, Idaho",#7dff7a
+17001,44.6308847438,0.0,"Adams County, Illinois",#000080
+17003,12.9272076804,1.0,"Alexander County, Illinois",#0000f1
+17005,19.6649010507,0.0,"Bond County, Illinois",#000080
+17007,31.7083184719,0.0,"Boone County, Illinois",#000080
+17009,12.8065738327,8.0,"Brown County, Illinois",#ff6800
+17011,31.2344500995,0.0,"Bureau County, Illinois",#000080
+17013,12.0915489312,7.0,"Calhoun County, Illinois",#ffc400
+17015,22.8560800844,0.0,"Carroll County, Illinois",#000080
+17017,19.5288350094,7.0,"Cass County, Illinois",#ffc400
+17019,67.7925933586,0.0,"Champaign County, Illinois",#000080
+17021,29.8409407699,0.0,"Christian County, Illinois",#000080
+17023,20.7405266193,8.0,"Clark County, Illinois",#ff6800
+17025,21.0678137873,8.0,"Clay County, Illinois",#ff6800
+17027,31.5284389134,0.0,"Clinton County, Illinois",#000080
+17029,36.6815013281,0.0,"Coles County, Illinois",#000080
+17031,392.938558952,0.0,"Cook County, Illinois",#000080
+17033,22.8964196272,0.0,"Crawford County, Illinois",#000080
+17035,15.6511828246,0.0,"Cumberland County, Illinois",#000080
+17037,48.8537093846,0.0,"DeKalb County, Illinois",#000080
+17039,21.9301922776,0.0,"DeWitt County, Illinois",#000080
+17041,26.9048957013,0.0,"Douglas County, Illinois",#000080
+17043,196.180063871,0.0,"DuPage County, Illinois",#000080
+17045,21.9644644463,0.0,"Edgar County, Illinois",#000080
+17047,13.9534515273,7.0,"Edwards County, Illinois",#ffc400
+17049,36.1141488344,0.0,"Effingham County, Illinois",#000080
+17051,24.5109062217,0.0,"Fayette County, Illinois",#000080
+17053,21.4047354203,0.0,"Ford County, Illinois",#000080
+17055,30.7857741317,0.0,"Franklin County, Illinois",#000080
+17057,29.1631086265,0.0,"Fulton County, Illinois",#000080
+17059,13.3802300263,1.0,"Gallatin County, Illinois",#0000f1
+17061,18.6612343286,0.0,"Greene County, Illinois",#000080
+17063,36.5077399926,0.0,"Grundy County, Illinois",#000080
+17065,15.7109051198,7.0,"Hamilton County, Illinois",#ffc400
+17067,23.1182347461,0.0,"Hancock County, Illinois",#000080
+17069,9.4657695752,1.0,"Hardin County, Illinois",#0000f1
+17071,13.5289812378,1.0,"Henderson County, Illinois",#0000f1
+17073,35.0579282522,0.0,"Henry County, Illinois",#000080
+17075,30.3316064396,0.0,"Iroquois County, Illinois",#000080
+17077,38.6905304029,0.0,"Jackson County, Illinois",#000080
+17079,16.8075238254,8.0,"Jasper County, Illinois",#ff6800
+17081,33.1333405193,0.0,"Jefferson County, Illinois",#000080
+17083,22.5411352371,0.0,"Jersey County, Illinois",#000080
+17085,29.9419146677,0.0,"Jo Daviess County, Illinois",#000080
+17087,15.2640775513,7.0,"Johnson County, Illinois",#ffc400
+17089,117.73174883,0.0,"Kane County, Illinois",#000080
+17091,51.9420502801,0.0,"Kankakee County, Illinois",#000080
+17093,47.1691611321,0.0,"Kendall County, Illinois",#000080
+17095,35.8515568279,0.0,"Knox County, Illinois",#000080
+17097,151.014652921,0.0,"Lake County, Illinois",#000080
+17099,55.8314818456,0.0,"LaSalle County, Illinois",#000080
+17101,19.2727396097,0.0,"Lawrence County, Illinois",#000080
+17103,29.4282015696,0.0,"Lee County, Illinois",#000080
+17105,32.1475640293,0.0,"Livingston County, Illinois",#000080
+17107,26.889072543,0.0,"Logan County, Illinois",#000080
+17109,28.0998220635,0.0,"McDonough County, Illinois",#000080
+17111,95.239610107,0.0,"McHenry County, Illinois",#000080
+17113,63.6637807872,0.0,"McLean County, Illinois",#000080
+17115,51.8717244137,0.0,"Macon County, Illinois",#000080
+17117,33.7461344053,0.0,"Macoupin County, Illinois",#000080
+17119,80.1290625595,0.0,"Madison County, Illinois",#000080
+17121,32.92784319,0.0,"Marion County, Illinois",#000080
+17123,18.2287710841,0.0,"Marshall County, Illinois",#000080
+17125,20.0459096093,8.0,"Mason County, Illinois",#ff6800
+17127,17.4505309875,0.0,"Massac County, Illinois",#000080
+17129,17.3652522045,0.0,"Menard County, Illinois",#000080
+17131,19.2050030684,0.0,"Mercer County, Illinois",#000080
+17133,29.8353218279,0.0,"Monroe County, Illinois",#000080
+17135,29.2407019545,0.0,"Montgomery County, Illinois",#000080
+17137,31.0506498667,0.0,"Morgan County, Illinois",#000080
+17139,20.250485003,0.0,"Moultrie County, Illinois",#000080
+17141,35.4495001868,0.0,"Ogle County, Illinois",#000080
+17143,71.1581850639,0.0,"Peoria County, Illinois",#000080
+17145,21.8056440196,0.0,"Perry County, Illinois",#000080
+17147,20.3969438265,0.0,"Piatt County, Illinois",#000080
+17149,23.1155053439,0.0,"Pike County, Illinois",#000080
+17151,9.32574095954,2.0,"Pope County, Illinois",#004cff
+17153,12.3048738569,2.0,"Pulaski County, Illinois",#004cff
+17155,14.8004718929,7.0,"Putnam County, Illinois",#ffc400
+17157,28.2524967291,0.0,"Randolph County, Illinois",#000080
+17159,22.6982011035,0.0,"Richland County, Illinois",#000080
+17161,61.0396501373,0.0,"Rock Island County, Illinois",#000080
+17163,76.9314784789,0.0,"St. Clair County, Illinois",#000080
+17165,25.9423276727,0.0,"Saline County, Illinois",#000080
+17167,75.4227529772,0.0,"Sangamon County, Illinois",#000080
+17169,14.2678459682,8.0,"Schuyler County, Illinois",#ff6800
+17171,11.4120515524,2.0,"Scott County, Illinois",#004cff
+17173,23.5038244102,0.0,"Shelby County, Illinois",#000080
+17175,13.2866743125,8.0,"Stark County, Illinois",#ff6800
+17177,35.5022467431,0.0,"Stephenson County, Illinois",#000080
+17179,55.416707841,0.0,"Tazewell County, Illinois",#000080
+17181,20.6684235044,0.0,"Union County, Illinois",#000080
+17183,41.8134794473,0.0,"Vermilion County, Illinois",#000080
+17185,18.7740322178,8.0,"Wabash County, Illinois",#ff6800
+17187,21.4108061279,0.0,"Warren County, Illinois",#000080
+17189,21.4998062007,0.0,"Washington County, Illinois",#000080
+17191,21.5627728876,8.0,"Wayne County, Illinois",#ff6800
+17193,21.3097619034,8.0,"White County, Illinois",#ff6800
+17195,38.0362295963,0.0,"Whiteside County, Illinois",#000080
+17197,124.24174464,0.0,"Will County, Illinois",#000080
+17199,41.3249991598,0.0,"Williamson County, Illinois",#000080
+17201,85.6788716523,0.0,"Winnebago County, Illinois",#000080
+17203,29.8718293795,0.0,"Woodford County, Illinois",#000080
+17999,197.231445905,5.0,"Unknown Or Undefined, Illinois",#7dff7a
+18001,28.0052220187,0.0,"Adams County, Indiana",#000080
+18003,96.9558727971,0.0,"Allen County, Indiana",#000080
+18005,44.9689487225,0.0,"Bartholomew County, Indiana",#000080
+18007,16.256097757,8.0,"Benton County, Indiana",#ff6800
+18009,17.4511449572,0.0,"Blackford County, Indiana",#000080
+18011,41.016058605,0.0,"Boone County, Indiana",#000080
+18013,20.2463988568,0.0,"Brown County, Indiana",#000080
+18015,21.3436916817,0.0,"Carroll County, Indiana",#000080
+18017,28.5341413437,0.0,"Cass County, Indiana",#000080
+18019,52.2046947959,0.0,"Clark County, Indiana",#000080
+18021,23.8773237048,0.0,"Clay County, Indiana",#000080
+18023,26.57952279,0.0,"Clinton County, Indiana",#000080
+18025,14.5530229228,6.0,"Crawford County, Indiana",#ceff29
+18027,29.5749317379,0.0,"Daviess County, Indiana",#000080
+18029,33.1261777269,0.0,"Dearborn County, Indiana",#000080
+18031,26.7675695157,0.0,"Decatur County, Indiana",#000080
+18033,32.907060081,0.0,"DeKalb County, Indiana",#000080
+18035,50.211599874,0.0,"Delaware County, Indiana",#000080
+18037,37.4367773932,0.0,"Dubois County, Indiana",#000080
+18039,71.3294586175,0.0,"Elkhart County, Indiana",#000080
+18041,22.9117354002,0.0,"Fayette County, Indiana",#000080
+18043,44.0024304884,0.0,"Floyd County, Indiana",#000080
+18045,19.9889949881,0.0,"Fountain County, Indiana",#000080
+18047,20.3474775161,0.0,"Franklin County, Indiana",#000080
+18049,23.0378225933,0.0,"Fulton County, Indiana",#000080
+18051,28.66466632,0.0,"Gibson County, Indiana",#000080
+18053,38.2409393771,0.0,"Grant County, Indiana",#000080
+18055,26.1146966468,0.0,"Greene County, Indiana",#000080
+18057,92.3188659802,0.0,"Hamilton County, Indiana",#000080
+18059,39.41383006,0.0,"Hancock County, Indiana",#000080
+18061,27.4427325795,0.0,"Harrison County, Indiana",#000080
+18063,55.8466224412,0.0,"Hendricks County, Indiana",#000080
+18065,30.8254043859,0.0,"Henry County, Indiana",#000080
+18067,43.7866762369,0.0,"Howard County, Indiana",#000080
+18069,30.994271104,0.0,"Huntington County, Indiana",#000080
+18071,33.4026184697,0.0,"Jackson County, Indiana",#000080
+18073,29.9302628609,0.0,"Jasper County, Indiana",#000080
+18075,21.0828110231,0.0,"Jay County, Indiana",#000080
+18077,28.3617434595,0.0,"Jefferson County, Indiana",#000080
+18079,21.7832668414,0.0,"Jennings County, Indiana",#000080
+18081,57.5958207809,0.0,"Johnson County, Indiana",#000080
+18083,32.8291089862,0.0,"Knox County, Indiana",#000080
+18085,45.3125740284,0.0,"Kosciusko County, Indiana",#000080
+18087,29.748669438,0.0,"Lagrange County, Indiana",#000080
+18089,104.597818196,0.0,"Lake County, Indiana",#000080
+18091,51.5740991042,0.0,"LaPorte County, Indiana",#000080
+18093,30.7196553077,0.0,"Lawrence County, Indiana",#000080
+18095,50.3065562643,0.0,"Madison County, Indiana",#000080
+18097,158.79657547,0.0,"Marion County, Indiana",#000080
+18099,34.1050896914,0.0,"Marshall County, Indiana",#000080
+18101,16.5764343151,8.0,"Martin County, Indiana",#ff6800
+18103,26.2079065375,0.0,"Miami County, Indiana",#000080
+18105,56.9035350535,0.0,"Monroe County, Indiana",#000080
+18107,31.4305545911,0.0,"Montgomery County, Indiana",#000080
+18109,36.7518976942,0.0,"Morgan County, Indiana",#000080
+18111,18.6744137835,0.0,"Newton County, Indiana",#000080
+18113,31.5899948999,0.0,"Noble County, Indiana",#000080
+18115,10.841480453,7.0,"Ohio County, Indiana",#ffc400
+18117,20.8603253715,0.0,"Orange County, Indiana",#000080
+18119,18.3001105904,0.0,"Owen County, Indiana",#000080
+18121,18.8310259859,8.0,"Parke County, Indiana",#ff6800
+18123,21.2484826723,0.0,"Perry County, Indiana",#000080
+18125,15.3409013415,8.0,"Pike County, Indiana",#ff6800
+18127,61.8579369611,0.0,"Porter County, Indiana",#000080
+18129,24.1208185783,0.0,"Posey County, Indiana",#000080
+18131,19.8175307193,0.0,"Pulaski County, Indiana",#000080
+18133,27.5800638258,0.0,"Putnam County, Indiana",#000080
+18135,24.2109774394,0.0,"Randolph County, Indiana",#000080
+18137,28.4361091148,0.0,"Ripley County, Indiana",#000080
+18139,21.1053574031,0.0,"Rush County, Indiana",#000080
+18141,79.6759558243,0.0,"St. Joseph County, Indiana",#000080
+18143,22.0538482407,0.0,"Scott County, Indiana",#000080
+18145,31.772673444,0.0,"Shelby County, Indiana",#000080
+18147,22.6004811018,0.0,"Spencer County, Indiana",#000080
+18149,19.5387384851,0.0,"Starke County, Indiana",#000080
+18151,32.8882004701,0.0,"Steuben County, Indiana",#000080
+18153,21.2795266387,8.0,"Sullivan County, Indiana",#ff6800
+18155,13.0715218142,7.0,"Switzerland County, Indiana",#ffc400
+18157,59.5520314049,0.0,"Tippecanoe County, Indiana",#000080
+18159,19.0013888381,0.0,"Tipton County, Indiana",#000080
+18161,12.8788309141,8.0,"Union County, Indiana",#ff6800
+18163,71.4929400444,0.0,"Vanderburgh County, Indiana",#000080
+18165,18.9201958109,0.0,"Vermillion County, Indiana",#000080
+18167,51.9900898676,0.0,"Vigo County, Indiana",#000080
+18169,29.2139684463,0.0,"Wabash County, Indiana",#000080
+18171,12.8442903132,1.0,"Warren County, Indiana",#0000f1
+18173,34.9768233921,0.0,"Warrick County, Indiana",#000080
+18175,23.1648166442,0.0,"Washington County, Indiana",#000080
+18177,40.9689632817,0.0,"Wayne County, Indiana",#000080
+18179,26.1719815652,0.0,"Wells County, Indiana",#000080
+18181,27.6131294973,0.0,"White County, Indiana",#000080
+18183,28.2136829351,0.0,"Whitley County, Indiana",#000080
+18999,113.511086096,5.0,"Unknown Or Undefined, Indiana",#7dff7a
+19001,17.8132396811,8.0,"Adair County, Iowa",#ff6800
+19003,13.3611168861,8.0,"Adams County, Iowa",#ff6800
+19005,22.8064318413,0.0,"Allamakee County, Iowa",#000080
+19007,21.1226764478,0.0,"Appanoose County, Iowa",#000080
+19009,15.8058031336,8.0,"Audubon County, Iowa",#ff6800
+19011,26.4346453767,0.0,"Benton County, Iowa",#000080
+19013,61.9910259762,0.0,"Black Hawk County, Iowa",#000080
+19015,27.3293623712,0.0,"Boone County, Iowa",#000080
+19017,27.5928806668,0.0,"Bremer County, Iowa",#000080
+19019,25.6482463276,0.0,"Buchanan County, Iowa",#000080
+19021,26.6344895154,0.0,"Buena Vista County, Iowa",#000080
+19023,21.332933404,8.0,"Butler County, Iowa",#ff6800
+19025,19.4047429156,0.0,"Calhoun County, Iowa",#000080
+19027,32.118864061,0.0,"Carroll County, Iowa",#000080
+19029,24.9510234545,0.0,"Cass County, Iowa",#000080
+19031,24.8784505464,0.0,"Cedar County, Iowa",#000080
+19033,41.7654495699,0.0,"Cerro Gordo County, Iowa",#000080
+19035,22.0316511137,0.0,"Cherokee County, Iowa",#000080
+19037,22.2259679383,0.0,"Chickasaw County, Iowa",#000080
+19039,17.1334398737,8.0,"Clarke County, Iowa",#ff6800
+19041,28.1872424143,0.0,"Clay County, Iowa",#000080
+19043,25.7862781893,0.0,"Clayton County, Iowa",#000080
+19045,38.4865725915,0.0,"Clinton County, Iowa",#000080
+19047,23.6078158298,0.0,"Crawford County, Iowa",#000080
+19049,44.3041525876,0.0,"Dallas County, Iowa",#000080
+19051,16.1589819733,8.0,"Davis County, Iowa",#ff6800
+19053,16.0235565677,8.0,"Decatur County, Iowa",#ff6800
+19055,24.7506212845,0.0,"Delaware County, Iowa",#000080
+19057,37.2181098178,0.0,"Des Moines County, Iowa",#000080
+19059,30.6033313365,0.0,"Dickinson County, Iowa",#000080
+19061,57.3562730963,0.0,"Dubuque County, Iowa",#000080
+19063,20.4609771834,0.0,"Emmet County, Iowa",#000080
+19065,27.3364472675,0.0,"Fayette County, Iowa",#000080
+19067,23.1938945853,0.0,"Floyd County, Iowa",#000080
+19069,20.5729634568,0.0,"Franklin County, Iowa",#000080
+19071,17.1998869505,8.0,"Fremont County, Iowa",#ff6800
+19073,18.9769910807,0.0,"Greene County, Iowa",#000080
+19075,20.3411089738,8.0,"Grundy County, Iowa",#ff6800
+19077,20.179059553,0.0,"Guthrie County, Iowa",#000080
+19079,23.4287843583,0.0,"Hamilton County, Iowa",#000080
+19081,20.323084849,0.0,"Hancock County, Iowa",#000080
+19083,27.0032993281,0.0,"Hardin County, Iowa",#000080
+19085,22.0759241839,0.0,"Harrison County, Iowa",#000080
+19087,25.8546916316,0.0,"Henry County, Iowa",#000080
+19089,19.1011925166,0.0,"Howard County, Iowa",#000080
+19091,20.9157702331,0.0,"Humboldt County, Iowa",#000080
+19093,18.0397378822,0.0,"Ida County, Iowa",#000080
+19095,25.3281479656,0.0,"Iowa County, Iowa",#000080
+19097,27.0049525146,0.0,"Jackson County, Iowa",#000080
+19099,31.4971150102,0.0,"Jasper County, Iowa",#000080
+19101,28.7394977367,0.0,"Jefferson County, Iowa",#000080
+19103,62.7823179283,0.0,"Johnson County, Iowa",#000080
+19105,25.6534830087,0.0,"Jones County, Iowa",#000080
+19107,18.7002143269,8.0,"Keokuk County, Iowa",#ff6800
+19109,26.0805376564,0.0,"Kossuth County, Iowa",#000080
+19111,34.4446761385,0.0,"Lee County, Iowa",#000080
+19113,81.8914278321,0.0,"Linn County, Iowa",#000080
+19115,17.2662621758,8.0,"Louisa County, Iowa",#ff6800
+19117,16.122275825,8.0,"Lucas County, Iowa",#ff6800
+19119,22.1368220142,8.0,"Lyon County, Iowa",#ff6800
+19121,21.7667468824,0.0,"Madison County, Iowa",#000080
+19123,26.6154120526,0.0,"Mahaska County, Iowa",#000080
+19125,32.0951153382,0.0,"Marion County, Iowa",#000080
+19127,32.9324705883,0.0,"Marshall County, Iowa",#000080
+19129,19.9138023443,0.0,"Mills County, Iowa",#000080
+19131,20.7980367663,0.0,"Mitchell County, Iowa",#000080
+19133,18.6432889325,8.0,"Monona County, Iowa",#ff6800
+19135,16.8548660017,0.0,"Monroe County, Iowa",#000080
+19137,21.1682976499,0.0,"Montgomery County, Iowa",#000080
+19139,35.316286319,0.0,"Muscatine County, Iowa",#000080
+19141,25.2163810452,0.0,"Obrien County, Iowa",#000080
+19143,16.6059011313,8.0,"Osceola County, Iowa",#ff6800
+19145,23.5657388515,0.0,"Page County, Iowa",#000080
+19147,20.0244691585,8.0,"Palo Alto County, Iowa",#ff6800
+19149,29.5721206115,0.0,"Plymouth County, Iowa",#000080
+19151,17.9016049648,8.0,"Pocahontas County, Iowa",#ff6800
+19153,126.460209251,0.0,"Polk County, Iowa",#000080
+19155,51.2169405568,0.0,"Pottawattamie County, Iowa",#000080
+19157,26.8266628799,0.0,"Poweshiek County, Iowa",#000080
+19159,14.8944434083,8.0,"Ringgold County, Iowa",#ff6800
+19161,21.1707345173,8.0,"Sac County, Iowa",#ff6800
+19163,74.9622391714,0.0,"Scott County, Iowa",#000080
+19165,22.4108640038,0.0,"Shelby County, Iowa",#000080
+19167,37.0105036571,0.0,"Sioux County, Iowa",#000080
+19169,50.7467529652,0.0,"Story County, Iowa",#000080
+19171,22.2546856133,0.0,"Tama County, Iowa",#000080
+19173,14.7913262872,8.0,"Taylor County, Iowa",#ff6800
+19175,21.849657656,0.0,"Union County, Iowa",#000080
+19177,15.4100307469,8.0,"Van Buren County, Iowa",#ff6800
+19179,31.5937066769,0.0,"Wapello County, Iowa",#000080
+19181,31.5330766123,0.0,"Warren County, Iowa",#000080
+19183,28.5089584918,0.0,"Washington County, Iowa",#000080
+19185,14.8408488184,8.0,"Wayne County, Iowa",#ff6800
+19187,36.2280092027,0.0,"Webster County, Iowa",#000080
+19189,21.15654051,0.0,"Winnebago County, Iowa",#000080
+19191,27.6939481097,0.0,"Winneshiek County, Iowa",#000080
+19193,57.3498245939,0.0,"Woodbury County, Iowa",#000080
+19195,16.1278375134,8.0,"Worth County, Iowa",#ff6800
+19197,23.8008103103,0.0,"Wright County, Iowa",#000080
+19999,0.0,9.0,"Unknown Or Undefined, Iowa",#f10800
+20001,21.1740894371,0.0,"Allen County, Kansas",#000080
+20003,16.368026808,7.0,"Anderson County, Kansas",#ffc400
+20005,21.7128719778,0.0,"Atchison County, Kansas",#000080
+20007,16.1843055468,7.0,"Barber County, Kansas",#ffc400
+20009,32.9026642912,0.0,"Barton County, Kansas",#000080
+20011,21.1466065423,0.0,"Bourbon County, Kansas",#000080
+20013,19.2499639249,0.0,"Brown County, Kansas",#000080
+20015,38.7277534707,0.0,"Butler County, Kansas",#000080
+20017,10.3627270113,1.0,"Chase County, Kansas",#0000f1
+20019,11.8807734503,1.0,"Chautauqua County, Kansas",#0000f1
+20021,23.4751726332,8.0,"Cherokee County, Kansas",#ff6800
+20023,11.893725837,1.0,"Cheyenne County, Kansas",#0000f1
+20025,10.7636034268,1.0,"Clark County, Kansas",#0000f1
+20027,18.0267988337,0.0,"Clay County, Kansas",#000080
+20029,19.2807062869,8.0,"Cloud County, Kansas",#ff6800
+20031,18.0204579509,8.0,"Coffey County, Kansas",#ff6800
+20033,10.8664877286,1.0,"Comanche County, Kansas",#0000f1
+20035,29.8915632839,0.0,"Cowley County, Kansas",#000080
+20037,34.4626782255,0.0,"Crawford County, Kansas",#000080
+20039,12.4440334399,1.0,"Decatur County, Kansas",#0000f1
+20041,24.6934860635,0.0,"Dickinson County, Kansas",#000080
+20043,15.6015490684,8.0,"Doniphan County, Kansas",#ff6800
+20045,56.0560341824,0.0,"Douglas County, Kansas",#000080
+20047,12.6107789621,1.0,"Edwards County, Kansas",#0000f1
+20049,11.113162509,1.0,"Elk County, Kansas",#0000f1
+20051,34.5962540407,0.0,"Ellis County, Kansas",#000080
+20053,15.0520393598,6.0,"Ellsworth County, Kansas",#ceff29
+20055,34.1053631215,0.0,"Finney County, Kansas",#000080
+20057,29.6878469069,0.0,"Ford County, Kansas",#000080
+20059,26.1439239959,0.0,"Franklin County, Kansas",#000080
+20061,28.6289134013,0.0,"Geary County, Kansas",#000080
+20063,12.9305378668,1.0,"Gove County, Kansas",#0000f1
+20065,12.5891424623,6.0,"Graham County, Kansas",#ceff29
+20067,17.1004733992,6.0,"Grant County, Kansas",#ceff29
+20069,17.4807717493,1.0,"Gray County, Kansas",#0000f1
+20071,9.23560656218,1.0,"Greeley County, Kansas",#0000f1
+20073,16.523300047,7.0,"Greenwood County, Kansas",#ffc400
+20075,10.7965492724,1.0,"Hamilton County, Kansas",#0000f1
+20077,16.700822145,7.0,"Harper County, Kansas",#ffc400
+20079,30.3315802738,0.0,"Harvey County, Kansas",#000080
+20081,13.8569935354,6.0,"Haskell County, Kansas",#ceff29
+20083,9.48992782685,1.0,"Hodgeman County, Kansas",#0000f1
+20085,18.6036457427,0.0,"Jackson County, Kansas",#000080
+20087,20.1528090917,0.0,"Jefferson County, Kansas",#000080
+20089,12.1895414448,1.0,"Jewell County, Kansas",#0000f1
+20091,147.265015943,0.0,"Johnson County, Kansas",#000080
+20093,12.1015544063,1.0,"Kearny County, Kansas",#0000f1
+20095,17.0217181533,7.0,"Kingman County, Kansas",#ffc400
+20097,11.833065054,1.0,"Kiowa County, Kansas",#0000f1
+20099,33.9133934304,8.0,"Labette County, Kansas",#ff6800
+20101,10.3231324457,1.0,"Lane County, Kansas",#0000f1
+20103,38.1673892633,0.0,"Leavenworth County, Kansas",#000080
+20105,12.128102614,1.0,"Lincoln County, Kansas",#0000f1
+20107,16.6128297141,6.0,"Linn County, Kansas",#ceff29
+20109,12.5763856569,1.0,"Logan County, Kansas",#0000f1
+20111,31.8561187464,0.0,"Lyon County, Kansas",#000080
+20113,31.90483742,0.0,"Mcpherson County, Kansas",#000080
+20115,19.8262292199,8.0,"Marion County, Kansas",#ff6800
+20117,21.0403429569,8.0,"Marshall County, Kansas",#ff6800
+20119,12.7950728364,1.0,"Meade County, Kansas",#0000f1
+20121,29.7514838899,0.0,"Miami County, Kansas",#000080
+20123,18.1938198124,7.0,"Mitchell County, Kansas",#ffc400
+20125,32.6122968336,0.0,"Montgomery County, Kansas",#000080
+20127,13.8279536298,6.0,"Morris County, Kansas",#ceff29
+20129,12.1034397577,1.0,"Morton County, Kansas",#0000f1
+20131,21.5303034873,0.0,"Nemaha County, Kansas",#000080
+20133,24.251910414,0.0,"Neosho County, Kansas",#000080
+20135,13.8100205165,1.0,"Ness County, Kansas",#0000f1
+20137,15.0168423963,8.0,"Norton County, Kansas",#ff6800
+20139,19.4521084669,8.0,"Osage County, Kansas",#ff6800
+20141,14.0951697231,7.0,"Osborne County, Kansas",#ffc400
+20143,13.9229597975,8.0,"Ottawa County, Kansas",#ff6800
+20145,16.3774549838,1.0,"Pawnee County, Kansas",#0000f1
+20147,16.6791976702,8.0,"Phillips County, Kansas",#ff6800
+20149,25.8113039713,0.0,"Pottawatomie County, Kansas",#000080
+20151,20.6935501032,6.0,"Pratt County, Kansas",#ceff29
+20153,11.9752721413,1.0,"Rawlins County, Kansas",#0000f1
+20155,42.9558789886,0.0,"Reno County, Kansas",#000080
+20157,15.8802812737,8.0,"Republic County, Kansas",#ff6800
+20159,19.507629765,7.0,"Rice County, Kansas",#ffc400
+20161,41.8572877727,0.0,"Riley County, Kansas",#000080
+20163,15.6952500144,7.0,"Rooks County, Kansas",#ffc400
+20165,11.9683776466,1.0,"Rush County, Kansas",#0000f1
+20167,18.9904529063,7.0,"Russell County, Kansas",#ffc400
+20169,42.7505128531,0.0,"Saline County, Kansas",#000080
+20171,16.5854090589,1.0,"Scott County, Kansas",#0000f1
+20173,114.363424473,0.0,"Sedgwick County, Kansas",#000080
+20175,26.3306659288,0.0,"Seward County, Kansas",#000080
+20177,71.5727069556,0.0,"Shawnee County, Kansas",#000080
+20179,12.1463953762,1.0,"Sheridan County, Kansas",#0000f1
+20181,17.8294944689,8.0,"Sherman County, Kansas",#ff6800
+20183,14.1346697481,7.0,"Smith County, Kansas",#ffc400
+20185,14.3446383988,1.0,"Stafford County, Kansas",#0000f1
+20187,10.5979183341,1.0,"Stanton County, Kansas",#0000f1
+20189,15.0582466991,6.0,"Stevens County, Kansas",#ceff29
+20191,24.9821047063,0.0,"Sumner County, Kansas",#000080
+20193,20.6581395619,8.0,"Thomas County, Kansas",#ff6800
+20195,13.1046913931,6.0,"Trego County, Kansas",#ceff29
+20197,14.209319544,8.0,"Wabaunsee County, Kansas",#ff6800
+20199,10.0517312731,1.0,"Wallace County, Kansas",#0000f1
+20201,17.5595924131,1.0,"Washington County, Kansas",#0000f1
+20203,11.4808328883,6.0,"Wichita County, Kansas",#ceff29
+20205,18.1228063807,8.0,"Wilson County, Kansas",#ff6800
+20207,11.9412251106,1.0,"Woodson County, Kansas",#0000f1
+20209,58.6996018212,0.0,"Wyandotte County, Kansas",#000080
+20999,47.8033629354,5.0,"Unknown Or Undefined, Kansas",#7dff7a
+21001,21.0061026658,8.0,"Adair County, Kentucky",#ff6800
+21003,18.1187988845,0.0,"Allen County, Kentucky",#000080
+21005,20.5693175725,0.0,"Anderson County, Kentucky",#000080
+21007,14.823110442,8.0,"Ballard County, Kentucky",#ff6800
+21009,33.5611618884,0.0,"Barren County, Kentucky",#000080
+21011,14.7721316341,8.0,"Bath County, Kentucky",#ff6800
+21013,26.4619223288,0.0,"Bell County, Kentucky",#000080
+21015,63.5069612482,0.0,"Boone County, Kentucky",#000080
+21017,24.0627321675,0.0,"Bourbon County, Kentucky",#000080
+21019,42.1800844453,0.0,"Boyd County, Kentucky",#000080
+21021,30.5486276417,0.0,"Boyle County, Kentucky",#000080
+21023,13.1920039514,8.0,"Bracken County, Kentucky",#ff6800
+21025,18.0668511676,8.0,"Breathitt County, Kentucky",#ff6800
+21027,20.2266718461,0.0,"Breckinridge County, Kentucky",#000080
+21029,35.4357007676,0.0,"Bullitt County, Kentucky",#000080
+21031,17.0209021826,8.0,"Butler County, Kentucky",#ff6800
+21033,19.2542409264,8.0,"Caldwell County, Kentucky",#ff6800
+21035,32.320542389,0.0,"Calloway County, Kentucky",#000080
+21037,46.4202165865,0.0,"Campbell County, Kentucky",#000080
+21039,11.5079682539,8.0,"Carlisle County, Kentucky",#ff6800
+21041,18.5787470318,0.0,"Carroll County, Kentucky",#000080
+21043,23.8057366036,0.0,"Carter County, Kentucky",#000080
+21045,17.2348507207,8.0,"Casey County, Kentucky",#ff6800
+21047,41.4652369222,0.0,"Christian County, Kentucky",#000080
+21049,30.7230201682,0.0,"Clark County, Kentucky",#000080
+21051,19.6136290483,8.0,"Clay County, Kentucky",#ff6800
+21053,16.7571590955,8.0,"Clinton County, Kentucky",#ff6800
+21055,14.5449494862,8.0,"Crittenden County, Kentucky",#ff6800
+21057,13.4817042397,8.0,"Cumberland County, Kentucky",#ff6800
+21059,53.700067246,0.0,"Daviess County, Kentucky",#000080
+21061,13.2923626478,8.0,"Edmonson County, Kentucky",#ff6800
+21063,10.1168176815,8.0,"Elliott County, Kentucky",#ff6800
+21065,16.5043164147,8.0,"Estill County, Kentucky",#ff6800
+21067,101.675842677,0.0,"Fayette County, Kentucky",#000080
+21069,18.4133858314,8.0,"Fleming County, Kentucky",#ff6800
+21071,33.1298671177,0.0,"Floyd County, Kentucky",#000080
+21073,41.3664853609,0.0,"Franklin County, Kentucky",#000080
+21075,15.7375170991,8.0,"Fulton County, Kentucky",#ff6800
+21077,13.4335223903,8.0,"Gallatin County, Kentucky",#ff6800
+21079,17.8379833724,0.0,"Garrard County, Kentucky",#000080
+21081,23.2080907485,0.0,"Grant County, Kentucky",#000080
+21083,29.9948143666,0.0,"Graves County, Kentucky",#000080
+21085,25.4642139183,0.0,"Grayson County, Kentucky",#000080
+21087,15.2144068108,8.0,"Green County, Kentucky",#ff6800
+21089,25.3012720052,0.0,"Greenup County, Kentucky",#000080
+21091,14.2929386495,8.0,"Hancock County, Kentucky",#ff6800
+21093,53.9603653782,0.0,"Hardin County, Kentucky",#000080
+21095,25.0316704159,8.0,"Harlan County, Kentucky",#ff6800
+21097,20.0476416695,0.0,"Harrison County, Kentucky",#000080
+21099,19.019351048,8.0,"Hart County, Kentucky",#ff6800
+21101,35.4797337636,0.0,"Henderson County, Kentucky",#000080
+21103,18.0828011772,8.0,"Henry County, Kentucky",#ff6800
+21105,10.8864084476,8.0,"Hickman County, Kentucky",#ff6800
+21107,34.3720251238,0.0,"Hopkins County, Kentucky",#000080
+21109,13.8754522306,8.0,"Jackson County, Kentucky",#ff6800
+21111,156.466772171,0.0,"Jefferson County, Kentucky",#000080
+21113,36.0728264698,0.0,"Jessamine County, Kentucky",#000080
+21115,24.2400118524,8.0,"Johnson County, Kentucky",#ff6800
+21117,63.792225356,0.0,"Kenton County, Kentucky",#000080
+21119,17.2505233415,8.0,"Knott County, Kentucky",#ff6800
+21121,24.7469655026,8.0,"Knox County, Kentucky",#ff6800
+21123,17.5749980243,0.0,"Larue County, Kentucky",#000080
+21125,38.0972127464,0.0,"Laurel County, Kentucky",#000080
+21127,17.6558479902,8.0,"Lawrence County, Kentucky",#ff6800
+21129,13.3291213585,8.0,"Lee County, Kentucky",#ff6800
+21131,13.8330894987,8.0,"Leslie County, Kentucky",#ff6800
+21133,22.5376580803,8.0,"Letcher County, Kentucky",#ff6800
+21135,14.5922761696,8.0,"Lewis County, Kentucky",#ff6800
+21137,20.6688938892,0.0,"Lincoln County, Kentucky",#000080
+21139,15.3725043142,8.0,"Livingston County, Kentucky",#ff6800
+21141,24.9366419373,0.0,"Logan County, Kentucky",#000080
+21143,15.4915363477,8.0,"Lyon County, Kentucky",#ff6800
+21145,50.8072024953,0.0,"McCracken County, Kentucky",#000080
+21147,16.1756479716,8.0,"McCreary County, Kentucky",#ff6800
+21149,15.224588508,8.0,"McLean County, Kentucky",#ff6800
+21151,44.4643873907,0.0,"Madison County, Kentucky",#000080
+21153,15.6000737686,8.0,"Magoffin County, Kentucky",#ff6800
+21155,22.1066767907,0.0,"Marion County, Kentucky",#000080
+21157,28.8893414189,0.0,"Marshall County, Kentucky",#000080
+21159,15.5544359007,8.0,"Martin County, Kentucky",#ff6800
+21161,24.6331819056,0.0,"Mason County, Kentucky",#000080
+21163,21.2184125642,0.0,"Meade County, Kentucky",#000080
+21165,10.7969903214,8.0,"Menifee County, Kentucky",#ff6800
+21167,23.2364058227,0.0,"Mercer County, Kentucky",#000080
+21169,14.4342928307,8.0,"Metcalfe County, Kentucky",#ff6800
+21171,17.1611526049,8.0,"Monroe County, Kentucky",#ff6800
+21173,26.6938997847,0.0,"Montgomery County, Kentucky",#000080
+21175,16.1669734875,8.0,"Morgan County, Kentucky",#ff6800
+21177,26.073902905,0.0,"Muhlenberg County, Kentucky",#000080
+21179,34.5432498632,0.0,"Nelson County, Kentucky",#000080
+21181,11.339739086,8.0,"Nicholas County, Kentucky",#ff6800
+21183,21.4811471421,8.0,"Ohio County, Kentucky",#ff6800
+21185,39.6785096366,0.0,"Oldham County, Kentucky",#000080
+21187,12.7933359389,8.0,"Owen County, Kentucky",#ff6800
+21189,9.46176516301,8.0,"Owsley County, Kentucky",#ff6800
+21191,15.70378076,8.0,"Pendleton County, Kentucky",#ff6800
+21193,30.0491726638,8.0,"Perry County, Kentucky",#ff6800
+21195,41.6771986689,0.0,"Pike County, Kentucky",#000080
+21197,16.0992211189,8.0,"Powell County, Kentucky",#ff6800
+21199,41.571157202,0.0,"Pulaski County, Kentucky",#000080
+21201,7.05632104334,8.0,"Robertson County, Kentucky",#ff6800
+21203,16.8283703198,8.0,"Rockcastle County, Kentucky",#ff6800
+21205,24.856708398,0.0,"Rowan County, Kentucky",#000080
+21207,21.8113302433,0.0,"Russell County, Kentucky",#000080
+21209,33.9266072949,0.0,"Scott County, Kentucky",#000080
+21211,33.3062687745,0.0,"Shelby County, Kentucky",#000080
+21213,22.7291331129,0.0,"Simpson County, Kentucky",#000080
+21215,17.5151974827,0.0,"Spencer County, Kentucky",#000080
+21217,27.997463037,0.0,"Taylor County, Kentucky",#000080
+21219,16.4525411749,8.0,"Todd County, Kentucky",#ff6800
+21221,17.79059186,0.0,"Trigg County, Kentucky",#000080
+21223,11.8740246049,8.0,"Trimble County, Kentucky",#ff6800
+21225,20.3566026105,8.0,"Union County, Kentucky",#ff6800
+21227,59.1771352241,0.0,"Warren County, Kentucky",#000080
+21229,18.1248097965,8.0,"Washington County, Kentucky",#ff6800
+21231,20.1918870239,8.0,"Wayne County, Kentucky",#ff6800
+21233,17.3477847266,8.0,"Webster County, Kentucky",#ff6800
+21235,29.8853497049,0.0,"Whitley County, Kentucky",#000080
+21237,12.5187636947,8.0,"Wolfe County, Kentucky",#ff6800
+21239,27.6306923317,0.0,"Woodford County, Kentucky",#000080
+21999,73.6629227663,5.0,"Unknown Or Undefined, Kentucky",#7dff7a
+22001,36.8262059469,0.0,"Acadia Parish, Louisiana",#000080
+22003,22.2365796873,8.0,"Allen Parish, Louisiana",#ff6800
+22005,50.5680745009,0.0,"Ascension Parish, Louisiana",#000080
+22007,19.0432361029,6.0,"Assumption Parish, Louisiana",#ceff29
+22009,30.9851538951,0.0,"Avoyelles Parish, Louisiana",#000080
+22011,27.5870052224,0.0,"Beauregard Parish, Louisiana",#000080
+22013,18.9466146409,6.0,"Bienville Parish, Louisiana",#ceff29
+22015,53.9997170774,0.0,"Bossier Parish, Louisiana",#000080
+22017,88.1239229361,0.0,"Caddo Parish, Louisiana",#000080
+22019,72.2741281731,0.0,"Calcasieu Parish, Louisiana",#000080
+22021,16.4416959308,6.0,"Caldwell Parish, Louisiana",#ceff29
+22023,15.2407140607,4.0,"Cameron Parish, Louisiana",#29ffce
+22025,16.7714917794,6.0,"Catahoula Parish, Louisiana",#ceff29
+22027,18.545236414,6.0,"Claiborne Parish, Louisiana",#ceff29
+22029,22.1535138207,6.0,"Concordia Parish, Louisiana",#ceff29
+22031,23.4240413739,0.0,"De Soto Parish, Louisiana",#000080
+22033,123.404829663,0.0,"East Baton Rouge Parish, Louisiana",#000080
+22035,15.2078457195,8.0,"East Carroll Parish, Louisiana",#ff6800
+22037,19.5611170843,8.0,"East Feliciana Parish, Louisiana",#ff6800
+22039,26.0452140441,0.0,"Evangeline Parish, Louisiana",#000080
+22041,22.1324117708,8.0,"Franklin Parish, Louisiana",#ff6800
+22043,16.594307209,8.0,"Grant Parish, Louisiana",#ff6800
+22045,45.1724649239,0.0,"Iberia Parish, Louisiana",#000080
+22047,27.80014417,0.0,"Iberville Parish, Louisiana",#000080
+22049,18.6138069595,8.0,"Jackson Parish, Louisiana",#ff6800
+22051,121.102327845,0.0,"Jefferson Parish, Louisiana",#000080
+22053,28.5234517825,0.0,"Jefferson Davis Parish, Louisiana",#000080
+22055,96.8790933595,0.0,"Lafayette Parish, Louisiana",#000080
+22057,47.4586787688,0.0,"Lafourche Parish, Louisiana",#000080
+22059,20.9609803781,6.0,"LaSalle Parish, Louisiana",#ceff29
+22061,35.8463874339,0.0,"Lincoln Parish, Louisiana",#000080
+22063,45.4022672673,0.0,"Livingston Parish, Louisiana",#000080
+22065,18.3259508946,8.0,"Madison Parish, Louisiana",#ff6800
+22067,24.9501487097,0.0,"Morehouse Parish, Louisiana",#000080
+22069,32.6722723567,0.0,"Natchitoches Parish, Louisiana",#000080
+22071,109.309976817,0.0,"Orleans Parish, Louisiana",#000080
+22073,70.4344483043,0.0,"Ouachita Parish, Louisiana",#000080
+22075,30.0133964798,0.0,"Plaquemines Parish, Louisiana",#000080
+22077,23.0547743222,8.0,"Pointe Coupee Parish, Louisiana",#ff6800
+22079,62.2919043633,0.0,"Rapides Parish, Louisiana",#000080
+22081,15.0225888116,6.0,"Red River Parish, Louisiana",#ceff29
+22083,24.0634825093,8.0,"Richland Parish, Louisiana",#ff6800
+22085,23.9528803318,8.0,"Sabine Parish, Louisiana",#ff6800
+22087,30.286620232,0.0,"St. Bernard Parish, Louisiana",#000080
+22089,35.613617647,0.0,"St. Charles Parish, Louisiana",#000080
+22091,11.7527099205,8.0,"St. Helena Parish, Louisiana",#ff6800
+22093,21.5916650585,6.0,"St. James Parish, Louisiana",#ceff29
+22095,31.2856336521,0.0,"St. John the Baptist Parish, Louisiana",#000080
+22097,44.2542572609,0.0,"St. Landry Parish, Louisiana",#000080
+22099,32.7052068569,0.0,"St. Martin Parish, Louisiana",#000080
+22101,41.5078305865,0.0,"St. Mary Parish, Louisiana",#000080
+22103,88.3144678866,0.0,"St. Tammany Parish, Louisiana",#000080
+22105,54.0561730172,0.0,"Tangipahoa Parish, Louisiana",#000080
+22107,13.3382728946,6.0,"Tensas Parish, Louisiana",#ceff29
+22109,59.0318988291,0.0,"Terrebonne Parish, Louisiana",#000080
+22111,21.3762588973,8.0,"Union Parish, Louisiana",#ff6800
+22113,36.3490518642,0.0,"Vermilion Parish, Louisiana",#000080
+22115,31.6265974564,0.0,"Vernon Parish, Louisiana",#000080
+22117,29.3656612984,0.0,"Washington Parish, Louisiana",#000080
+22119,32.0842887922,0.0,"Webster Parish, Louisiana",#000080
+22121,27.0236815604,0.0,"West Baton Rouge Parish, Louisiana",#000080
+22123,16.1494016794,8.0,"West Carroll Parish, Louisiana",#ff6800
+22125,17.4581245015,8.0,"West Feliciana Parish, Louisiana",#ff6800
+22127,20.404685503,8.0,"Winn Parish, Louisiana",#ff6800
+22999,53.3743331991,5.0,"Unknown Or Undefined, Louisiana",#7dff7a
+23001,57.2366432745,0.0,"Androscoggin County, Maine",#000080
+23003,51.0625744351,0.0,"Aroostook County, Maine",#000080
+23005,115.618536713,0.0,"Cumberland County, Maine",#000080
+23007,31.8208527018,0.0,"Franklin County, Maine",#000080
+23009,52.045984704,0.0,"Hancock County, Maine",#000080
+23011,63.427561482,0.0,"Kennebec County, Maine",#000080
+23013,45.1922129477,0.0,"Knox County, Maine",#000080
+23015,41.4051076138,0.0,"Lincoln County, Maine",#000080
+23017,40.7069960057,0.0,"Oxford County, Maine",#000080
+23019,69.5082357802,0.0,"Penobscot County, Maine",#000080
+23021,24.4144765798,8.0,"Piscataquis County, Maine",#ff6800
+23023,34.1842869779,0.0,"Sagadahoc County, Maine",#000080
+23025,38.842243,0.0,"Somerset County, Maine",#000080
+23027,35.034705016,0.0,"Waldo County, Maine",#000080
+23029,34.3672855702,8.0,"Washington County, Maine",#ff6800
+23031,82.5111704799,0.0,"York County, Maine",#000080
+23999,59.2692437439,5.0,"Unknown Or Undefined, Maine",#7dff7a
+24001,43.0868171199,0.0,"Allegany County, Maryland",#000080
+24003,124.931859205,0.0,"Anne Arundel County, Maryland",#000080
+24005,151.018455195,0.0,"Baltimore County, Maryland",#000080
+24009,45.2600203761,0.0,"Calvert County, Maryland",#000080
+24011,27.8720076335,0.0,"Caroline County, Maryland",#000080
+24013,70.7457890384,0.0,"Carroll County, Maryland",#000080
+24015,46.4348878487,0.0,"Cecil County, Maryland",#000080
+24017,56.6200228199,0.0,"Charles County, Maryland",#000080
+24019,29.7878877057,0.0,"Dorchester County, Maryland",#000080
+24021,80.7487898578,0.0,"Frederick County, Maryland",#000080
+24023,32.436115478,0.0,"Garrett County, Maryland",#000080
+24025,77.5809357207,0.0,"Harford County, Maryland",#000080
+24027,97.8388819713,0.0,"Howard County, Maryland",#000080
+24029,29.01570456,0.0,"Kent County, Maryland",#000080
+24031,186.576868282,0.0,"Montgomery County, Maryland",#000080
+24033,130.077043715,0.0,"Prince George's County, Maryland",#000080
+24035,40.0950507574,0.0,"Queen Anne's County, Maryland",#000080
+24037,47.4107934265,0.0,"St. Mary's County, Maryland",#000080
+24039,23.2254564088,0.0,"Somerset County, Maryland",#000080
+24041,42.2508664324,0.0,"Talbot County, Maryland",#000080
+24043,61.5311928896,0.0,"Washington County, Maryland",#000080
+24045,53.8123023935,0.0,"Wicomico County, Maryland",#000080
+24047,50.446305731,0.0,"Worcester County, Maryland",#000080
+24510,123.311698553,0.0,"Baltimore City, Maryland",#000080
+24999,127.402198718,5.0,"Unknown Or Undefined, Maryland",#7dff7a
+25001,99.7821774492,0.0,"Barnstable County, Massachusetts",#000080
+25003,72.3362792905,0.0,"Berkshire County, Massachusetts",#000080
+25005,130.700589316,0.0,"Bristol County, Massachusetts",#000080
+25007,36.0387027408,0.0,"Dukes County, Massachusetts",#000080
+25009,151.982335022,0.0,"Essex County, Massachusetts",#000080
+25011,48.9065881562,0.0,"Franklin County, Massachusetts",#000080
+25013,126.372316199,0.0,"Hampden County, Massachusetts",#000080
+25015,69.7099660384,0.0,"Hampshire County, Massachusetts",#000080
+25017,228.183991829,0.0,"Middlesex County, Massachusetts",#000080
+25019,33.3225220563,0.0,"Nantucket County, Massachusetts",#000080
+25021,157.450512508,0.0,"Norfolk County, Massachusetts",#000080
+25023,122.622518906,0.0,"Plymouth County, Massachusetts",#000080
+25025,159.171580577,0.0,"Suffolk County, Massachusetts",#000080
+25027,151.213958056,0.0,"Worcester County, Massachusetts",#000080
+25999,117.828056055,5.0,"Unknown Or Undefined, Massachusetts",#7dff7a
+26001,16.3157947624,8.0,"Alcona County, Michigan",#ff6800
+26003,17.4543054224,8.0,"Alger County, Michigan",#ff6800
+26005,48.7069956841,0.0,"Allegan County, Michigan",#000080
+26007,30.0576034276,0.0,"Alpena County, Michigan",#000080
+26009,25.833778798,0.0,"Antrim County, Michigan",#000080
+26011,20.3869803613,0.0,"Arenac County, Michigan",#000080
+26013,16.7375872036,8.0,"Baraga County, Michigan",#ff6800
+26015,31.5726486513,0.0,"Barry County, Michigan",#000080
+26017,49.4205270314,0.0,"Bay County, Michigan",#000080
+26019,23.334039105,0.0,"Benzie County, Michigan",#000080
+26021,63.4201034674,0.0,"Berrien County, Michigan",#000080
+26023,29.7604523455,0.0,"Branch County, Michigan",#000080
+26025,52.202133083,0.0,"Calhoun County, Michigan",#000080
+26027,29.4897345604,0.0,"Cass County, Michigan",#000080
+26029,30.714003321,0.0,"Charlevoix County, Michigan",#000080
+26031,31.1726566691,0.0,"Cheboygan County, Michigan",#000080
+26033,31.1635279805,0.0,"Chippewa County, Michigan",#000080
+26035,25.4344785363,0.0,"Clare County, Michigan",#000080
+26037,35.7430979018,0.0,"Clinton County, Michigan",#000080
+26039,19.2820543264,0.0,"Crawford County, Michigan",#000080
+26041,34.7233568069,0.0,"Delta County, Michigan",#000080
+26043,32.0049537336,0.0,"Dickinson County, Michigan",#000080
+26045,43.8110843407,0.0,"Eaton County, Michigan",#000080
+26047,40.0546749347,0.0,"Emmet County, Michigan",#000080
+26049,89.4775887521,0.0,"Genesee County, Michigan",#000080
+26051,22.3730279791,0.0,"Gladwin County, Michigan",#000080
+26053,22.6123298295,0.0,"Gogebic County, Michigan",#000080
+26055,59.4862462428,0.0,"Grand Traverse County, Michigan",#000080
+26057,28.942519663,0.0,"Gratiot County, Michigan",#000080
+26059,30.8955935113,0.0,"Hillsdale County, Michigan",#000080
+26061,32.4024727158,0.0,"Houghton County, Michigan",#000080
+26063,33.2856563798,0.0,"Huron County, Michigan",#000080
+26065,83.503590361,0.0,"Ingham County, Michigan",#000080
+26067,32.4273730637,0.0,"Ionia County, Michigan",#000080
+26069,26.3686848304,0.0,"Iosco County, Michigan",#000080
+26071,21.5052780528,0.0,"Iron County, Michigan",#000080
+26073,38.6606625059,0.0,"Isabella County, Michigan",#000080
+26075,55.7201411249,0.0,"Jackson County, Michigan",#000080
+26077,75.9540143876,0.0,"Kalamazoo County, Michigan",#000080
+26079,19.6778418613,8.0,"Kalkaska County, Michigan",#ff6800
+26081,122.204184455,0.0,"Kent County, Michigan",#000080
+26083,9.95101095606,1.0,"Keweenaw County, Michigan",#0000f1
+26085,14.5604241827,8.0,"Lake County, Michigan",#ff6800
+26087,41.1742522412,0.0,"Lapeer County, Michigan",#000080
+26089,27.6145665495,0.0,"Leelanau County, Michigan",#000080
+26091,45.6829133422,0.0,"Lenawee County, Michigan",#000080
+26093,65.3639718004,0.0,"Livingston County, Michigan",#000080
+26095,14.970871188,8.0,"Luce County, Michigan",#ff6800
+26097,24.4166951081,0.0,"Mackinac County, Michigan",#000080
+26099,136.222590078,0.0,"Macomb County, Michigan",#000080
+26101,25.8798352587,0.0,"Manistee County, Michigan",#000080
+26103,42.9750943008,0.0,"Marquette County, Michigan",#000080
+26105,29.033690064,0.0,"Mason County, Michigan",#000080
+26107,28.192155275,0.0,"Mecosta County, Michigan",#000080
+26109,24.1670197019,0.0,"Menominee County, Michigan",#000080
+26111,45.1119418955,0.0,"Midland County, Michigan",#000080
+26113,18.5781382873,8.0,"Missaukee County, Michigan",#ff6800
+26115,50.6443128947,0.0,"Monroe County, Michigan",#000080
+26117,34.1153563617,0.0,"Montcalm County, Michigan",#000080
+26119,17.0816665854,0.0,"Montmorency County, Michigan",#000080
+26121,57.9943039075,0.0,"Muskegon County, Michigan",#000080
+26123,30.1999421843,0.0,"Newaygo County, Michigan",#000080
+26125,201.497417172,0.0,"Oakland County, Michigan",#000080
+26127,26.4687221824,0.0,"Oceana County, Michigan",#000080
+26129,25.4730561045,0.0,"Ogemaw County, Michigan",#000080
+26131,16.2852426136,7.0,"Ontonagon County, Michigan",#ffc400
+26133,22.6793032003,0.0,"Osceola County, Michigan",#000080
+26135,16.379998934,8.0,"Oscoda County, Michigan",#ff6800
+26137,28.9838214313,0.0,"Otsego County, Michigan",#000080
+26139,77.2585922689,0.0,"Ottawa County, Michigan",#000080
+26141,21.0395413825,0.0,"Presque Isle County, Michigan",#000080
+26143,25.7646706551,0.0,"Roscommon County, Michigan",#000080
+26145,66.9864503001,0.0,"Saginaw County, Michigan",#000080
+26147,57.4954725616,0.0,"St. Clair County, Michigan",#000080
+26149,41.5095944159,0.0,"St. Joseph County, Michigan",#000080
+26151,31.7030179826,0.0,"Sanilac County, Michigan",#000080
+26153,17.2082137088,8.0,"Schoolcraft County, Michigan",#ff6800
+26155,36.1637424756,0.0,"Shiawassee County, Michigan",#000080
+26157,31.4648960357,0.0,"Tuscola County, Michigan",#000080
+26159,39.521904716,0.0,"Van Buren County, Michigan",#000080
+26161,93.0901700606,0.0,"Washtenaw County, Michigan",#000080
+26163,183.91342317,0.0,"Wayne County, Michigan",#000080
+26165,30.003300083,0.0,"Wexford County, Michigan",#000080
+26999,176.66193053,5.0,"Unknown Or Undefined, Michigan",#7dff7a
+27001,23.302428513,0.0,"Aitkin County, Minnesota",#000080
+27003,87.7280158325,0.0,"Anoka County, Minnesota",#000080
+27005,34.2157487178,0.0,"Becker County, Minnesota",#000080
+27007,36.271096762,0.0,"Beltrami County, Minnesota",#000080
+27009,32.1514891408,0.0,"Benton County, Minnesota",#000080
+27011,15.535571063,7.0,"Big Stone County, Minnesota",#ffc400
+27013,46.2402499375,0.0,"Blue Earth County, Minnesota",#000080
+27015,29.7433932907,0.0,"Brown County, Minnesota",#000080
+27017,29.3860929747,0.0,"Carlton County, Minnesota",#000080
+27019,49.3367759417,0.0,"Carver County, Minnesota",#000080
+27021,31.1056379823,0.0,"Cass County, Minnesota",#000080
+27023,22.2437881466,0.0,"Chippewa County, Minnesota",#000080
+27025,35.8276628957,0.0,"Chisago County, Minnesota",#000080
+27027,37.8129901254,0.0,"Clay County, Minnesota",#000080
+27029,16.4638492866,7.0,"Clearwater County, Minnesota",#ffc400
+27031,18.7358835749,8.0,"Cook County, Minnesota",#ff6800
+27033,20.8427978502,7.0,"Cottonwood County, Minnesota",#ffc400
+27035,48.0365849334,0.0,"Crow Wing County, Minnesota",#000080
+27037,102.553528416,0.0,"Dakota County, Minnesota",#000080
+27039,22.6051862289,0.0,"Dodge County, Minnesota",#000080
+27041,38.6111002626,0.0,"Douglas County, Minnesota",#000080
+27043,23.0630949616,0.0,"Faribault County, Minnesota",#000080
+27045,26.8801720752,0.0,"Fillmore County, Minnesota",#000080
+27047,30.2961768765,0.0,"Freeborn County, Minnesota",#000080
+27049,38.1963286693,0.0,"Goodhue County, Minnesota",#000080
+27051,16.7105731191,7.0,"Grant County, Minnesota",#ffc400
+27053,206.708529746,0.0,"Hennepin County, Minnesota",#000080
+27055,22.3190163776,0.0,"Houston County, Minnesota",#000080
+27057,26.3903541782,0.0,"Hubbard County, Minnesota",#000080
+27059,29.5932746543,0.0,"Isanti County, Minnesota",#000080
+27061,36.6439540044,0.0,"Itasca County, Minnesota",#000080
+27063,19.8341636481,8.0,"Jackson County, Minnesota",#ff6800
+27065,19.1064893821,0.0,"Kanabec County, Minnesota",#000080
+27067,38.0759996065,0.0,"Kandiyohi County, Minnesota",#000080
+27069,15.0645436768,7.0,"Kittson County, Minnesota",#ffc400
+27071,22.8302309328,8.0,"Koochiching County, Minnesota",#ff6800
+27073,16.1165767959,0.0,"Lac Qui Parle County, Minnesota",#000080
+27075,19.8322128535,8.0,"Lake County, Minnesota",#ff6800
+27077,14.378500264,8.0,"Lake of The Woods County, Minnesota",#ff6800
+27079,28.058407053,0.0,"Le Sueur County, Minnesota",#000080
+27081,16.0831791258,0.0,"Lincoln County, Minnesota",#000080
+27083,30.4696700614,0.0,"Lyon County, Minnesota",#000080
+27085,33.0231340268,0.0,"McLeod County, Minnesota",#000080
+27087,12.2605963241,7.0,"Mahnomen County, Minnesota",#ffc400
+27089,18.4535667822,7.0,"Marshall County, Minnesota",#ffc400
+27091,27.6281860908,0.0,"Martin County, Minnesota",#000080
+27093,25.7189788486,0.0,"Meeker County, Minnesota",#000080
+27095,27.9759250241,0.0,"Mille Lacs County, Minnesota",#000080
+27097,32.0723636163,0.0,"Morrison County, Minnesota",#000080
+27099,31.3395827101,0.0,"Mower County, Minnesota",#000080
+27101,18.9974726807,7.0,"Murray County, Minnesota",#ffc400
+27103,27.5618064467,0.0,"Nicollet County, Minnesota",#000080
+27105,26.6242296259,0.0,"Nobles County, Minnesota",#000080
+27107,16.7821002526,8.0,"Norman County, Minnesota",#ff6800
+27109,60.7163617759,0.0,"Olmsted County, Minnesota",#000080
+27111,44.1702604108,0.0,"Otter Tail County, Minnesota",#000080
+27113,22.3253006165,0.0,"Pennington County, Minnesota",#000080
+27115,26.7390090163,0.0,"Pine County, Minnesota",#000080
+27117,19.9973807809,7.0,"Pipestone County, Minnesota",#ffc400
+27119,32.267981329,0.0,"Polk County, Minnesota",#000080
+27121,19.8476438968,0.0,"Pope County, Minnesota",#000080
+27123,122.755882735,0.0,"Ramsey County, Minnesota",#000080
+27125,12.2866394078,1.0,"Red Lake County, Minnesota",#0000f1
+27127,25.0081256636,0.0,"Redwood County, Minnesota",#000080
+27129,25.5943477143,8.0,"Renville County, Minnesota",#ff6800
+27131,40.1649871216,0.0,"Rice County, Minnesota",#000080
+27133,18.2179594801,0.0,"Rock County, Minnesota",#000080
+27135,22.7702552425,0.0,"Roseau County, Minnesota",#000080
+27137,77.1235454958,0.0,"St. Louis County, Minnesota",#000080
+27139,56.7586718079,0.0,"Scott County, Minnesota",#000080
+27141,44.7391292108,0.0,"Sherburne County, Minnesota",#000080
+27143,20.7753669767,0.0,"Sibley County, Minnesota",#000080
+27145,67.9411159615,0.0,"Stearns County, Minnesota",#000080
+27147,32.7844148513,0.0,"Steele County, Minnesota",#000080
+27149,20.6146811609,0.0,"Stevens County, Minnesota",#000080
+27151,19.6947035826,7.0,"Swift County, Minnesota",#ffc400
+27153,25.2045835464,0.0,"Todd County, Minnesota",#000080
+27155,12.8699693516,1.0,"Traverse County, Minnesota",#0000f1
+27157,26.2986963284,0.0,"Wabasha County, Minnesota",#000080
+27159,21.9999278498,0.0,"Wadena County, Minnesota",#000080
+27161,23.8716059667,0.0,"Waseca County, Minnesota",#000080
+27163,75.7344567321,0.0,"Washington County, Minnesota",#000080
+27165,19.2692904788,8.0,"Watonwan County, Minnesota",#ff6800
+27167,15.579353961,7.0,"Wilkin County, Minnesota",#ffc400
+27169,36.2889199934,0.0,"Winona County, Minnesota",#000080
+27171,56.6456123352,0.0,"Wright County, Minnesota",#000080
+27173,20.1049133219,0.0,"Yellow Medicine County, Minnesota",#000080
+27999,121.981653578,5.0,"Unknown Or Undefined, Minnesota",#7dff7a
+28001,31.5893416825,0.0,"Adams County, Mississippi",#000080
+28003,30.3423586782,0.0,"Alcorn County, Mississippi",#000080
+28005,15.3941727792,8.0,"Amite County, Mississippi",#ff6800
+28007,21.38938878,0.0,"Attala County, Mississippi",#000080
+28009,10.9124219301,8.0,"Benton County, Mississippi",#ff6800
+28011,30.2260071451,8.0,"Bolivar County, Mississippi",#ff6800
+28013,18.5912485812,8.0,"Calhoun County, Mississippi",#ff6800
+28015,12.7538042877,8.0,"Carroll County, Mississippi",#ff6800
+28017,20.4078941309,8.0,"Chickasaw County, Mississippi",#ff6800
+28019,13.4712509877,8.0,"Choctaw County, Mississippi",#ff6800
+28021,12.9776670195,8.0,"Claiborne County, Mississippi",#ff6800
+28023,16.9161799132,8.0,"Clarke County, Mississippi",#ff6800
+28025,21.0003306852,0.0,"Clay County, Mississippi",#000080
+28027,26.7204665628,8.0,"Coahoma County, Mississippi",#ff6800
+28029,22.8638395448,0.0,"Copiah County, Mississippi",#000080
+28031,19.7758269949,0.0,"Covington County, Mississippi",#000080
+28033,53.19979189,0.0,"DeSoto County, Mississippi",#000080
+28035,46.0277737065,0.0,"Forrest County, Mississippi",#000080
+28037,12.4974759356,8.0,"Franklin County, Mississippi",#ff6800
+28039,20.0329589538,0.0,"George County, Mississippi",#000080
+28041,13.225711491,8.0,"Greene County, Mississippi",#ff6800
+28043,25.0589542973,0.0,"Grenada County, Mississippi",#000080
+28045,30.3271971816,0.0,"Hancock County, Mississippi",#000080
+28047,69.419917891,0.0,"Harrison County, Mississippi",#000080
+28049,80.9674121199,0.0,"Hinds County, Mississippi",#000080
+28051,18.6053627702,8.0,"Holmes County, Mississippi",#ff6800
+28053,15.7275034598,8.0,"Humphreys County, Mississippi",#ff6800
+28055,7.03562363974,6.0,"Issaquena County, Mississippi",#ceff29
+28057,20.0925734523,8.0,"Itawamba County, Mississippi",#ff6800
+28059,51.2825545076,0.0,"Jackson County, Mississippi",#000080
+28061,17.0667108444,8.0,"Jasper County, Mississippi",#ff6800
+28063,10.3448284756,8.0,"Jefferson County, Mississippi",#ff6800
+28065,14.22683302,8.0,"Jefferson Davis County, Mississippi",#ff6800
+28067,39.1249372432,0.0,"Jones County, Mississippi",#000080
+28069,13.119430035,8.0,"Kemper County, Mississippi",#ff6800
+28071,35.4676971297,0.0,"Lafayette County, Mississippi",#000080
+28073,37.8840964246,0.0,"Lamar County, Mississippi",#000080
+28075,46.2741828669,0.0,"Lauderdale County, Mississippi",#000080
+28077,15.6530589333,8.0,"Lawrence County, Mississippi",#ff6800
+28079,18.9686771886,8.0,"Leake County, Mississippi",#ff6800
+28081,51.4021492973,0.0,"Lee County, Mississippi",#000080
+28083,30.6980235649,8.0,"Leflore County, Mississippi",#ff6800
+28085,29.4123732197,0.0,"Lincoln County, Mississippi",#000080
+28087,41.2797175301,0.0,"Lowndes County, Mississippi",#000080
+28089,56.3648193215,0.0,"Madison County, Mississippi",#000080
+28091,25.7056290543,0.0,"Marion County, Mississippi",#000080
+28093,21.9064569738,0.0,"Marshall County, Mississippi",#000080
+28095,27.4103589502,0.0,"Monroe County, Mississippi",#000080
+28097,16.4944435089,8.0,"Montgomery County, Mississippi",#ff6800
+28099,24.9313501885,0.0,"Neshoba County, Mississippi",#000080
+28101,19.9203373784,8.0,"Newton County, Mississippi",#ff6800
+28103,16.0889023174,8.0,"Noxubee County, Mississippi",#ff6800
+28105,31.579573215,0.0,"Oktibbeha County, Mississippi",#000080
+28107,26.9780775198,0.0,"Panola County, Mississippi",#000080
+28109,30.8014056059,0.0,"Pearl River County, Mississippi",#000080
+28111,14.1952512739,8.0,"Perry County, Mississippi",#ff6800
+28113,33.8405516579,0.0,"Pike County, Mississippi",#000080
+28115,23.2252257494,0.0,"Pontotoc County, Mississippi",#000080
+28117,23.3752175102,0.0,"Prentiss County, Mississippi",#000080
+28119,13.8410334278,8.0,"Quitman County, Mississippi",#ff6800
+28121,61.886064026,0.0,"Rankin County, Mississippi",#000080
+28123,24.2162627371,0.0,"Scott County, Mississippi",#000080
+28125,13.7243845093,8.0,"Sharkey County, Mississippi",#ff6800
+28127,22.5639830999,0.0,"Simpson County, Mississippi",#000080
+28129,15.1971828007,8.0,"Smith County, Mississippi",#ff6800
+28131,18.7920322528,0.0,"Stone County, Mississippi",#000080
+28133,24.9976665578,8.0,"Sunflower County, Mississippi",#ff6800
+28135,16.0652810112,8.0,"Tallahatchie County, Mississippi",#ff6800
+28137,20.6843530312,0.0,"Tate County, Mississippi",#000080
+28139,20.2808260375,0.0,"Tippah County, Mississippi",#000080
+28141,21.3899731739,0.0,"Tishomingo County, Mississippi",#000080
+28143,18.5842888928,8.0,"Tunica County, Mississippi",#ff6800
+28145,23.2137753302,0.0,"Union County, Mississippi",#000080
+28147,16.7272826283,8.0,"Walthall County, Mississippi",#ff6800
+28149,35.6876440313,0.0,"Warren County, Mississippi",#000080
+28151,38.2231231437,0.0,"Washington County, Mississippi",#000080
+28153,21.6064547969,8.0,"Wayne County, Mississippi",#ff6800
+28155,15.0188241672,8.0,"Webster County, Mississippi",#ff6800
+28157,13.4936787082,8.0,"Wilkinson County, Mississippi",#ff6800
+28159,20.4930108101,0.0,"Winston County, Mississippi",#000080
+28161,15.4115499875,8.0,"Yalobusha County, Mississippi",#ff6800
+28163,22.8762370643,8.0,"Yazoo County, Mississippi",#ff6800
+28999,83.8035306299,5.0,"Unknown Or Undefined, Mississippi",#7dff7a
+29001,28.3302939546,0.0,"Adair County, Missouri",#000080
+29003,19.0679861348,8.0,"Andrew County, Missouri",#ff6800
+29005,16.7186926086,8.0,"Atchison County, Missouri",#ff6800
+29007,26.8516574523,0.0,"Audrain County, Missouri",#000080
+29009,31.1745533693,0.0,"Barry County, Missouri",#000080
+29011,19.4613169427,8.0,"Barton County, Missouri",#ff6800
+29013,22.2223253966,8.0,"Bates County, Missouri",#ff6800
+29015,23.040793706,8.0,"Benton County, Missouri",#ff6800
+29017,19.497171142,8.0,"Bollinger County, Missouri",#ff6800
+29019,70.0854920114,0.0,"Boone County, Missouri",#000080
+29021,52.3995335009,0.0,"Buchanan County, Missouri",#000080
+29023,39.6661514572,0.0,"Butler County, Missouri",#000080
+29025,16.2025742615,8.0,"Caldwell County, Missouri",#ff6800
+29027,30.6419608039,0.0,"Callaway County, Missouri",#000080
+29029,42.7445438828,0.0,"Camden County, Missouri",#000080
+29031,52.0882950018,0.0,"Cape Girardeau County, Missouri",#000080
+29033,18.7350257666,8.0,"Carroll County, Missouri",#ff6800
+29035,15.7383239664,8.0,"Carter County, Missouri",#ff6800
+29037,46.5793741396,0.0,"Cass County, Missouri",#000080
+29039,20.264804504,8.0,"Cedar County, Missouri",#ff6800
+29041,17.695304731,8.0,"Chariton County, Missouri",#ff6800
+29043,42.4381248931,0.0,"Christian County, Missouri",#000080
+29045,13.8262029816,2.0,"Clark County, Missouri",#004cff
+29047,73.766744131,0.0,"Clay County, Missouri",#000080
+29049,22.5725901349,0.0,"Clinton County, Missouri",#000080
+29051,50.2519367075,0.0,"Cole County, Missouri",#000080
+29053,23.2079625088,8.0,"Cooper County, Missouri",#ff6800
+29055,27.389945728,8.0,"Crawford County, Missouri",#ff6800
+29057,14.2805228662,8.0,"Dade County, Missouri",#ff6800
+29059,18.2591899019,8.0,"Dallas County, Missouri",#ff6800
+29061,15.9110498691,8.0,"Daviess County, Missouri",#ff6800
+29063,17.3565092314,8.0,"DeKalb County, Missouri",#ff6800
+29065,23.7594008128,8.0,"Dent County, Missouri",#ff6800
+29067,15.8881756972,8.0,"Douglas County, Missouri",#ff6800
+29069,37.8024417621,8.0,"Dunklin County, Missouri",#ff6800
+29071,54.4665690388,0.0,"Franklin County, Missouri",#000080
+29073,23.25994411,0.0,"Gasconade County, Missouri",#000080
+29075,16.8568082426,8.0,"Gentry County, Missouri",#ff6800
+29077,93.3128910436,0.0,"Greene County, Missouri",#000080
+29079,18.3666040099,8.0,"Grundy County, Missouri",#ff6800
+29081,18.1438804236,8.0,"Harrison County, Missouri",#ff6800
+29083,27.1545912397,0.0,"Henry County, Missouri",#000080
+29085,14.78194684,8.0,"Hickory County, Missouri",#ff6800
+29087,14.4135215397,8.0,"Holt County, Missouri",#ff6800
+29089,16.7187044763,8.0,"Howard County, Missouri",#ff6800
+29091,35.9310516989,0.0,"Howell County, Missouri",#000080
+29093,22.2716721634,8.0,"Iron County, Missouri",#ff6800
+29095,141.720769781,0.0,"Jackson County, Missouri",#000080
+29097,59.9380996833,0.0,"Jasper County, Missouri",#000080
+29099,66.4246858396,0.0,"Jefferson County, Missouri",#000080
+29101,33.9439605868,0.0,"Johnson County, Missouri",#000080
+29103,12.3367112491,8.0,"Knox County, Missouri",#ff6800
+29105,30.7298972875,0.0,"Laclede County, Missouri",#000080
+29107,30.5921843946,0.0,"Lafayette County, Missouri",#000080
+29109,30.0987725848,0.0,"Lawrence County, Missouri",#000080
+29111,16.3059172238,8.0,"Lewis County, Missouri",#ff6800
+29113,32.4073588057,0.0,"Lincoln County, Missouri",#000080
+29115,21.0889932173,8.0,"Linn County, Missouri",#ff6800
+29117,22.8076845864,8.0,"Livingston County, Missouri",#ff6800
+29119,21.3931174958,8.0,"McDonald County, Missouri",#ff6800
+29121,22.0456326885,8.0,"Macon County, Missouri",#ff6800
+29123,19.5431248821,8.0,"Madison County, Missouri",#ff6800
+29125,14.1814068973,8.0,"Maries County, Missouri",#ff6800
+29127,32.2131849669,0.0,"Marion County, Missouri",#000080
+29129,11.3302516819,8.0,"Mercer County, Missouri",#ff6800
+29131,26.5922100421,0.0,"Miller County, Missouri",#000080
+29133,22.6846129935,8.0,"Mississippi County, Missouri",#ff6800
+29135,20.3658794953,8.0,"Moniteau County, Missouri",#ff6800
+29137,17.2034395786,8.0,"Monroe County, Missouri",#ff6800
+29139,19.4660571496,8.0,"Montgomery County, Missouri",#ff6800
+29141,24.6369914804,0.0,"Morgan County, Missouri",#000080
+29143,25.868332666,8.0,"New Madrid County, Missouri",#ff6800
+29145,36.664215286,0.0,"Newton County, Missouri",#000080
+29147,25.115653122,0.0,"Nodaway County, Missouri",#000080
+29149,17.4870360145,8.0,"Oregon County, Missouri",#ff6800
+29151,18.017539955,8.0,"Osage County, Missouri",#ff6800
+29153,15.6434224729,8.0,"Ozark County, Missouri",#ff6800
+29155,26.8838034677,8.0,"Pemiscot County, Missouri",#ff6800
+29157,24.4194659536,0.0,"Perry County, Missouri",#000080
+29159,35.154319656,0.0,"Pettis County, Missouri",#000080
+29161,36.1346522778,0.0,"Phelps County, Missouri",#000080
+29163,23.0143674932,8.0,"Pike County, Missouri",#ff6800
+29165,50.9064345576,0.0,"Platte County, Missouri",#000080
+29167,26.7767519398,0.0,"Polk County, Missouri",#000080
+29169,30.587851619,0.0,"Pulaski County, Missouri",#000080
+29171,13.1133792093,8.0,"Putnam County, Missouri",#ff6800
+29173,16.4357455005,8.0,"Ralls County, Missouri",#ff6800
+29175,27.1711579694,0.0,"Randolph County, Missouri",#000080
+29177,21.85514178,8.0,"Ray County, Missouri",#ff6800
+29179,18.8267055342,8.0,"Reynolds County, Missouri",#ff6800
+29181,21.6189033979,8.0,"Ripley County, Missouri",#ff6800
+29183,94.3413781695,0.0,"St. Charles County, Missouri",#000080
+29185,15.8639053219,8.0,"St. Clair County, Missouri",#ff6800
+29186,22.6220236137,8.0,"Ste. Genevieve County, Missouri",#ff6800
+29187,41.6168607086,0.0,"St. Francois County, Missouri",#000080
+29189,186.571662686,0.0,"St. Louis County, Missouri",#000080
+29195,26.0116960872,8.0,"Saline County, Missouri",#ff6800
+29197,11.2216485788,8.0,"Schuyler County, Missouri",#ff6800
+29199,13.2241811941,8.0,"Scotland County, Missouri",#ff6800
+29201,37.5711494347,0.0,"Scott County, Missouri",#000080
+29203,15.0785114629,8.0,"Shannon County, Missouri",#ff6800
+29205,15.3693546869,8.0,"Shelby County, Missouri",#ff6800
+29207,32.1566478352,8.0,"Stoddard County, Missouri",#ff6800
+29209,28.9848345678,0.0,"Stone County, Missouri",#000080
+29211,14.5423437556,8.0,"Sullivan County, Missouri",#ff6800
+29213,46.0187634265,0.0,"Taney County, Missouri",#000080
+29215,25.1779303082,8.0,"Texas County, Missouri",#ff6800
+29217,26.3575536596,8.0,"Vernon County, Missouri",#ff6800
+29219,26.2747691153,0.0,"Warren County, Missouri",#000080
+29221,29.8740411283,8.0,"Washington County, Missouri",#ff6800
+29223,22.6041153719,8.0,"Wayne County, Missouri",#ff6800
+29225,27.1170888544,0.0,"Webster County, Missouri",#000080
+29227,9.47029608494,8.0,"Worth County, Missouri",#ff6800
+29229,22.8719086731,8.0,"Wright County, Missouri",#ff6800
+29510,100.423142451,0.0,"St. Louis City, Missouri",#000080
+29999,113.96812768,5.0,"Unknown Or Undefined, Missouri",#7dff7a
+30001,22.7300671442,0.0,"Beaverhead County, Montana",#000080
+30003,18.2916734461,1.0,"Big Horn County, Montana",#0000f1
+30005,15.1152057361,7.0,"Blaine County, Montana",#ffc400
+30007,14.2588875098,7.0,"Broadwater County, Montana",#ffc400
+30009,22.7021431056,0.0,"Carbon County, Montana",#000080
+30011,7.52606581599,1.0,"Carter County, Montana",#0000f1
+30013,53.7661382196,0.0,"Cascade County, Montana",#000080
+30015,15.5806656744,1.0,"Chouteau County, Montana",#0000f1
+30017,23.1568838543,0.0,"Custer County, Montana",#000080
+30019,10.0355914244,1.0,"Daniels County, Montana",#0000f1
+30021,20.2150344805,7.0,"Dawson County, Montana",#ffc400
+30023,17.9633886929,0.0,"Deer Lodge County, Montana",#000080
+30025,14.3783346719,7.0,"Fallon County, Montana",#ffc400
+30027,23.6450857339,0.0,"Fergus County, Montana",#000080
+30029,67.3900073842,0.0,"Flathead County, Montana",#000080
+30031,75.159306999,0.0,"Gallatin County, Montana",#000080
+30033,8.34722651401,1.0,"Garfield County, Montana",#0000f1
+30035,19.1484592608,7.0,"Glacier County, Montana",#ffc400
+30037,6.09361492524,4.0,"Golden Valley County, Montana",#29ffce
+30039,12.7218409869,8.0,"Granite County, Montana",#ff6800
+30041,25.4345019391,0.0,"Hill County, Montana",#000080
+30043,19.2670147439,0.0,"Jefferson County, Montana",#000080
+30045,9.98761137372,1.0,"Judith Basin County, Montana",#0000f1
+30047,31.8899148112,0.0,"Lake County, Montana",#000080
+30049,51.8647278986,0.0,"Lewis and Clark County, Montana",#000080
+30051,10.4463481885,1.0,"Liberty County, Montana",#0000f1
+30053,27.9325363564,0.0,"Lincoln County, Montana",#000080
+30055,9.54355096803,1.0,"McCone County, Montana",#0000f1
+30057,23.1324430321,0.0,"Madison County, Montana",#000080
+30059,11.8237889074,1.0,"Meagher County, Montana",#0000f1
+30061,12.9289879789,8.0,"Mineral County, Montana",#ff6800
+30063,69.0798939347,0.0,"Missoula County, Montana",#000080
+30065,13.7343995194,7.0,"Musselshell County, Montana",#ffc400
+30067,31.1968277793,0.0,"Park County, Montana",#000080
+30069,5.30318861854,1.0,"Petroleum County, Montana",#0000f1
+30071,14.8634258693,7.0,"Phillips County, Montana",#ffc400
+30073,15.7901667211,8.0,"Pondera County, Montana",#ff6800
+30075,10.8536074026,1.0,"Powder River County, Montana",#0000f1
+30077,15.6683636366,7.0,"Powell County, Montana",#ffc400
+30079,8.33395235796,1.0,"Prairie County, Montana",#0000f1
+30081,41.0703036423,0.0,"Ravalli County, Montana",#000080
+30083,25.3157363696,7.0,"Richland County, Montana",#ffc400
+30085,18.0744931212,7.0,"Roosevelt County, Montana",#ffc400
+30087,17.0616877968,1.0,"Rosebud County, Montana",#0000f1
+30089,22.0424374246,0.0,"Sanders County, Montana",#000080
+30091,15.3740659801,7.0,"Sheridan County, Montana",#ffc400
+30093,36.630452896,0.0,"Silver Bow County, Montana",#000080
+30095,19.2203286066,0.0,"Stillwater County, Montana",#000080
+30097,15.3136519651,7.0,"Sweet Grass County, Montana",#ffc400
+30099,17.4148153493,7.0,"Teton County, Montana",#ffc400
+30101,16.7201048071,7.0,"Toole County, Montana",#ffc400
+30103,7.33606550835,1.0,"Treasure County, Montana",#0000f1
+30105,19.1372859697,7.0,"Valley County, Montana",#ffc400
+30107,10.2565310204,1.0,"Wheatland County, Montana",#0000f1
+30109,7.41630550217,7.0,"Wibaux County, Montana",#ffc400
+30111,78.9890513812,0.0,"Yellowstone County, Montana",#000080
+30999,43.4109058421,5.0,"Unknown Or Undefined, Montana",#7dff7a
+31001,34.2677019484,0.0,"Adams County, Nebraska",#000080
+31003,17.6832020551,8.0,"Antelope County, Nebraska",#ff6800
+31005,5.25357021463,1.0,"Arthur County, Nebraska",#0000f1
+31007,5.35308841283,4.0,"Banner County, Nebraska",#29ffce
+31009,5.72629690031,1.0,"Blaine County, Nebraska",#0000f1
+31011,16.6929435714,8.0,"Boone County, Nebraska",#ff6800
+31013,21.2285933261,8.0,"Box Butte County, Nebraska",#ff6800
+31015,11.0864567743,8.0,"Boyd County, Nebraska",#ff6800
+31017,13.8695452598,8.0,"Brown County, Nebraska",#ff6800
+31019,42.3832195755,0.0,"Buffalo County, Nebraska",#000080
+31021,17.0501827016,8.0,"Burt County, Nebraska",#ff6800
+31023,16.6794355848,8.0,"Butler County, Nebraska",#ff6800
+31025,26.2530950556,0.0,"Cass County, Nebraska",#000080
+31027,19.6471351763,8.0,"Cedar County, Nebraska",#ff6800
+31029,15.3453886357,1.0,"Chase County, Nebraska",#0000f1
+31031,18.7799284952,8.0,"Cherry County, Nebraska",#ff6800
+31033,20.7185791938,8.0,"Cheyenne County, Nebraska",#ff6800
+31035,16.9303193793,8.0,"Clay County, Nebraska",#ff6800
+31037,18.4666903043,8.0,"Colfax County, Nebraska",#ff6800
+31039,21.8497393831,8.0,"Cuming County, Nebraska",#ff6800
+31041,22.6361050971,8.0,"Custer County, Nebraska",#ff6800
+31043,24.2564751623,0.0,"Dakota County, Nebraska",#000080
+31045,19.8657098683,8.0,"Dawes County, Nebraska",#ff6800
+31047,30.1736377107,0.0,"Dawson County, Nebraska",#000080
+31049,10.0976777151,1.0,"Deuel County, Nebraska",#0000f1
+31051,12.7982203624,1.0,"Dixon County, Nebraska",#0000f1
+31053,35.1456549732,0.0,"Dodge County, Nebraska",#000080
+31055,132.784576103,0.0,"Douglas County, Nebraska",#000080
+31057,10.9222904453,1.0,"Dundy County, Nebraska",#0000f1
+31059,17.4746755539,8.0,"Fillmore County, Nebraska",#ff6800
+31061,11.5307043522,1.0,"Franklin County, Nebraska",#0000f1
+31063,10.828497089,8.0,"Frontier County, Nebraska",#ff6800
+31065,16.4317008752,1.0,"Furnas County, Nebraska",#0000f1
+31067,28.9826918793,0.0,"Gage County, Nebraska",#000080
+31069,9.83040715138,1.0,"Garden County, Nebraska",#0000f1
+31071,11.3520154144,8.0,"Garfield County, Nebraska",#ff6800
+31073,9.59918978062,8.0,"Gosper County, Nebraska",#ff6800
+31075,7.96136504209,1.0,"Grant County, Nebraska",#0000f1
+31077,11.7298966829,1.0,"Greeley County, Nebraska",#0000f1
+31079,46.1128704962,0.0,"Hall County, Nebraska",#000080
+31081,19.3316912275,8.0,"Hamilton County, Nebraska",#ff6800
+31083,12.6731030013,1.0,"Harlan County, Nebraska",#0000f1
+31085,6.77536386887,8.0,"Hayes County, Nebraska",#ff6800
+31087,10.3455381073,1.0,"Hitchcock County, Nebraska",#0000f1
+31089,23.5049640147,8.0,"Holt County, Nebraska",#ff6800
+31091,6.97381724625,4.0,"Hooker County, Nebraska",#29ffce
+31093,14.7075728253,8.0,"Howard County, Nebraska",#ff6800
+31095,18.0590082169,8.0,"Jefferson County, Nebraska",#ff6800
+31097,13.8024324978,8.0,"Johnson County, Nebraska",#ff6800
+31099,15.9592735642,8.0,"Kearney County, Nebraska",#ff6800
+31101,21.7406429426,8.0,"Keith County, Nebraska",#ff6800
+31103,6.57013444814,1.0,"Keya Paha County, Nebraska",#0000f1
+31105,14.1509436558,6.0,"Kimball County, Nebraska",#ceff29
+31107,19.6142157712,8.0,"Knox County, Nebraska",#ff6800
+31109,96.1622327112,0.0,"Lancaster County, Nebraska",#000080
+31111,36.3083247265,0.0,"Lincoln County, Nebraska",#000080
+31113,7.08771573116,1.0,"Logan County, Nebraska",#0000f1
+31115,5.63914887195,1.0,"Loup County, Nebraska",#0000f1
+31117,4.67083147487,9.0,"McPherson County, Nebraska",#f10800
+31119,38.6053958314,0.0,"Madison County, Nebraska",#000080
+31121,17.5489790776,8.0,"Merrick County, Nebraska",#ff6800
+31123,14.8586194321,1.0,"Morrill County, Nebraska",#0000f1
+31125,12.6417988975,1.0,"Nance County, Nebraska",#0000f1
+31127,16.6415286615,8.0,"Nemaha County, Nebraska",#ff6800
+31129,15.0759716315,8.0,"Nuckolls County, Nebraska",#ff6800
+31131,24.6081593773,0.0,"Otoe County, Nebraska",#000080
+31133,11.4351171731,1.0,"Pawnee County, Nebraska",#0000f1
+31135,13.3846482779,8.0,"Perkins County, Nebraska",#ff6800
+31137,21.26144883,8.0,"Phelps County, Nebraska",#ff6800
+31139,16.4852387073,8.0,"Pierce County, Nebraska",#ff6800
+31141,34.9416350096,0.0,"Platte County, Nebraska",#000080
+31143,14.6220099372,8.0,"Polk County, Nebraska",#ff6800
+31145,23.1481855026,0.0,"Red Willow County, Nebraska",#000080
+31147,18.5381310166,8.0,"Richardson County, Nebraska",#ff6800
+31149,9.75029507083,8.0,"Rock County, Nebraska",#ff6800
+31151,19.9683181605,8.0,"Saline County, Nebraska",#ff6800
+31153,58.3716234875,0.0,"Sarpy County, Nebraska",#000080
+31155,24.9514290077,0.0,"Saunders County, Nebraska",#000080
+31157,38.3456139749,0.0,"Scotts Bluff County, Nebraska",#000080
+31159,23.2430566522,0.0,"Seward County, Nebraska",#000080
+31161,16.4688257694,1.0,"Sheridan County, Nebraska",#0000f1
+31163,11.1748726068,1.0,"Sherman County, Nebraska",#0000f1
+31165,6.08696890712,1.0,"Sioux County, Nebraska",#0000f1
+31167,11.603519581,7.0,"Stanton County, Nebraska",#ffc400
+31169,16.3331997079,8.0,"Thayer County, Nebraska",#ff6800
+31171,7.16453456657,1.0,"Thomas County, Nebraska",#0000f1
+31173,13.9696098729,1.0,"Thurston County, Nebraska",#0000f1
+31175,15.8584012085,8.0,"Valley County, Nebraska",#ff6800
+31177,25.8519211162,0.0,"Washington County, Nebraska",#000080
+31179,17.7855166688,0.0,"Wayne County, Nebraska",#000080
+31181,12.8741466045,1.0,"Webster County, Nebraska",#0000f1
+31183,6.81012318374,4.0,"Wheeler County, Nebraska",#29ffce
+31185,25.3965767597,0.0,"York County, Nebraska",#000080
+31999,63.8480866949,5.0,"Unknown Or Undefined, Nebraska",#7dff7a
+32001,27.4423276929,0.0,"Churchill County, Nevada",#000080
+32003,230.059348796,0.0,"Clark County, Nevada",#000080
+32005,44.6723343952,0.0,"Douglas County, Nevada",#000080
+32007,38.8827704938,0.0,"Elko County, Nevada",#000080
+32009,6.50723041079,1.0,"Esmeralda County, Nevada",#0000f1
+32011,9.07740085868,1.0,"Eureka County, Nevada",#0000f1
+32013,23.9776516318,0.0,"Humboldt County, Nevada",#000080
+32015,12.7855945725,1.0,"Lander County, Nevada",#0000f1
+32017,12.698346974,1.0,"Lincoln County, Nevada",#0000f1
+32019,33.5289083988,0.0,"Lyon County, Nevada",#000080
+32021,11.3982733307,8.0,"Mineral County, Nevada",#ff6800
+32023,31.5331080733,0.0,"Nye County, Nevada",#000080
+32027,12.7922657685,1.0,"Pershing County, Nevada",#0000f1
+32029,15.1814423055,0.0,"Storey County, Nevada",#000080
+32031,121.801652125,0.0,"Washoe County, Nevada",#000080
+32033,18.0582391168,7.0,"White Pine County, Nevada",#ffc400
+32510,48.8020824757,0.0,"Carson City, Nevada",#000080
+32999,37.9509970172,5.0,"Unknown Or Undefined, Nevada",#7dff7a
+33001,47.5372869524,0.0,"Belknap County, New Hampshire",#000080
+33003,47.3509105526,0.0,"Carroll County, New Hampshire",#000080
+33005,48.3077929235,0.0,"Cheshire County, New Hampshire",#000080
+33007,34.3920960373,8.0,"Coos County, New Hampshire",#ff6800
+33009,59.7786757913,0.0,"Grafton County, New Hampshire",#000080
+33011,113.617254656,0.0,"Hillsborough County, New Hampshire",#000080
+33013,73.3137473845,0.0,"Merrimack County, New Hampshire",#000080
+33015,107.020896194,0.0,"Rockingham County, New Hampshire",#000080
+33017,56.2466542215,0.0,"Strafford County, New Hampshire",#000080
+33019,35.2501210175,0.0,"Sullivan County, New Hampshire",#000080
+33999,80.594241395,5.0,"Unknown Or Undefined, New Hampshire",#7dff7a
+34001,85.7608454893,0.0,"Atlantic County, New Jersey",#000080
+34003,187.470649555,0.0,"Bergen County, New Jersey",#000080
+34005,108.656914184,0.0,"Burlington County, New Jersey",#000080
+34007,115.04415129,0.0,"Camden County, New Jersey",#000080
+34009,67.5302313254,0.0,"Cape May County, New Jersey",#000080
+34011,59.2972469181,0.0,"Cumberland County, New Jersey",#000080
+34013,147.879162918,0.0,"Essex County, New Jersey",#000080
+34015,81.2117968794,0.0,"Gloucester County, New Jersey",#000080
+34017,122.034608349,0.0,"Hudson County, New Jersey",#000080
+34019,66.9362288313,0.0,"Hunterdon County, New Jersey",#000080
+34021,107.847945577,0.0,"Mercer County, New Jersey",#000080
+34023,151.057746763,0.0,"Middlesex County, New Jersey",#000080
+34025,146.770694979,0.0,"Monmouth County, New Jersey",#000080
+34027,135.671311492,0.0,"Morris County, New Jersey",#000080
+34029,114.717515373,0.0,"Ocean County, New Jersey",#000080
+34031,114.094692293,0.0,"Passaic County, New Jersey",#000080
+34033,38.1244828224,0.0,"Salem County, New Jersey",#000080
+34035,103.059610582,0.0,"Somerset County, New Jersey",#000080
+34037,64.0977149631,0.0,"Sussex County, New Jersey",#000080
+34039,124.133576607,0.0,"Union County, New Jersey",#000080
+34041,56.7565743342,0.0,"Warren County, New Jersey",#000080
+34999,148.522428962,5.0,"Unknown Or Undefined, New Jersey",#7dff7a
+35001,136.609032563,0.0,"Bernalillo County, New Mexico",#000080
+35003,11.9102296967,1.0,"Catron County, New Mexico",#0000f1
+35005,42.8139987862,0.0,"Chaves County, New Mexico",#000080
+35006,21.813931765,8.0,"Cibola County, New Mexico",#ff6800
+35007,25.2332138136,8.0,"Colfax County, New Mexico",#ff6800
+35009,36.098591847,0.0,"Curry County, New Mexico",#000080
+35011,10.1063786239,1.0,"De Baca County, New Mexico",#0000f1
+35013,67.4232691452,0.0,"Dona Ana County, New Mexico",#000080
+35015,40.3459986018,0.0,"Eddy County, New Mexico",#000080
+35017,29.5609472645,0.0,"Grant County, New Mexico",#000080
+35019,14.059397806,1.0,"Guadalupe County, New Mexico",#0000f1
+35021,6.68497486075,1.0,"Harding County, New Mexico",#0000f1
+35023,13.7701367701,1.0,"Hidalgo County, New Mexico",#0000f1
+35025,44.2688485549,0.0,"Lea County, New Mexico",#000080
+35027,31.1462945897,0.0,"Lincoln County, New Mexico",#000080
+35028,22.8330291951,0.0,"Los Alamos County, New Mexico",#000080
+35029,24.6033211721,8.0,"Luna County, New Mexico",#ff6800
+35031,35.3820194673,0.0,"Mckinley County, New Mexico",#000080
+35033,12.1077995327,1.0,"Mora County, New Mexico",#0000f1
+35035,36.0569765171,0.0,"Otero County, New Mexico",#000080
+35037,18.8794946294,6.0,"Quay County, New Mexico",#ceff29
+35039,29.0538225226,8.0,"Rio Arriba County, New Mexico",#ff6800
+35041,22.454274525,8.0,"Roosevelt County, New Mexico",#ff6800
+35043,46.3038789558,0.0,"Sandoval County, New Mexico",#000080
+35045,56.2781428716,0.0,"San Juan County, New Mexico",#000080
+35047,25.8630704422,8.0,"San Miguel County, New Mexico",#ff6800
+35049,76.5634579629,0.0,"Santa Fe County, New Mexico",#000080
+35051,19.8621239613,8.0,"Sierra County, New Mexico",#ff6800
+35053,20.1535770191,8.0,"Socorro County, New Mexico",#ff6800
+35055,37.9023128247,0.0,"Taos County, New Mexico",#000080
+35057,19.127672549,8.0,"Torrance County, New Mexico",#ff6800
+35059,14.6450598421,6.0,"Union County, New Mexico",#ceff29
+35061,34.5497341087,0.0,"Valencia County, New Mexico",#000080
+35999,62.8922516488,5.0,"Unknown Or Undefined, New Mexico",#7dff7a
+36001,103.466444603,0.0,"Albany County, New York",#000080
+36003,32.2566346073,0.0,"Allegany County, New York",#000080
+36005,134.19199406,0.0,"Bronx County, New York",#000080
+36007,70.052202757,0.0,"Broome County, New York",#000080
+36009,44.7361222607,0.0,"Cattaraugus County, New York",#000080
+36011,44.3513747751,0.0,"Cayuga County, New York",#000080
+36013,59.5327074302,0.0,"Chautauqua County, New York",#000080
+36015,46.6649106812,0.0,"Chemung County, New York",#000080
+36017,34.6240466031,0.0,"Chenango County, New York",#000080
+36019,47.0656034886,0.0,"Clinton County, New York",#000080
+36021,45.9204496756,0.0,"Columbia County, New York",#000080
+36023,35.3978353297,0.0,"Cortland County, New York",#000080
+36025,36.2036457868,0.0,"Delaware County, New York",#000080
+36027,94.0836528317,0.0,"Dutchess County, New York",#000080
+36029,159.129147909,0.0,"Erie County, New York",#000080
+36031,37.3456665428,0.0,"Essex County, New York",#000080
+36033,36.1743957069,0.0,"Franklin County, New York",#000080
+36035,36.6957460447,0.0,"Fulton County, New York",#000080
+36037,39.5999939875,0.0,"Genesee County, New York",#000080
+36039,38.1793543062,0.0,"Greene County, New York",#000080
+36041,17.2141852727,8.0,"Hamilton County, New York",#ff6800
+36043,37.7401096052,0.0,"Herkimer County, New York",#000080
+36045,55.6045989876,0.0,"Jefferson County, New York",#000080
+36047,232.058061803,0.0,"Kings County, New York",#000080
+36049,25.5824608196,8.0,"Lewis County, New York",#ff6800
+36051,39.3246812518,0.0,"Livingston County, New York",#000080
+36053,42.1408353026,0.0,"Madison County, New York",#000080
+36055,138.830254925,0.0,"Monroe County, New York",#000080
+36057,36.9996299853,0.0,"Montgomery County, New York",#000080
+36059,234.753317843,0.0,"Nassau County, New York",#000080
+36061,358.376889933,0.0,"New York County, New York",#000080
+36063,71.4425760081,0.0,"Niagara County, New York",#000080
+36065,75.5350911828,0.0,"Oneida County, New York",#000080
+36067,116.883144398,0.0,"Onondaga County, New York",#000080
+36069,57.2474370397,0.0,"Ontario County, New York",#000080
+36071,102.80977194,0.0,"Orange County, New York",#000080
+36073,28.8652314611,0.0,"Orleans County, New York",#000080
+36075,50.9019287376,0.0,"Oswego County, New York",#000080
+36077,41.7555147959,0.0,"Otsego County, New York",#000080
+36079,57.2244605819,0.0,"Putnam County, New York",#000080
+36081,221.486778064,0.0,"Queens County, New York",#000080
+36083,59.2686378161,0.0,"Rensselaer County, New York",#000080
+36085,97.6943890446,0.0,"Richmond County, New York",#000080
+36087,102.436987987,0.0,"Rockland County, New York",#000080
+36089,49.6035673,0.0,"St. Lawrence County, New York",#000080
+36091,76.8000754381,0.0,"Saratoga County, New York",#000080
+36093,61.3390072427,0.0,"Schenectady County, New York",#000080
+36095,27.6386978537,0.0,"Schoharie County, New York",#000080
+36097,21.6691115837,8.0,"Schuyler County, New York",#ff6800
+36099,28.9038155882,0.0,"Seneca County, New York",#000080
+36101,48.0298683526,0.0,"Steuben County, New York",#000080
+36103,230.3483878,0.0,"Suffolk County, New York",#000080
+36105,48.2522801501,0.0,"Sullivan County, New York",#000080
+36107,31.5957162558,0.0,"Tioga County, New York",#000080
+36109,52.1598618717,0.0,"Tompkins County, New York",#000080
+36111,74.2509152314,0.0,"Ulster County, New York",#000080
+36113,52.4517389667,0.0,"Warren County, New York",#000080
+36115,36.7322249422,0.0,"Washington County, New York",#000080
+36117,46.7991317244,0.0,"Wayne County, New York",#000080
+36119,194.563456209,0.0,"Westchester County, New York",#000080
+36121,31.2938771333,0.0,"Wyoming County, New York",#000080
+36123,26.2242995881,0.0,"Yates County, New York",#000080
+36999,159.876328692,5.0,"Unknown Or Undefined, New York",#7dff7a
+37001,61.1875921129,0.0,"Alamance County, North Carolina",#000080
+37003,26.154728851,0.0,"Alexander County, North Carolina",#000080
+37005,19.7841928244,8.0,"Alleghany County, North Carolina",#ff6800
+37007,23.7778491692,0.0,"Anson County, North Carolina",#000080
+37009,27.0045778012,0.0,"Ashe County, North Carolina",#000080
+37011,26.9423620534,0.0,"Avery County, North Carolina",#000080
+37013,37.1437950126,0.0,"Beaufort County, North Carolina",#000080
+37015,20.5709476906,6.0,"Bertie County, North Carolina",#ceff29
+37017,26.511550343,8.0,"Bladen County, North Carolina",#ff6800
+37019,53.4981641875,0.0,"Brunswick County, North Carolina",#000080
+37021,92.9867544758,0.0,"Buncombe County, North Carolina",#000080
+37023,41.1554062101,0.0,"Burke County, North Carolina",#000080
+37025,68.0773049147,0.0,"Cabarrus County, North Carolina",#000080
+37027,39.8532675763,0.0,"Caldwell County, North Carolina",#000080
+37029,16.6844785773,8.0,"Camden County, North Carolina",#ff6800
+37031,49.6328904007,0.0,"Carteret County, North Carolina",#000080
+37033,18.360683063,0.0,"Caswell County, North Carolina",#000080
+37035,68.9527616077,0.0,"Catawba County, North Carolina",#000080
+37037,38.633811986,0.0,"Chatham County, North Carolina",#000080
+37039,29.4059166922,0.0,"Cherokee County, North Carolina",#000080
+37041,22.0437245866,0.0,"Chowan County, North Carolina",#000080
+37043,18.2321014644,0.0,"Clay County, North Carolina",#000080
+37045,47.4618267664,0.0,"Cleveland County, North Carolina",#000080
+37047,35.8342469429,0.0,"Columbus County, North Carolina",#000080
+37049,51.1683612252,0.0,"Craven County, North Carolina",#000080
+37051,82.3459046697,0.0,"Cumberland County, North Carolina",#000080
+37053,27.7632350821,0.0,"Currituck County, North Carolina",#000080
+37055,47.6686812761,0.0,"Dare County, North Carolina",#000080
+37057,56.3553070697,0.0,"Davidson County, North Carolina",#000080
+37059,31.2475014874,0.0,"Davie County, North Carolina",#000080
+37061,35.2946722451,0.0,"Duplin County, North Carolina",#000080
+37063,88.4819078449,0.0,"Durham County, North Carolina",#000080
+37065,32.686151866,0.0,"Edgecombe County, North Carolina",#000080
+37067,98.7815089373,0.0,"Forsyth County, North Carolina",#000080
+37069,34.4324678359,0.0,"Franklin County, North Carolina",#000080
+37071,67.1673431373,0.0,"Gaston County, North Carolina",#000080
+37073,13.8392557603,6.0,"Gates County, North Carolina",#ceff29
+37075,15.9910441205,8.0,"Graham County, North Carolina",#ff6800
+37077,31.9029841367,0.0,"Granville County, North Carolina",#000080
+37079,19.499135105,8.0,"Greene County, North Carolina",#ff6800
+37081,123.679523783,0.0,"Guilford County, North Carolina",#000080
+37083,35.153027145,0.0,"Halifax County, North Carolina",#000080
+37085,43.5217424225,0.0,"Harnett County, North Carolina",#000080
+37087,40.7452061646,0.0,"Haywood County, North Carolina",#000080
+37089,55.4061554657,0.0,"Henderson County, North Carolina",#000080
+37091,24.9363793658,8.0,"Hertford County, North Carolina",#ff6800
+37093,22.6619130169,0.0,"Hoke County, North Carolina",#000080
+37095,15.919577146,1.0,"Hyde County, North Carolina",#0000f1
+37097,71.9286325089,0.0,"Iredell County, North Carolina",#000080
+37099,34.7355885384,0.0,"Jackson County, North Carolina",#000080
+37101,59.1019028512,0.0,"Johnston County, North Carolina",#000080
+37103,17.2181382767,8.0,"Jones County, North Carolina",#ff6800
+37105,39.2477175557,0.0,"Lee County, North Carolina",#000080
+37107,39.5849598663,0.0,"Lenoir County, North Carolina",#000080
+37109,42.7466048034,0.0,"Lincoln County, North Carolina",#000080
+37111,29.4820768797,0.0,"McDowell County, North Carolina",#000080
+37113,36.9722332534,0.0,"Macon County, North Carolina",#000080
+37115,21.3999888741,0.0,"Madison County, North Carolina",#000080
+37117,25.1208665557,8.0,"Martin County, North Carolina",#ff6800
+37119,187.056411787,0.0,"Mecklenburg County, North Carolina",#000080
+37121,22.0577974551,0.0,"Mitchell County, North Carolina",#000080
+37123,25.0474074317,0.0,"Montgomery County, North Carolina",#000080
+37125,51.892555358,0.0,"Moore County, North Carolina",#000080
+37127,50.5697263412,0.0,"Nash County, North Carolina",#000080
+37129,89.3734562526,0.0,"New Hanover County, North Carolina",#000080
+37131,20.606864321,6.0,"Northampton County, North Carolina",#ceff29
+37133,56.5875007232,0.0,"Onslow County, North Carolina",#000080
+37135,63.6509641568,0.0,"Orange County, North Carolina",#000080
+37137,19.2311750873,8.0,"Pamlico County, North Carolina",#ff6800
+37139,33.2220165094,0.0,"Pasquotank County, North Carolina",#000080
+37141,34.4690452343,0.0,"Pender County, North Carolina",#000080
+37143,16.9442831114,8.0,"Perquimans County, North Carolina",#ff6800
+37145,29.2923482614,0.0,"Person County, North Carolina",#000080
+37147,64.2313495876,0.0,"Pitt County, North Carolina",#000080
+37149,24.9879256556,0.0,"Polk County, North Carolina",#000080
+37151,53.7465650434,0.0,"Randolph County, North Carolina",#000080
+37153,31.933114623,0.0,"Richmond County, North Carolina",#000080
+37155,47.0343677116,0.0,"Robeson County, North Carolina",#000080
+37157,44.1578517708,0.0,"Rockingham County, North Carolina",#000080
+37159,53.8781731287,0.0,"Rowan County, North Carolina",#000080
+37161,38.5368510505,0.0,"Rutherford County, North Carolina",#000080
+37163,36.42005814,0.0,"Sampson County, North Carolina",#000080
+37165,28.113065369,0.0,"Scotland County, North Carolina",#000080
+37167,39.3005916996,0.0,"Stanly County, North Carolina",#000080
+37169,27.9272510141,0.0,"Stokes County, North Carolina",#000080
+37171,44.7459584058,0.0,"Surry County, North Carolina",#000080
+37173,22.596161354,0.0,"Swain County, North Carolina",#000080
+37175,31.5769342682,0.0,"Transylvania County, North Carolina",#000080
+37177,11.3270115422,1.0,"Tyrrell County, North Carolina",#0000f1
+37179,70.0834621481,0.0,"Union County, North Carolina",#000080
+37181,31.6604818522,0.0,"Vance County, North Carolina",#000080
+37183,175.513537894,0.0,"Wake County, North Carolina",#000080
+37185,19.5178794711,8.0,"Warren County, North Carolina",#ff6800
+37187,18.3099742963,6.0,"Washington County, North Carolina",#ceff29
+37189,43.2626621523,0.0,"Watauga County, North Carolina",#000080
+37191,50.7535556656,0.0,"Wayne County, North Carolina",#000080
+37193,38.5108467508,0.0,"Wilkes County, North Carolina",#000080
+37195,45.7094082219,0.0,"Wilson County, North Carolina",#000080
+37197,28.1443628233,0.0,"Yadkin County, North Carolina",#000080
+37199,20.8804324744,0.0,"Yancey County, North Carolina",#000080
+37999,121.22060272,5.0,"Unknown Or Undefined, North Carolina",#7dff7a
+38001,12.1930893777,7.0,"Adams County, North Dakota",#ffc400
+38003,21.9194955625,0.0,"Barnes County, North Dakota",#000080
+38005,13.3089360122,1.0,"Benson County, North Dakota",#0000f1
+38007,8.79267371799,3.0,"Billings County, North Dakota",#00b0ff
+38009,18.9361185912,7.0,"Bottineau County, North Dakota",#ffc400
+38011,14.9148775197,7.0,"Bowman County, North Dakota",#ffc400
+38013,12.2595282024,1.0,"Burke County, North Dakota",#0000f1
+38015,58.1808892422,0.0,"Burleigh County, North Dakota",#000080
+38017,79.9710364236,0.0,"Cass County, North Dakota",#000080
+38019,14.7593392548,7.0,"Cavalier County, North Dakota",#ffc400
+38021,17.0546041821,7.0,"Dickey County, North Dakota",#ffc400
+38023,12.6496596353,7.0,"Divide County, North Dakota",#ffc400
+38025,14.821463951,7.0,"Dunn County, North Dakota",#ffc400
+38027,10.8009589521,1.0,"Eddy County, North Dakota",#0000f1
+38029,13.8059827151,7.0,"Emmons County, North Dakota",#ffc400
+38031,13.9497112674,7.0,"Foster County, North Dakota",#ffc400
+38033,10.781450855,7.0,"Golden Valley County, North Dakota",#ffc400
+38035,47.3325788002,0.0,"Grand Forks County, North Dakota",#000080
+38037,10.3488746417,1.0,"Grant County, North Dakota",#0000f1
+38039,12.1748341796,7.0,"Griggs County, North Dakota",#ffc400
+38041,11.9445145808,1.0,"Hettinger County, North Dakota",#0000f1
+38043,10.9436688953,1.0,"Kidder County, North Dakota",#0000f1
+38045,15.2179014259,7.0,"LaMoure County, North Dakota",#ffc400
+38047,10.930080817,1.0,"Logan County, North Dakota",#0000f1
+38049,14.6028372977,7.0,"McHenry County, North Dakota",#ffc400
+38051,12.8128005191,7.0,"McIntosh County, North Dakota",#ffc400
+38053,22.7665080522,7.0,"McKenzie County, North Dakota",#ffc400
+38055,19.8209945612,7.0,"McLean County, North Dakota",#ffc400
+38057,18.9532214458,7.0,"Mercer County, North Dakota",#ffc400
+38059,30.9639255027,0.0,"Morton County, North Dakota",#000080
+38061,21.9437140726,7.0,"Mountrail County, North Dakota",#ffc400
+38063,13.5132650878,1.0,"Nelson County, North Dakota",#0000f1
+38065,8.85500486229,9.0,"Oliver County, North Dakota",#f10800
+38067,21.1777811089,7.0,"Pembina County, North Dakota",#ffc400
+38069,14.6373624999,7.0,"Pierce County, North Dakota",#ffc400
+38071,23.5040354522,0.0,"Ramsey County, North Dakota",#000080
+38073,16.6214505699,7.0,"Ransom County, North Dakota",#ffc400
+38075,12.0974220001,1.0,"Renville County, North Dakota",#0000f1
+38077,26.1129415096,0.0,"Richland County, North Dakota",#000080
+38079,17.563219143,8.0,"Rolette County, North Dakota",#ff6800
+38081,13.8814424483,7.0,"Sargent County, North Dakota",#ffc400
+38083,8.1722041479,1.0,"Sheridan County, North Dakota",#0000f1
+38085,9.51425413504,1.0,"Sioux County, North Dakota",#0000f1
+38087,6.10669032019,7.0,"Slope County, North Dakota",#ffc400
+38089,36.0096823399,0.0,"Stark County, North Dakota",#000080
+38091,10.0238010406,1.0,"Steele County, North Dakota",#0000f1
+38093,29.295348783,0.0,"Stutsman County, North Dakota",#000080
+38095,11.9292058571,7.0,"Towner County, North Dakota",#ffc400
+38097,19.9175582586,7.0,"Traill County, North Dakota",#ffc400
+38099,23.811753467,7.0,"Walsh County, North Dakota",#ffc400
+38101,47.8679068681,0.0,"Ward County, North Dakota",#000080
+38103,15.5134606171,7.0,"Wells County, North Dakota",#ffc400
+38105,40.7835410702,0.0,"Williams County, North Dakota",#000080
+38999,21.4490999552,5.0,"Unknown Or Undefined, North Dakota",#7dff7a
+39001,24.0773802166,0.0,"Adams County, Ohio",#000080
+39003,52.8856245658,0.0,"Allen County, Ohio",#000080
+39005,34.8495974789,0.0,"Ashland County, Ohio",#000080
+39007,48.6406241475,0.0,"Ashtabula County, Ohio",#000080
+39009,36.9255256489,0.0,"Athens County, Ohio",#000080
+39011,33.9719188425,0.0,"Auglaize County, Ohio",#000080
+39013,41.9892748967,0.0,"Belmont County, Ohio",#000080
+39015,27.2666652113,0.0,"Brown County, Ohio",#000080
+39017,89.1672852671,0.0,"Butler County, Ohio",#000080
+39019,24.6055871833,0.0,"Carroll County, Ohio",#000080
+39021,28.1394134143,0.0,"Champaign County, Ohio",#000080
+39023,53.3283442607,0.0,"Clark County, Ohio",#000080
+39025,64.4976928343,0.0,"Clermont County, Ohio",#000080
+39027,30.5225716635,0.0,"Clinton County, Ohio",#000080
+39029,49.2634640366,0.0,"Columbiana County, Ohio",#000080
+39031,28.748002001,0.0,"Coshocton County, Ohio",#000080
+39033,32.7288584372,0.0,"Crawford County, Ohio",#000080
+39035,197.128610021,0.0,"Cuyahoga County, Ohio",#000080
+39037,36.7165299481,0.0,"Darke County, Ohio",#000080
+39039,31.259563616,0.0,"Defiance County, Ohio",#000080
+39041,68.4868948187,0.0,"Delaware County, Ohio",#000080
+39043,47.4267145601,0.0,"Erie County, Ohio",#000080
+39045,55.155900978,0.0,"Fairfield County, Ohio",#000080
+39047,27.6682156767,0.0,"Fayette County, Ohio",#000080
+39049,178.753451515,0.0,"Franklin County, Ohio",#000080
+39051,34.1014650805,0.0,"Fulton County, Ohio",#000080
+39053,27.7815386343,0.0,"Gallia County, Ohio",#000080
+39055,56.2278915988,0.0,"Geauga County, Ohio",#000080
+39057,59.8527392592,0.0,"Greene County, Ohio",#000080
+39059,32.3300808379,0.0,"Guernsey County, Ohio",#000080
+39061,158.504236086,0.0,"Hamilton County, Ohio",#000080
+39063,44.7528530615,0.0,"Hancock County, Ohio",#000080
+39065,24.9550468859,8.0,"Hardin County, Ohio",#ff6800
+39067,20.1655155122,8.0,"Harrison County, Ohio",#ff6800
+39069,27.3432255619,0.0,"Henry County, Ohio",#000080
+39071,29.4446885285,0.0,"Highland County, Ohio",#000080
+39073,24.803697561,0.0,"Hocking County, Ohio",#000080
+39075,35.2458429385,0.0,"Holmes County, Ohio",#000080
+39077,38.3166526854,0.0,"Huron County, Ohio",#000080
+39079,28.0381047409,0.0,"Jackson County, Ohio",#000080
+39081,40.6033562613,0.0,"Jefferson County, Ohio",#000080
+39083,36.2121997771,0.0,"Knox County, Ohio",#000080
+39085,83.5307993763,0.0,"Lake County, Ohio",#000080
+39087,32.8954753969,0.0,"Lawrence County, Ohio",#000080
+39089,59.1288611612,0.0,"Licking County, Ohio",#000080
+39091,32.3105896936,0.0,"Logan County, Ohio",#000080
+39093,81.2134508759,0.0,"Lorain County, Ohio",#000080
+39095,105.929064315,0.0,"Lucas County, Ohio",#000080
+39097,30.4342317189,0.0,"Madison County, Ohio",#000080
+39099,80.9985719059,0.0,"Mahoning County, Ohio",#000080
+39101,37.8974284004,0.0,"Marion County, Ohio",#000080
+39103,68.3347444686,0.0,"Medina County, Ohio",#000080
+39105,20.2387142762,8.0,"Meigs County, Ohio",#ff6800
+39107,33.9203724429,0.0,"Mercer County, Ohio",#000080
+39109,50.0731409485,0.0,"Miami County, Ohio",#000080
+39111,19.9512699998,8.0,"Monroe County, Ohio",#ff6800
+39113,115.496691356,0.0,"Montgomery County, Ohio",#000080
+39115,16.3774792138,8.0,"Morgan County, Ohio",#ff6800
+39117,22.8095548762,0.0,"Morrow County, Ohio",#000080
+39119,45.7000963842,0.0,"Muskingum County, Ohio",#000080
+39121,17.9119872073,8.0,"Noble County, Ohio",#ff6800
+39123,35.6411457425,0.0,"Ottawa County, Ohio",#000080
+39125,20.880546502,8.0,"Paulding County, Ohio",#ff6800
+39127,24.3602264957,8.0,"Perry County, Ohio",#ff6800
+39129,31.3745423036,0.0,"Pickaway County, Ohio",#000080
+39131,24.1472582163,8.0,"Pike County, Ohio",#ff6800
+39133,59.5632150518,0.0,"Portage County, Ohio",#000080
+39135,28.708938932,0.0,"Preble County, Ohio",#000080
+39137,29.7547981992,0.0,"Putnam County, Ohio",#000080
+39139,55.4912226722,0.0,"Richland County, Ohio",#000080
+39141,38.9340814507,0.0,"Ross County, Ohio",#000080
+39143,39.6707680953,0.0,"Sandusky County, Ohio",#000080
+39145,40.244135923,0.0,"Scioto County, Ohio",#000080
+39147,36.9953879579,0.0,"Seneca County, Ohio",#000080
+39149,34.2014863225,0.0,"Shelby County, Ohio",#000080
+39151,97.7175493166,0.0,"Stark County, Ohio",#000080
+39153,124.407679164,0.0,"Summit County, Ohio",#000080
+39155,69.9086535507,0.0,"Trumbull County, Ohio",#000080
+39157,50.4614893237,0.0,"Tuscarawas County, Ohio",#000080
+39159,35.3039803952,0.0,"Union County, Ohio",#000080
+39161,26.381345622,0.0,"Van Wert County, Ohio",#000080
+39163,15.8273422249,8.0,"Vinton County, Ohio",#ff6800
+39165,67.7085695967,0.0,"Warren County, Ohio",#000080
+39167,41.8881825969,0.0,"Washington County, Ohio",#000080
+39169,53.1187498658,0.0,"Wayne County, Ohio",#000080
+39171,31.240808172,0.0,"Williams County, Ohio",#000080
+39173,56.3736506895,0.0,"Wood County, Ohio",#000080
+39175,25.4049895112,0.0,"Wyandot County, Ohio",#000080
+39999,120.86976134,5.0,"Unknown Or Undefined, Ohio",#7dff7a
+40001,18.3999547101,6.0,"Adair County, Oklahoma",#ceff29
+40003,13.610701322,1.0,"Alfalfa County, Oklahoma",#0000f1
+40005,18.4425534506,6.0,"Atoka County, Oklahoma",#ceff29
+40007,14.5084813728,4.0,"Beaver County, Oklahoma",#29ffce
+40009,30.6121215228,0.0,"Beckham County, Oklahoma",#000080
+40011,19.3968476411,6.0,"Blaine County, Oklahoma",#ceff29
+40013,30.5995707512,0.0,"Bryan County, Oklahoma",#000080
+40015,25.6115440861,6.0,"Caddo County, Oklahoma",#ceff29
+40017,50.8410962066,0.0,"Canadian County, Oklahoma",#000080
+40019,41.3775828811,0.0,"Carter County, Oklahoma",#000080
+40021,29.018849922,0.0,"Cherokee County, Oklahoma",#000080
+40023,19.8462342996,8.0,"Choctaw County, Oklahoma",#ff6800
+40025,10.8309521193,1.0,"Cimarron County, Oklahoma",#0000f1
+40027,72.1659078372,0.0,"Cleveland County, Oklahoma",#000080
+40029,11.6685712731,1.0,"Coal County, Oklahoma",#0000f1
+40031,50.7666033517,0.0,"Comanche County, Oklahoma",#000080
+40033,11.7265131694,1.0,"Cotton County, Oklahoma",#0000f1
+40035,21.190715622,6.0,"Craig County, Oklahoma",#ceff29
+40037,39.3303822541,0.0,"Creek County, Oklahoma",#000080
+40039,32.1899681208,0.0,"Custer County, Oklahoma",#000080
+40041,29.1726864536,0.0,"Delaware County, Oklahoma",#000080
+40043,14.2207650543,1.0,"Dewey County, Oklahoma",#0000f1
+40045,12.834508295,6.0,"Ellis County, Oklahoma",#ceff29
+40047,42.7057624081,0.0,"Garfield County, Oklahoma",#000080
+40049,28.4168447139,0.0,"Garvin County, Oklahoma",#000080
+40051,34.1260792608,0.0,"Grady County, Oklahoma",#000080
+40053,13.2406301102,4.0,"Grant County, Oklahoma",#29ffce
+40055,12.0451860897,6.0,"Greer County, Oklahoma",#ceff29
+40057,9.73139250056,1.0,"Harmon County, Oklahoma",#0000f1
+40059,13.1649185096,4.0,"Harper County, Oklahoma",#29ffce
+40061,17.2782090489,6.0,"Haskell County, Oklahoma",#ceff29
+40063,17.6498684738,6.0,"Hughes County, Oklahoma",#ceff29
+40065,26.630645314,8.0,"Jackson County, Oklahoma",#ff6800
+40067,13.5409871624,1.0,"Jefferson County, Oklahoma",#0000f1
+40069,16.1251676502,6.0,"Johnston County, Oklahoma",#ceff29
+40071,36.7770578503,0.0,"Kay County, Oklahoma",#000080
+40073,23.6328060926,6.0,"Kingfisher County, Oklahoma",#ceff29
+40075,16.6916598317,6.0,"Kiowa County, Oklahoma",#ceff29
+40077,15.5725898795,6.0,"Latimer County, Oklahoma",#ceff29
+40079,31.3195131629,0.0,"Le Flore County, Oklahoma",#000080
+40081,26.0262611576,0.0,"Lincoln County, Oklahoma",#000080
+40083,27.2807857262,0.0,"Logan County, Oklahoma",#000080
+40085,15.4832346606,2.0,"Love County, Oklahoma",#004cff
+40087,30.9605675987,0.0,"McClain County, Oklahoma",#000080
+40089,26.9821369481,0.0,"McCurtain County, Oklahoma",#000080
+40091,21.5540847968,0.0,"McIntosh County, Oklahoma",#000080
+40093,17.139263843,6.0,"Major County, Oklahoma",#ceff29
+40095,18.2505055377,6.0,"Marshall County, Oklahoma",#ceff29
+40097,30.8150524958,0.0,"Mayes County, Oklahoma",#000080
+40099,19.3058199137,6.0,"Murray County, Oklahoma",#ceff29
+40101,41.2106666728,0.0,"Muskogee County, Oklahoma",#000080
+40103,16.8885703813,6.0,"Noble County, Oklahoma",#ceff29
+40105,14.3932854716,6.0,"Nowata County, Oklahoma",#ceff29
+40107,15.1053443712,6.0,"Okfuskee County, Oklahoma",#ceff29
+40109,161.71001996,0.0,"Oklahoma County, Oklahoma",#000080
+40111,28.9588651887,0.0,"Okmulgee County, Oklahoma",#000080
+40113,25.4820665231,6.0,"Osage County, Oklahoma",#ceff29
+40115,27.7670368123,0.0,"Ottawa County, Oklahoma",#000080
+40117,18.4964282266,6.0,"Pawnee County, Oklahoma",#ceff29
+40119,44.2385623277,0.0,"Payne County, Oklahoma",#000080
+40121,33.4573941338,0.0,"Pittsburg County, Oklahoma",#000080
+40123,33.501711636,0.0,"Pontotoc County, Oklahoma",#000080
+40125,38.2005567981,0.0,"Pottawatomie County, Oklahoma",#000080
+40127,16.7287296836,6.0,"Pushmataha County, Oklahoma",#ceff29
+40129,11.5662686908,4.0,"Roger Mills County, Oklahoma",#29ffce
+40131,42.4010051543,0.0,"Rogers County, Oklahoma",#000080
+40133,24.3695832402,6.0,"Seminole County, Oklahoma",#ceff29
+40135,26.7998682181,0.0,"Sequoyah County, Oklahoma",#000080
+40137,34.6767212983,0.0,"Stephens County, Oklahoma",#000080
+40139,24.9509280293,6.0,"Texas County, Oklahoma",#ceff29
+40141,14.9575324762,6.0,"Tillman County, Oklahoma",#ceff29
+40143,146.605809885,0.0,"Tulsa County, Oklahoma",#000080
+40145,28.7684792234,0.0,"Wagoner County, Oklahoma",#000080
+40147,37.4492937607,0.0,"Washington County, Oklahoma",#000080
+40149,17.1737271657,6.0,"Washita County, Oklahoma",#ceff29
+40151,19.3066112535,6.0,"Woods County, Oklahoma",#ceff29
+40153,29.9245877562,0.0,"Woodward County, Oklahoma",#000080
+40999,79.2654521514,5.0,"Unknown Or Undefined, Oklahoma",#7dff7a
+41001,26.7862941736,0.0,"Baker County, Oregon",#000080
+41003,50.5352344472,0.0,"Benton County, Oregon",#000080
+41005,114.954064325,0.0,"Clackamas County, Oregon",#000080
+41007,42.1281868466,0.0,"Clatsop County, Oregon",#000080
+41009,35.4740347699,0.0,"Columbia County, Oregon",#000080
+41011,45.5610396428,0.0,"Coos County, Oregon",#000080
+41013,25.8172453746,0.0,"Crook County, Oregon",#000080
+41015,30.1683175028,0.0,"Curry County, Oregon",#000080
+41017,84.1435941973,0.0,"Deschutes County, Oregon",#000080
+41019,56.6554505707,0.0,"Douglas County, Oregon",#000080
+41021,11.7808864571,4.0,"Gilliam County, Oregon",#29ffce
+41023,19.5674555694,6.0,"Grant County, Oregon",#ceff29
+41025,17.7117797767,6.0,"Harney County, Oregon",#ceff29
+41027,35.6557448787,0.0,"Hood River County, Oregon",#000080
+41029,83.7591454376,0.0,"Jackson County, Oregon",#000080
+41031,23.2171170435,8.0,"Jefferson County, Oregon",#ff6800
+41033,49.6883461793,0.0,"Josephine County, Oregon",#000080
+41035,45.6792518286,0.0,"Klamath County, Oregon",#000080
+41037,18.8372098834,6.0,"Lake County, Oregon",#ceff29
+41039,107.402907427,0.0,"Lane County, Oregon",#000080
+41041,44.8710542325,0.0,"Lincoln County, Oregon",#000080
+41043,56.7739425754,0.0,"Linn County, Oregon",#000080
+41045,32.5694496057,0.0,"Malheur County, Oregon",#000080
+41047,99.3180756898,0.0,"Marion County, Oregon",#000080
+41049,18.2289125833,1.0,"Morrow County, Oregon",#0000f1
+41051,175.227258335,0.0,"Multnomah County, Oregon",#000080
+41053,41.8087577216,0.0,"Polk County, Oregon",#000080
+41055,10.8822521887,4.0,"Sherman County, Oregon",#29ffce
+41057,31.95372398,0.0,"Tillamook County, Oregon",#000080
+41059,46.3735265885,0.0,"Umatilla County, Oregon",#000080
+41061,31.4500044162,0.0,"Union County, Oregon",#000080
+41063,21.8159872934,8.0,"Wallowa County, Oregon",#ff6800
+41065,31.8777986633,0.0,"Wasco County, Oregon",#000080
+41067,130.793416719,0.0,"Washington County, Oregon",#000080
+41069,9.16326776813,1.0,"Wheeler County, Oregon",#0000f1
+41071,54.3478946307,0.0,"Yamhill County, Oregon",#000080
+41999,73.164160929,5.0,"Unknown Or Undefined, Oregon",#7dff7a
+42001,47.5896980982,0.0,"Adams County, Pennsylvania",#000080
+42003,193.176431612,0.0,"Allegheny County, Pennsylvania",#000080
+42005,40.6452324466,0.0,"Armstrong County, Pennsylvania",#000080
+42007,62.7386775974,0.0,"Beaver County, Pennsylvania",#000080
+42009,36.248442769,0.0,"Bedford County, Pennsylvania",#000080
+42011,97.7569792093,0.0,"Berks County, Pennsylvania",#000080
+42013,60.4411428253,0.0,"Blair County, Pennsylvania",#000080
+42015,41.8008031365,0.0,"Bradford County, Pennsylvania",#000080
+42017,143.993959309,0.0,"Bucks County, Pennsylvania",#000080
+42019,71.6338130676,0.0,"Butler County, Pennsylvania",#000080
+42021,63.0075518276,0.0,"Cambria County, Pennsylvania",#000080
+42023,13.6719501982,8.0,"Cameron County, Pennsylvania",#ff6800
+42025,37.3002351156,0.0,"Carbon County, Pennsylvania",#000080
+42027,60.6056044085,0.0,"Centre County, Pennsylvania",#000080
+42029,125.428187258,0.0,"Chester County, Pennsylvania",#000080
+42031,35.0195693591,0.0,"Clarion County, Pennsylvania",#000080
+42033,48.1553825965,0.0,"Clearfield County, Pennsylvania",#000080
+42035,31.1251059793,0.0,"Clinton County, Pennsylvania",#000080
+42037,41.487223124,0.0,"Columbia County, Pennsylvania",#000080
+42039,49.5848159042,0.0,"Crawford County, Pennsylvania",#000080
+42041,80.3069532857,0.0,"Cumberland County, Pennsylvania",#000080
+42043,88.6655589798,0.0,"Dauphin County, Pennsylvania",#000080
+42045,119.970637942,0.0,"Delaware County, Pennsylvania",#000080
+42047,32.5919639039,0.0,"Elk County, Pennsylvania",#000080
+42049,88.1446074663,0.0,"Erie County, Pennsylvania",#000080
+42051,56.6527188717,0.0,"Fayette County, Pennsylvania",#000080
+42053,14.561323527,2.0,"Forest County, Pennsylvania",#004cff
+42055,59.5252514111,0.0,"Franklin County, Pennsylvania",#000080
+42057,19.6674233107,8.0,"Fulton County, Pennsylvania",#ff6800
+42059,30.2655443467,0.0,"Greene County, Pennsylvania",#000080
+42061,32.6701225091,0.0,"Huntingdon County, Pennsylvania",#000080
+42063,47.3668476254,0.0,"Indiana County, Pennsylvania",#000080
+42065,36.4364417269,0.0,"Jefferson County, Pennsylvania",#000080
+42067,23.9732158745,0.0,"Juniata County, Pennsylvania",#000080
+42069,78.9571387647,0.0,"Lackawanna County, Pennsylvania",#000080
+42071,115.124780475,0.0,"Lancaster County, Pennsylvania",#000080
+42073,48.1162035869,0.0,"Lawrence County, Pennsylvania",#000080
+42075,54.1729666666,0.0,"Lebanon County, Pennsylvania",#000080
+42077,95.7137929388,0.0,"Lehigh County, Pennsylvania",#000080
+42079,90.9347686139,0.0,"Luzerne County, Pennsylvania",#000080
+42081,58.3699272974,0.0,"Lycoming County, Pennsylvania",#000080
+42083,37.1712467816,0.0,"Mckean County, Pennsylvania",#000080
+42085,57.1954980746,0.0,"Mercer County, Pennsylvania",#000080
+42087,34.200668331,0.0,"Mifflin County, Pennsylvania",#000080
+42089,63.9024026426,0.0,"Monroe County, Pennsylvania",#000080
+42091,169.06093576,0.0,"Montgomery County, Pennsylvania",#000080
+42093,22.0737760091,0.0,"Montour County, Pennsylvania",#000080
+42095,83.5542452827,0.0,"Northampton County, Pennsylvania",#000080
+42097,46.4080418592,0.0,"Northumberland County, Pennsylvania",#000080
+42099,31.0742199075,0.0,"Perry County, Pennsylvania",#000080
+42101,187.589792256,0.0,"Philadelphia County, Pennsylvania",#000080
+42103,34.118554976,0.0,"Pike County, Pennsylvania",#000080
+42105,23.2531359892,8.0,"Potter County, Pennsylvania",#ff6800
+42107,59.4598904425,0.0,"Schuylkill County, Pennsylvania",#000080
+42109,32.7257846984,0.0,"Snyder County, Pennsylvania",#000080
+42111,45.4168741804,0.0,"Somerset County, Pennsylvania",#000080
+42113,15.6420272303,8.0,"Sullivan County, Pennsylvania",#ff6800
+42115,33.6253872344,0.0,"Susquehanna County, Pennsylvania",#000080
+42117,34.5554764456,0.0,"Tioga County, Pennsylvania",#000080
+42119,33.0335928105,0.0,"Union County, Pennsylvania",#000080
+42121,37.9606521429,0.0,"Venango County, Pennsylvania",#000080
+42123,35.4290146542,0.0,"Warren County, Pennsylvania",#000080
+42125,75.6445032571,0.0,"Washington County, Pennsylvania",#000080
+42127,40.1114419808,0.0,"Wayne County, Pennsylvania",#000080
+42129,99.6430016498,0.0,"Westmoreland County, Pennsylvania",#000080
+42131,28.1430092253,0.0,"Wyoming County, Pennsylvania",#000080
+42133,98.0261080383,0.0,"York County, Pennsylvania",#000080
+42999,144.225501345,5.0,"Unknown Or Undefined, Pennsylvania",#7dff7a
+44001,39.7658923008,0.0,"Bristol County, Rhode Island",#000080
+44003,76.6274925797,0.0,"Kent County, Rhode Island",#000080
+44005,59.7943466298,0.0,"Newport County, Rhode Island",#000080
+44007,137.725651782,0.0,"Providence County, Rhode Island",#000080
+44009,68.877147937,0.0,"Washington County, Rhode Island",#000080
+44999,58.194760578,5.0,"Unknown Or Undefined, Rhode Island",#7dff7a
+45001,20.8262559407,8.0,"Abbeville County, South Carolina",#ff6800
+45003,56.1150568313,0.0,"Aiken County, South Carolina",#000080
+45005,15.1416329245,8.0,"Allendale County, South Carolina",#ff6800
+45007,62.0526658036,0.0,"Anderson County, South Carolina",#000080
+45009,19.3083582527,8.0,"Bamberg County, South Carolina",#ff6800
+45011,22.4994444376,0.0,"Barnwell County, South Carolina",#000080
+45013,73.7839214429,0.0,"Beaufort County, South Carolina",#000080
+45015,50.6193231189,0.0,"Berkeley County, South Carolina",#000080
+45017,17.348836931,0.0,"Calhoun County, South Carolina",#000080
+45019,115.7020822,0.0,"Charleston County, South Carolina",#000080
+45021,32.4183039126,0.0,"Cherokee County, South Carolina",#000080
+45023,25.5042480122,0.0,"Chester County, South Carolina",#000080
+45025,28.9361982891,0.0,"Chesterfield County, South Carolina",#000080
+45027,26.2633412809,8.0,"Clarendon County, South Carolina",#ff6800
+45029,29.8734699416,0.0,"Colleton County, South Carolina",#000080
+45031,35.3366294509,0.0,"Darlington County, South Carolina",#000080
+45033,24.24832673,0.0,"Dillon County, South Carolina",#000080
+45035,48.8050137289,0.0,"Dorchester County, South Carolina",#000080
+45037,20.5743811263,8.0,"Edgefield County, South Carolina",#ff6800
+45039,20.6647464546,8.0,"Fairfield County, South Carolina",#ff6800
+45041,58.8895556267,0.0,"Florence County, South Carolina",#000080
+45043,46.6781703508,0.0,"Georgetown County, South Carolina",#000080
+45045,117.004746546,0.0,"Greenville County, South Carolina",#000080
+45047,40.4468394982,0.0,"Greenwood County, South Carolina",#000080
+45049,21.8968994689,8.0,"Hampton County, South Carolina",#ff6800
+45051,94.9633680418,0.0,"Horry County, South Carolina",#000080
+45053,26.0461891311,0.0,"Jasper County, South Carolina",#000080
+45055,35.9356623064,0.0,"Kershaw County, South Carolina",#000080
+45057,35.9739985466,0.0,"Lancaster County, South Carolina",#000080
+45059,31.3781278084,0.0,"Laurens County, South Carolina",#000080
+45061,18.6846745621,8.0,"Lee County, South Carolina",#ff6800
+45063,79.3232936825,0.0,"Lexington County, South Carolina",#000080
+45065,13.4071172759,8.0,"McCormick County, South Carolina",#ff6800
+45067,25.5168867211,0.0,"Marion County, South Carolina",#000080
+45069,21.5085900153,8.0,"Marlboro County, South Carolina",#ff6800
+45071,29.2463333749,0.0,"Newberry County, South Carolina",#000080
+45073,40.7233699139,0.0,"Oconee County, South Carolina",#000080
+45075,43.9530097205,0.0,"Orangeburg County, South Carolina",#000080
+45077,48.835791422,0.0,"Pickens County, South Carolina",#000080
+45079,100.128540403,0.0,"Richland County, South Carolina",#000080
+45081,18.2185802594,8.0,"Saluda County, South Carolina",#ff6800
+45083,81.0718523169,0.0,"Spartanburg County, South Carolina",#000080
+45085,46.9313116786,0.0,"Sumter County, South Carolina",#000080
+45087,23.5620339624,8.0,"Union County, South Carolina",#ff6800
+45089,26.0580624577,8.0,"Williamsburg County, South Carolina",#ff6800
+45091,71.53926106,0.0,"York County, South Carolina",#000080
+45999,114.848666818,5.0,"Unknown Or Undefined, South Carolina",#7dff7a
+46003,11.4917845051,8.0,"Aurora County, South Dakota",#ff6800
+46005,26.6960775313,0.0,"Beadle County, South Dakota",#000080
+46007,10.6702560925,1.0,"Bennett County, South Dakota",#0000f1
+46009,15.8153030171,7.0,"Bon Homme County, South Dakota",#ffc400
+46011,32.4483533468,0.0,"Brookings County, South Dakota",#000080
+46013,38.9980972267,0.0,"Brown County, South Dakota",#000080
+46015,17.0618040878,0.0,"Brule County, South Dakota",#000080
+46017,5.41653846002,1.0,"Buffalo County, South Dakota",#0000f1
+46019,20.209174013,0.0,"Butte County, South Dakota",#000080
+46021,9.2997055765,1.0,"Campbell County, South Dakota",#0000f1
+46023,19.4844463815,7.0,"Charles Mix County, South Dakota",#ffc400
+46025,13.2637918637,1.0,"Clark County, South Dakota",#0000f1
+46027,20.7760259426,0.0,"Clay County, South Dakota",#000080
+46029,35.536528267,0.0,"Codington County, South Dakota",#000080
+46031,9.37905467873,1.0,"Corson County, South Dakota",#0000f1
+46033,19.4454466862,0.0,"Custer County, South Dakota",#000080
+46035,29.7001015444,0.0,"Davison County, South Dakota",#000080
+46037,16.0568434701,7.0,"Day County, South Dakota",#ffc400
+46039,14.1629546958,7.0,"Deuel County, South Dakota",#ffc400
+46041,13.1963649396,2.0,"Dewey County, South Dakota",#004cff
+46043,12.2042147286,8.0,"Douglas County, South Dakota",#ff6800
+46045,13.7315243839,1.0,"Edmunds County, South Dakota",#0000f1
+46047,18.1142866531,0.0,"Fall River County, South Dakota",#000080
+46049,10.4007211288,1.0,"Faulk County, South Dakota",#0000f1
+46051,19.5194652542,0.0,"Grant County, South Dakota",#000080
+46053,15.7034269842,0.0,"Gregory County, South Dakota",#000080
+46055,10.7744553871,1.0,"Haakon County, South Dakota",#0000f1
+46057,15.4040939724,7.0,"Hamlin County, South Dakota",#ffc400
+46059,13.0512117056,1.0,"Hand County, South Dakota",#0000f1
+46061,10.1311440304,7.0,"Hanson County, South Dakota",#ffc400
+46063,8.36062198643,1.0,"Harding County, South Dakota",#0000f1
+46065,29.9689919115,0.0,"Hughes County, South Dakota",#000080
+46067,17.1728606486,7.0,"Hutchinson County, South Dakota",#ffc400
+46069,8.3072687621,1.0,"Hyde County, South Dakota",#0000f1
+46071,10.0727906318,1.0,"Jackson County, South Dakota",#0000f1
+46073,11.0265372538,1.0,"Jerauld County, South Dakota",#0000f1
+46075,9.20746332886,1.0,"Jones County, South Dakota",#0000f1
+46077,15.4688370809,7.0,"Kingsbury County, South Dakota",#ffc400
+46079,21.928563673,0.0,"Lake County, South Dakota",#000080
+46081,34.4739664831,0.0,"Lawrence County, South Dakota",#000080
+46083,39.2663978485,0.0,"Lincoln County, South Dakota",#000080
+46085,11.8611008884,1.0,"Lyman County, South Dakota",#0000f1
+46087,15.8127936951,0.0,"McCook County, South Dakota",#000080
+46089,10.3912356232,1.0,"McPherson County, South Dakota",#0000f1
+46091,14.6461030084,1.0,"Marshall County, South Dakota",#0000f1
+46093,28.8277313578,0.0,"Meade County, South Dakota",#000080
+46095,7.54888828144,1.0,"Mellette County, South Dakota",#0000f1
+46097,10.9703605011,7.0,"Miner County, South Dakota",#ffc400
+46099,82.9010789368,0.0,"Minnehaha County, South Dakota",#000080
+46101,14.9527960968,7.0,"Moody County, South Dakota",#ffc400
+46102,8.94427191,2.0,"Oglala Lakota County, South Dakota",#004cff
+46103,65.8242670068,0.0,"Pennington County, South Dakota",#000080
+46105,13.096558375,8.0,"Perkins County, South Dakota",#ff6800
+46107,12.0245945053,1.0,"Potter County, South Dakota",#0000f1
+46109,18.1567469641,7.0,"Roberts County, South Dakota",#ffc400
+46111,9.81374158054,8.0,"Sanborn County, South Dakota",#ff6800
+46113,12.0953716716,2.0,"Shannon County, South Dakota",#004cff
+46115,16.6386431071,7.0,"Spink County, South Dakota",#ffc400
+46117,12.604562666,0.0,"Stanley County, South Dakota",#000080
+46119,10.2719953704,1.0,"Sully County, South Dakota",#0000f1
+46121,11.4326356861,1.0,"Todd County, South Dakota",#0000f1
+46123,16.833132955,7.0,"Tripp County, South Dakota",#ffc400
+46125,17.7856840058,7.0,"Turner County, South Dakota",#ffc400
+46127,26.1070978003,0.0,"Union County, South Dakota",#000080
+46129,17.0607225512,0.0,"Walworth County, South Dakota",#000080
+46135,29.7606390207,0.0,"Yankton County, South Dakota",#000080
+46137,6.72970199109,1.0,"Ziebach County, South Dakota",#0000f1
+46999,26.7883681225,5.0,"Unknown Or Undefined, South Dakota",#7dff7a
+47001,41.790610892,0.0,"Anderson County, Tennessee",#000080
+47003,29.3673368931,0.0,"Bedford County, Tennessee",#000080
+47005,18.6989835052,8.0,"Benton County, Tennessee",#ff6800
+47007,13.2704917912,3.0,"Bledsoe County, Tennessee",#00b0ff
+47009,48.8419503205,0.0,"Blount County, Tennessee",#000080
+47011,43.8310473784,0.0,"Bradley County, Tennessee",#000080
+47013,26.0700140951,0.0,"Campbell County, Tennessee",#000080
+47015,15.0687314219,0.0,"Cannon County, Tennessee",#000080
+47017,22.9669102897,0.0,"Carroll County, Tennessee",#000080
+47019,27.5521511274,0.0,"Carter County, Tennessee",#000080
+47021,24.9961822482,0.0,"Cheatham County, Tennessee",#000080
+47023,16.9981675016,0.0,"Chester County, Tennessee",#000080
+47025,23.3529169518,0.0,"Claiborne County, Tennessee",#000080
+47027,13.1850835633,0.0,"Clay County, Tennessee",#000080
+47029,23.559886544,0.0,"Cocke County, Tennessee",#000080
+47031,36.7762809603,0.0,"Coffee County, Tennessee",#000080
+47033,17.0447822859,8.0,"Crockett County, Tennessee",#ff6800
+47035,34.0004026587,0.0,"Cumberland County, Tennessee",#000080
+47037,141.077005315,0.0,"Davidson County, Tennessee",#000080
+47039,16.7881879299,8.0,"Decatur County, Tennessee",#ff6800
+47041,18.9790193267,0.0,"DeKalb County, Tennessee",#000080
+47043,32.255201377,0.0,"Dickson County, Tennessee",#000080
+47045,30.2694381991,0.0,"Dyer County, Tennessee",#000080
+47047,24.7165117357,0.0,"Fayette County, Tennessee",#000080
+47049,17.9110123968,8.0,"Fentress County, Tennessee",#ff6800
+47051,27.7756459499,0.0,"Franklin County, Tennessee",#000080
+47053,31.9467625108,0.0,"Gibson County, Tennessee",#000080
+47055,25.4303905181,0.0,"Giles County, Tennessee",#000080
+47057,17.2415840984,8.0,"Grainger County, Tennessee",#ff6800
+47059,34.7889555545,0.0,"Greene County, Tennessee",#000080
+47061,15.0483480083,8.0,"Grundy County, Tennessee",#ff6800
+47063,37.9844005157,0.0,"Hamblen County, Tennessee",#000080
+47065,96.1609348791,0.0,"Hamilton County, Tennessee",#000080
+47067,9.14319505824,3.0,"Hancock County, Tennessee",#00b0ff
+47069,20.7181290906,8.0,"Hardeman County, Tennessee",#ff6800
+47071,24.4252179078,0.0,"Hardin County, Tennessee",#000080
+47073,26.3896925525,0.0,"Hawkins County, Tennessee",#000080
+47075,19.4270307512,8.0,"Haywood County, Tennessee",#ff6800
+47077,23.4985561866,0.0,"Henderson County, Tennessee",#000080
+47079,27.9879012977,0.0,"Henry County, Tennessee",#000080
+47081,17.9543291857,0.0,"Hickman County, Tennessee",#000080
+47083,12.370840651,6.0,"Houston County, Tennessee",#ceff29
+47085,19.7115206826,0.0,"Humphreys County, Tennessee",#000080
+47087,12.2337679954,8.0,"Jackson County, Tennessee",#ff6800
+47089,27.5575228112,0.0,"Jefferson County, Tennessee",#000080
+47091,17.1764997266,0.0,"Johnson County, Tennessee",#000080
+47093,108.35502347,0.0,"Knox County, Tennessee",#000080
+47095,11.9061142089,8.0,"Lake County, Tennessee",#ff6800
+47097,19.8736684689,8.0,"Lauderdale County, Tennessee",#ff6800
+47099,28.3023500062,0.0,"Lawrence County, Tennessee",#000080
+47101,16.3999370885,0.0,"Lewis County, Tennessee",#000080
+47103,25.4343069151,0.0,"Lincoln County, Tennessee",#000080
+47105,31.2268644518,0.0,"Loudon County, Tennessee",#000080
+47107,30.8749911638,0.0,"McMinn County, Tennessee",#000080
+47109,22.3628536243,0.0,"McNairy County, Tennessee",#000080
+47111,19.2370137603,0.0,"Macon County, Tennessee",#000080
+47113,50.5094522036,0.0,"Madison County, Tennessee",#000080
+47115,23.4637342594,0.0,"Marion County, Tennessee",#000080
+47117,23.837587033,0.0,"Marshall County, Tennessee",#000080
+47119,42.5445611393,0.0,"Maury County, Tennessee",#000080
+47121,12.041248551,6.0,"Meigs County, Tennessee",#ceff29
+47123,28.1912473752,0.0,"Monroe County, Tennessee",#000080
+47125,53.04159045,0.0,"Montgomery County, Tennessee",#000080
+47127,9.60772258828,3.0,"Moore County, Tennessee",#00b0ff
+47129,14.6368067252,8.0,"Morgan County, Tennessee",#ff6800
+47131,27.5887528844,0.0,"Obion County, Tennessee",#000080
+47133,18.6794492798,0.0,"Overton County, Tennessee",#000080
+47135,12.2825692726,8.0,"Perry County, Tennessee",#ff6800
+47137,11.2858775355,8.0,"Pickett County, Tennessee",#ff6800
+47139,16.9658153028,8.0,"Polk County, Tennessee",#ff6800
+47141,43.3951299294,0.0,"Putnam County, Tennessee",#000080
+47143,23.5726418639,0.0,"Rhea County, Tennessee",#000080
+47145,29.0276892989,0.0,"Roane County, Tennessee",#000080
+47147,33.7924806138,0.0,"Robertson County, Tennessee",#000080
+47149,69.3411110564,0.0,"Rutherford County, Tennessee",#000080
+47151,19.9213234245,8.0,"Scott County, Tennessee",#ff6800
+47153,16.0548044532,0.0,"Sequatchie County, Tennessee",#000080
+47155,52.7568132965,0.0,"Sevier County, Tennessee",#000080
+47157,144.097440027,0.0,"Shelby County, Tennessee",#000080
+47159,19.4273575718,0.0,"Smith County, Tennessee",#000080
+47161,14.9380732274,6.0,"Stewart County, Tennessee",#ceff29
+47163,59.4265853606,0.0,"Sullivan County, Tennessee",#000080
+47165,56.315237302,0.0,"Sumner County, Tennessee",#000080
+47167,28.9293268567,0.0,"Tipton County, Tennessee",#000080
+47169,12.6883898937,3.0,"Trousdale County, Tennessee",#00b0ff
+47171,17.1360568523,0.0,"Unicoi County, Tennessee",#000080
+47173,16.2252986863,0.0,"Union County, Tennessee",#000080
+47175,8.89303722645,8.0,"Van Buren County, Tennessee",#ff6800
+47177,29.232979039,0.0,"Warren County, Tennessee",#000080
+47179,54.5644987497,0.0,"Washington County, Tennessee",#000080
+47181,16.4026831913,8.0,"Wayne County, Tennessee",#ff6800
+47183,24.7820339429,0.0,"Weakley County, Tennessee",#000080
+47185,21.5813062111,0.0,"White County, Tennessee",#000080
+47187,81.8767608559,0.0,"Williamson County, Tennessee",#000080
+47189,49.3266203605,0.0,"Wilson County, Tennessee",#000080
+47999,104.761111469,5.0,"Unknown Or Undefined, Tennessee",#7dff7a
+48001,36.5854349109,0.0,"Anderson County, Texas",#000080
+48003,21.7967887543,6.0,"Andrews County, Texas",#ceff29
+48005,44.7552825649,0.0,"Angelina County, Texas",#000080
+48007,26.5758274222,0.0,"Aransas County, Texas",#000080
+48009,17.116837065,7.0,"Archer County, Texas",#ffc400
+48011,9.41454885583,9.0,"Armstrong County, Texas",#f10800
+48013,29.7195555843,0.0,"Atascosa County, Texas",#000080
+48015,31.6572291701,0.0,"Austin County, Texas",#000080
+48017,17.7437894344,6.0,"Bailey County, Texas",#ceff29
+48019,22.1263955707,0.0,"Bandera County, Texas",#000080
+48021,35.4228706051,0.0,"Bastrop County, Texas",#000080
+48023,14.833975374,1.0,"Baylor County, Texas",#0000f1
+48025,25.7661260955,8.0,"Bee County, Texas",#ff6800
+48027,71.9999779541,0.0,"Bell County, Texas",#000080
+48029,192.507713719,0.0,"Bexar County, Texas",#000080
+48031,19.2013661055,8.0,"Blanco County, Texas",#ff6800
+48033,7.80628562366,1.0,"Borden County, Texas",#0000f1
+48035,20.3247542401,6.0,"Bosque County, Texas",#ceff29
+48037,49.5493861381,0.0,"Bowie County, Texas",#000080
+48039,72.7493222572,0.0,"Brazoria County, Texas",#000080
+48041,65.489509035,0.0,"Brazos County, Texas",#000080
+48043,22.4475490938,8.0,"Brewster County, Texas",#ff6800
+48045,10.8832549403,1.0,"Briscoe County, Texas",#0000f1
+48047,15.1293103526,6.0,"Brooks County, Texas",#ceff29
+48049,31.9376624961,0.0,"Brown County, Texas",#000080
+48051,20.7528349565,6.0,"Burleson County, Texas",#ceff29
+48053,35.8361903623,0.0,"Burnet County, Texas",#000080
+48055,26.1871090909,0.0,"Caldwell County, Texas",#000080
+48057,23.9499975147,0.0,"Calhoun County, Texas",#000080
+48059,16.9144439075,6.0,"Callahan County, Texas",#ceff29
+48061,83.3333809524,0.0,"Cameron County, Texas",#000080
+48063,17.0714186093,0.0,"Camp County, Texas",#000080
+48065,13.2296114473,1.0,"Carson County, Texas",#0000f1
+48067,24.6588549407,0.0,"Cass County, Texas",#000080
+48069,18.5841180701,6.0,"Castro County, Texas",#ceff29
+48071,25.8530723359,8.0,"Chambers County, Texas",#ff6800
+48073,30.7177563561,0.0,"Cherokee County, Texas",#000080
+48075,16.3973115295,6.0,"Childress County, Texas",#ceff29
+48077,15.0785904145,1.0,"Clay County, Texas",#0000f1
+48079,12.3367434153,1.0,"Cochran County, Texas",#0000f1
+48081,11.6344623548,1.0,"Coke County, Texas",#0000f1
+48083,17.0492400799,6.0,"Coleman County, Texas",#ceff29
+48085,141.096799205,0.0,"Collin County, Texas",#000080
+48087,12.0773630571,6.0,"Collingsworth County, Texas",#ceff29
+48089,26.1516714692,8.0,"Colorado County, Texas",#ff6800
+48091,55.7030035382,0.0,"Comal County, Texas",#000080
+48093,20.0466420416,6.0,"Comanche County, Texas",#ceff29
+48095,10.5731015407,1.0,"Concho County, Texas",#0000f1
+48097,32.3869400977,0.0,"Cooke County, Texas",#000080
+48099,31.2426689814,0.0,"Coryell County, Texas",#000080
+48101,10.7354922407,6.0,"Cottle County, Texas",#ceff29
+48103,12.7799911817,7.0,"Crane County, Texas",#ffc400
+48105,15.3965699128,6.0,"Crockett County, Texas",#ceff29
+48107,15.7101347331,6.0,"Crosby County, Texas",#ceff29
+48109,11.7028011841,1.0,"Culberson County, Texas",#0000f1
+48111,20.7831490808,6.0,"Dallam County, Texas",#ceff29
+48113,271.940026068,0.0,"Dallas County, Texas",#000080
+48115,24.2605074601,6.0,"Dawson County, Texas",#ceff29
+48117,23.8269638508,8.0,"Deaf Smith County, Texas",#ff6800
+48119,12.1085369334,4.0,"Delta County, Texas",#29ffce
+48121,110.262984694,0.0,"Denton County, Texas",#000080
+48123,24.8064091821,0.0,"DeWitt County, Texas",#000080
+48125,9.82683401033,1.0,"Dickens County, Texas",#0000f1
+48127,18.3195402659,6.0,"Dimmit County, Texas",#ceff29
+48129,12.5279211972,6.0,"Donley County, Texas",#ceff29
+48131,15.5759404414,6.0,"Duval County, Texas",#ceff29
+48133,23.8700183866,6.0,"Eastland County, Texas",#ceff29
+48135,61.0540938918,0.0,"Ector County, Texas",#000080
+48137,9.42236447931,1.0,"Edwards County, Texas",#0000f1
+48139,51.9769255887,0.0,"Ellis County, Texas",#000080
+48141,122.305989873,0.0,"El Paso County, Texas",#000080
+48143,34.064714323,0.0,"Erath County, Texas",#000080
+48145,18.0340726897,6.0,"Falls County, Texas",#ceff29
+48147,24.418035879,0.0,"Fannin County, Texas",#000080
+48149,29.5282014782,0.0,"Fayette County, Texas",#000080
+48151,12.6803653996,1.0,"Fisher County, Texas",#0000f1
+48153,17.9621184278,6.0,"Floyd County, Texas",#ceff29
+48155,8.64098759788,1.0,"Foard County, Texas",#0000f1
+48157,100.550240147,0.0,"Fort Bend County, Texas",#000080
+48159,15.8187025134,0.0,"Franklin County, Texas",#000080
+48161,20.9637536776,6.0,"Freestone County, Texas",#ceff29
+48163,20.6160863374,6.0,"Frio County, Texas",#ceff29
+48165,24.6386665404,6.0,"Gaines County, Texas",#ceff29
+48167,76.8837454698,0.0,"Galveston County, Texas",#000080
+48169,14.0193318909,6.0,"Garza County, Texas",#ceff29
+48171,33.3337738066,0.0,"Gillespie County, Texas",#000080
+48173,10.1841379933,1.0,"Glasscock County, Texas",#0000f1
+48175,14.72155584,1.0,"Goliad County, Texas",#0000f1
+48177,23.9131696464,6.0,"Gonzales County, Texas",#ceff29
+48179,26.7209269395,0.0,"Gray County, Texas",#000080
+48181,54.1735087254,0.0,"Grayson County, Texas",#000080
+48183,66.4265437479,0.0,"Gregg County, Texas",#000080
+48185,23.1601566735,6.0,"Grimes County, Texas",#ceff29
+48187,44.7576144094,0.0,"Guadalupe County, Texas",#000080
+48189,31.7504655634,8.0,"Hale County, Texas",#ff6800
+48191,12.5580082588,1.0,"Hall County, Texas",#0000f1
+48193,17.4579540247,6.0,"Hamilton County, Texas",#ceff29
+48195,16.4027920581,6.0,"Hansford County, Texas",#ceff29
+48197,12.5878027383,6.0,"Hardeman County, Texas",#ceff29
+48199,30.1981091072,0.0,"Hardin County, Texas",#000080
+48201,328.836636843,0.0,"Harris County, Texas",#000080
+48203,37.8453096211,0.0,"Harrison County, Texas",#000080
+48205,13.2113767712,6.0,"Hartley County, Texas",#ceff29
+48207,17.716136936,6.0,"Haskell County, Texas",#ceff29
+48209,59.7085879601,0.0,"Hays County, Texas",#000080
+48211,15.7893499369,6.0,"Hemphill County, Texas",#ceff29
+48213,38.531779298,0.0,"Henderson County, Texas",#000080
+48215,109.169567391,0.0,"Hidalgo County, Texas",#000080
+48217,28.7244158077,8.0,"Hill County, Texas",#ff6800
+48219,26.5596289298,6.0,"Hockley County, Texas",#ceff29
+48221,36.9157287852,0.0,"Hood County, Texas",#000080
+48223,30.0532331937,0.0,"Hopkins County, Texas",#000080
+48225,26.0355297531,0.0,"Houston County, Texas",#000080
+48227,29.5631688488,0.0,"Howard County, Texas",#000080
+48229,10.8446461079,1.0,"Hudspeth County, Texas",#0000f1
+48231,39.149438967,0.0,"Hunt County, Texas",#000080
+48233,23.857264043,6.0,"Hutchinson County, Texas",#ceff29
+48235,9.9854258877,6.0,"Irion County, Texas",#ceff29
+48237,16.703732593,7.0,"Jack County, Texas",#ffc400
+48239,21.0577437402,6.0,"Jackson County, Texas",#ceff29
+48241,27.771388154,0.0,"Jasper County, Texas",#000080
+48243,10.3330645126,1.0,"Jeff Davis County, Texas",#0000f1
+48245,79.2509851724,0.0,"Jefferson County, Texas",#000080
+48247,13.5442689807,6.0,"Jim Hogg County, Texas",#ceff29
+48249,32.0852596824,0.0,"Jim Wells County, Texas",#000080
+48251,54.1229163974,0.0,"Johnson County, Texas",#000080
+48253,20.3918945927,6.0,"Jones County, Texas",#ceff29
+48255,19.3257168905,6.0,"Karnes County, Texas",#ceff29
+48257,43.2466899366,0.0,"Kaufman County, Texas",#000080
+48259,35.2103486321,0.0,"Kendall County, Texas",#000080
+48261,7.08653989046,1.0,"Kenedy County, Texas",#0000f1
+48263,6.97774239198,1.0,"Kent County, Texas",#0000f1
+48265,39.9034250827,0.0,"Kerr County, Texas",#000080
+48267,14.7576049805,6.0,"Kimble County, Texas",#ceff29
+48269,5.64579489532,1.0,"King County, Texas",#0000f1
+48271,9.98212688473,6.0,"Kinney County, Texas",#ceff29
+48273,26.8591638466,0.0,"Kleberg County, Texas",#000080
+48275,13.8947574903,1.0,"Knox County, Texas",#0000f1
+48277,35.8823861375,0.0,"Lamar County, Texas",#000080
+48279,23.4130017468,6.0,"Lamb County, Texas",#ceff29
+48281,22.3303214032,0.0,"Lampasas County, Texas",#000080
+48283,13.8383381652,1.0,"La Salle County, Texas",#0000f1
+48285,23.3154523323,0.0,"Lavaca County, Texas",#000080
+48287,22.183497012,6.0,"Lee County, Texas",#ceff29
+48289,21.8648627305,6.0,"Leon County, Texas",#ceff29
+48291,35.1081435857,0.0,"Liberty County, Texas",#000080
+48293,21.9818648197,6.0,"Limestone County, Texas",#ceff29
+48295,11.8640446541,1.0,"Lipscomb County, Texas",#0000f1
+48297,18.3898803262,6.0,"Live Oak County, Texas",#ceff29
+48299,23.7191068918,0.0,"Llano County, Texas",#000080
+48301,5.15320827791,1.0,"Loving County, Texas",#0000f1
+48303,86.6480588998,0.0,"Lubbock County, Texas",#000080
+48305,15.8583261392,6.0,"Lynn County, Texas",#ceff29
+48307,18.3293393918,6.0,"McCulloch County, Texas",#ceff29
+48309,72.8074760682,0.0,"McLennan County, Texas",#000080
+48311,8.77910126651,1.0,"McMullen County, Texas",#0000f1
+48313,18.3498734912,6.0,"Madison County, Texas",#ceff29
+48315,14.9982538666,6.0,"Marion County, Texas",#ceff29
+48317,14.2337208601,6.0,"Martin County, Texas",#ceff29
+48319,14.3055378332,6.0,"Mason County, Texas",#ceff29
+48321,30.5173773031,8.0,"Matagorda County, Texas",#ff6800
+48323,30.764117936,0.0,"Maverick County, Texas",#000080
+48325,29.4004305659,8.0,"Medina County, Texas",#ff6800
+48327,10.542393632,1.0,"Menard County, Texas",#0000f1
+48329,71.5436541172,0.0,"Midland County, Texas",#000080
+48331,23.0836470668,8.0,"Milam County, Texas",#ff6800
+48333,13.8287427839,6.0,"Mills County, Texas",#ceff29
+48335,15.1976005834,6.0,"Mitchell County, Texas",#ceff29
+48337,23.5157326601,6.0,"Montague County, Texas",#ceff29
+48339,97.1315933596,0.0,"Montgomery County, Texas",#000080
+48341,24.634269265,6.0,"Moore County, Texas",#ceff29
+48343,16.9893173719,8.0,"Morris County, Texas",#ff6800
+48345,9.52021658417,1.0,"Motley County, Texas",#0000f1
+48347,38.1121101031,0.0,"Nacogdoches County, Texas",#000080
+48349,32.1800983553,0.0,"Navarro County, Texas",#000080
+48351,13.5776573008,8.0,"Newton County, Texas",#ff6800
+48353,21.9896620732,6.0,"Nolan County, Texas",#ceff29
+48355,93.5042928307,0.0,"Nueces County, Texas",#000080
+48357,20.7067008555,6.0,"Ochiltree County, Texas",#ceff29
+48359,10.3273408123,1.0,"Oldham County, Texas",#0000f1
+48361,39.4411758091,0.0,"Orange County, Texas",#000080
+48363,27.7521770918,0.0,"Palo Pinto County, Texas",#000080
+48365,24.4093805153,0.0,"Panola County, Texas",#000080
+48367,49.1525524535,0.0,"Parker County, Texas",#000080
+48369,19.1228277115,6.0,"Parmer County, Texas",#ceff29
+48371,21.2669446914,6.0,"Pecos County, Texas",#ceff29
+48373,28.8849867633,0.0,"Polk County, Texas",#000080
+48375,64.6059207813,0.0,"Potter County, Texas",#000080
+48377,15.2552619077,6.0,"Presidio County, Texas",#ceff29
+48379,15.4331764879,6.0,"Rains County, Texas",#ceff29
+48381,47.9709857746,0.0,"Randall County, Texas",#000080
+48383,13.1349376588,6.0,"Reagan County, Texas",#ceff29
+48385,11.3298313917,1.0,"Real County, Texas",#0000f1
+48387,16.7340542436,6.0,"Red River County, Texas",#ceff29
+48389,18.2719643864,6.0,"Reeves County, Texas",#ceff29
+48391,16.1577294885,6.0,"Refugio County, Texas",#ceff29
+48393,7.32903012272,1.0,"Roberts County, Texas",#0000f1
+48395,19.8021363286,6.0,"Robertson County, Texas",#ceff29
+48397,44.4949479922,0.0,"Rockwall County, Texas",#000080
+48399,18.348078486,6.0,"Runnels County, Texas",#ceff29
+48401,30.5448668173,0.0,"Rusk County, Texas",#000080
+48403,14.9803575095,6.0,"Sabine County, Texas",#ceff29
+48405,13.5972248569,8.0,"San Augustine County, Texas",#ff6800
+48407,16.4426733817,8.0,"San Jacinto County, Texas",#ff6800
+48409,35.4482912029,0.0,"San Patricio County, Texas",#000080
+48411,15.6701110702,1.0,"San Saba County, Texas",#0000f1
+48413,11.1003539197,1.0,"Schleicher County, Texas",#0000f1
+48415,23.1134967099,6.0,"Scurry County, Texas",#ceff29
+48417,13.8982983999,6.0,"Shackelford County, Texas",#ceff29
+48419,24.9087939466,8.0,"Shelby County, Texas",#ff6800
+48421,12.0215415117,1.0,"Sherman County, Texas",#0000f1
+48423,76.8979843689,0.0,"Smith County, Texas",#000080
+48425,16.1055915559,0.0,"Somervell County, Texas",#000080
+48427,24.9934435847,8.0,"Starr County, Texas",#ff6800
+48429,19.3179536528,6.0,"Stephens County, Texas",#ceff29
+48431,10.4519497687,1.0,"Sterling County, Texas",#0000f1
+48433,10.0431213133,1.0,"Stonewall County, Texas",#0000f1
+48435,15.5286984706,6.0,"Sutton County, Texas",#ceff29
+48437,16.6355185128,6.0,"Swisher County, Texas",#ceff29
+48439,202.309155612,0.0,"Tarrant County, Texas",#000080
+48441,60.8100803569,0.0,"Taylor County, Texas",#000080
+48443,8.78874641186,1.0,"Terrell County, Texas",#0000f1
+48445,21.6439349619,6.0,"Terry County, Texas",#ceff29
+48447,10.0515141401,1.0,"Throckmorton County, Texas",#0000f1
+48449,27.5220834852,0.0,"Titus County, Texas",#000080
+48451,54.5826735693,0.0,"Tom Green County, Texas",#000080
+48453,182.573573993,0.0,"Travis County, Texas",#000080
+48455,16.2985660096,6.0,"Trinity County, Texas",#ceff29
+48457,19.0642501799,6.0,"Tyler County, Texas",#ceff29
+48459,24.1570342051,0.0,"Upshur County, Texas",#000080
+48461,12.0238354549,7.0,"Upton County, Texas",#ffc400
+48463,28.1519051203,8.0,"Uvalde County, Texas",#ff6800
+48465,31.5139361966,0.0,"Val Verde County, Texas",#000080
+48467,31.5240208236,0.0,"Van Zandt County, Texas",#000080
+48469,50.6589358137,0.0,"Victoria County, Texas",#000080
+48471,34.1837762039,0.0,"Walker County, Texas",#000080
+48473,28.5928035124,0.0,"Waller County, Texas",#000080
+48475,18.9978173349,7.0,"Ward County, Texas",#ffc400
+48477,31.680304081,0.0,"Washington County, Texas",#000080
+48479,72.1936961369,0.0,"Webb County, Texas",#000080
+48481,35.1347801726,8.0,"Wharton County, Texas",#ff6800
+48483,16.7425889788,6.0,"Wheeler County, Texas",#ceff29
+48485,58.6769809656,0.0,"Wichita County, Texas",#000080
+48487,20.2564020842,6.0,"Wilbarger County, Texas",#ceff29
+48489,19.2998889708,6.0,"Willacy County, Texas",#ceff29
+48491,91.3021757769,0.0,"Williamson County, Texas",#000080
+48493,26.0504699406,0.0,"Wilson County, Texas",#000080
+48495,14.7127252987,6.0,"Winkler County, Texas",#ceff29
+48497,37.2794147205,0.0,"Wise County, Texas",#000080
+48499,30.5772635731,0.0,"Wood County, Texas",#000080
+48501,18.4173507738,6.0,"Yoakum County, Texas",#ceff29
+48503,26.7000386421,0.0,"Young County, Texas",#000080
+48505,15.813220308,6.0,"Zapata County, Texas",#ceff29
+48507,14.7811280365,6.0,"Zavala County, Texas",#ceff29
+48999,143.194741967,5.0,"Unknown Or Undefined, Texas",#7dff7a
+49001,16.7655045512,6.0,"Beaver County, Utah",#ceff29
+49003,36.5103486091,0.0,"Box Elder County, Utah",#000080
+49005,58.9494570973,0.0,"Cache County, Utah",#000080
+49007,26.8758388573,0.0,"Carbon County, Utah",#000080
+49009,8.25102206271,1.0,"Daggett County, Utah",#0000f1
+49011,87.8631150377,0.0,"Davis County, Utah",#000080
+49013,29.0030649721,7.0,"Duchesne County, Utah",#ffc400
+49015,17.1019004792,6.0,"Emery County, Utah",#ceff29
+49017,17.0502292495,1.0,"Garfield County, Utah",#0000f1
+49019,24.7040096996,0.0,"Grand County, Utah",#000080
+49021,39.4649633641,0.0,"Iron County, Utah",#000080
+49023,17.9219095319,8.0,"Juab County, Utah",#ff6800
+49025,19.7443381477,0.0,"Kane County, Utah",#000080
+49027,20.3174801587,6.0,"Millard County, Utah",#ceff29
+49029,17.8691118618,0.0,"Morgan County, Utah",#000080
+49031,8.39179493447,4.0,"Piute County, Utah",#29ffce
+49033,12.2308321045,8.0,"Rich County, Utah",#ff6800
+49035,200.767447205,0.0,"Salt Lake County, Utah",#000080
+49037,20.0617795821,6.0,"San Juan County, Utah",#ceff29
+49039,25.7734482544,8.0,"Sanpete County, Utah",#ff6800
+49041,26.6741581739,0.0,"Sevier County, Utah",#000080
+49043,51.257287519,0.0,"Summit County, Utah",#000080
+49045,33.1415853957,0.0,"Tooele County, Utah",#000080
+49047,37.1990143239,0.0,"Uintah County, Utah",#000080
+49049,117.561029406,0.0,"Utah County, Utah",#000080
+49051,30.7200169994,0.0,"Wasatch County, Utah",#000080
+49053,70.9510869968,0.0,"Washington County, Utah",#000080
+49055,12.9647568676,1.0,"Wayne County, Utah",#0000f1
+49057,77.1656947383,0.0,"Weber County, Utah",#000080
+50001,37.9331282947,0.0,"Addison County, Vermont",#000080
+50003,40.955439393,0.0,"Bennington County, Vermont",#000080
+50005,33.4447364592,0.0,"Caledonia County, Vermont",#000080
+50007,80.1220249924,0.0,"Chittenden County, Vermont",#000080
+50009,14.5386594653,1.0,"Essex County, Vermont",#0000f1
+50011,36.0217581955,0.0,"Franklin County, Vermont",#000080
+50013,16.536839586,0.0,"Grand Isle County, Vermont",#000080
+50015,34.2074147258,0.0,"Lamoille County, Vermont",#000080
+50017,30.3659427022,0.0,"Orange County, Vermont",#000080
+50019,32.0019344653,0.0,"Orleans County, Vermont",#000080
+50021,50.7095526519,0.0,"Rutland County, Vermont",#000080
+50023,51.8694561008,0.0,"Washington County, Vermont",#000080
+50025,45.6913862536,0.0,"Windham County, Vermont",#000080
+50027,49.6996414985,0.0,"Windsor County, Vermont",#000080
+50999,30.1533909225,5.0,"Unknown Or Undefined, Vermont",#7dff7a
+51001,32.989614768,0.0,"Accomack County, Virginia",#000080
+51003,56.2495290986,0.0,"Albemarle County, Virginia",#000080
+51005,19.1080677717,8.0,"Alleghany County, Virginia",#ff6800
+51007,18.9750880961,8.0,"Amelia County, Virginia",#ff6800
+51009,27.6506049189,0.0,"Amherst County, Virginia",#000080
+51011,19.9463864731,8.0,"Appomattox County, Virginia",#ff6800
+51013,93.6430066711,0.0,"Arlington County, Virginia",#000080
+51015,41.2385241372,0.0,"Augusta County, Virginia",#000080
+51017,14.5734320129,8.0,"Bath County, Virginia",#ff6800
+51019,42.6599883166,0.0,"Bedford County, Virginia",#000080
+51021,12.1513275779,8.0,"Bland County, Virginia",#ff6800
+51023,29.5123729769,0.0,"Botetourt County, Virginia",#000080
+51025,21.8843007439,8.0,"Brunswick County, Virginia",#ff6800
+51027,25.0865485995,8.0,"Buchanan County, Virginia",#ff6800
+51029,19.4046406657,8.0,"Buckingham County, Virginia",#ff6800
+51031,36.5695412769,0.0,"Campbell County, Virginia",#000080
+51033,23.4943508914,8.0,"Caroline County, Virginia",#ff6800
+51035,25.0278812781,0.0,"Carroll County, Virginia",#000080
+51036,14.3743874956,8.0,"Charles City County, Virginia",#ff6800
+51037,18.2144957971,8.0,"Charlotte County, Virginia",#ff6800
+51041,90.4164505154,0.0,"Chesterfield County, Virginia",#000080
+51043,22.6085213602,0.0,"Clarke County, Virginia",#000080
+51045,10.4731326706,8.0,"Craig County, Virginia",#ff6800
+51047,35.8988658794,0.0,"Culpeper County, Virginia",#000080
+51049,14.5882780733,8.0,"Cumberland County, Virginia",#ff6800
+51051,19.6073358478,8.0,"Dickenson County, Virginia",#ff6800
+51053,21.3083559137,8.0,"Dinwiddie County, Virginia",#ff6800
+51057,20.3111998973,0.0,"Essex County, Virginia",#000080
+51059,189.796036095,0.0,"Fairfax County, Virginia",#000080
+51061,48.9592112383,0.0,"Fauquier County, Virginia",#000080
+51063,20.8427978502,0.0,"Floyd County, Virginia",#000080
+51065,23.459844111,0.0,"Fluvanna County, Virginia",#000080
+51067,37.9930705879,0.0,"Franklin County, Virginia",#000080
+51069,41.7525876016,0.0,"Frederick County, Virginia",#000080
+51071,20.3001681125,8.0,"Giles County, Virginia",#ff6800
+51073,32.6553065767,0.0,"Gloucester County, Virginia",#000080
+51075,28.3208585983,0.0,"Goochland County, Virginia",#000080
+51077,19.4622039079,8.0,"Grayson County, Virginia",#ff6800
+51079,21.6260425017,0.0,"Greene County, Virginia",#000080
+51081,14.3128175434,8.0,"Greensville County, Virginia",#ff6800
+51083,31.8371725434,0.0,"Halifax County, Virginia",#000080
+51085,59.9482415644,0.0,"Hanover County, Virginia",#000080
+51087,102.071549368,0.0,"Henrico County, Virginia",#000080
+51089,35.955572233,0.0,"Henry County, Virginia",#000080
+51091,11.8427862981,8.0,"Highland County, Virginia",#ff6800
+51093,28.4978765569,0.0,"Isle of Wight County, Virginia",#000080
+51095,42.3763795018,0.0,"James City County, Virginia",#000080
+51097,13.749848484,8.0,"King and Queen County, Virginia",#ff6800
+51099,24.7488816486,0.0,"King George County, Virginia",#000080
+51101,20.3616508515,0.0,"King William County, Virginia",#000080
+51103,24.4192221968,0.0,"Lancaster County, Virginia",#000080
+51105,22.7182885562,8.0,"Lee County, Virginia",#ff6800
+51107,100.115282756,0.0,"Loudoun County, Virginia",#000080
+51109,27.874591605,0.0,"Louisa County, Virginia",#000080
+51111,17.2961941864,8.0,"Lunenburg County, Virginia",#ff6800
+51113,19.8916709059,0.0,"Madison County, Virginia",#000080
+51115,16.3940804261,8.0,"Mathews County, Virginia",#ff6800
+51117,32.6255693863,0.0,"Mecklenburg County, Virginia",#000080
+51119,21.415383508,0.0,"Middlesex County, Virginia",#000080
+51121,48.7381161747,0.0,"Montgomery County, Virginia",#000080
+51125,23.7746196538,0.0,"Nelson County, Virginia",#000080
+51127,22.1934943278,0.0,"New Kent County, Virginia",#000080
+51131,22.5863247008,8.0,"Northampton County, Virginia",#ff6800
+51133,20.7848483428,0.0,"Northumberland County, Virginia",#000080
+51135,20.6980464533,8.0,"Nottoway County, Virginia",#ff6800
+51137,30.3135990228,0.0,"Orange County, Virginia",#000080
+51139,23.9886381836,0.0,"Page County, Virginia",#000080
+51141,21.0401732143,8.0,"Patrick County, Virginia",#ff6800
+51143,34.5308350815,0.0,"Pittsylvania County, Virginia",#000080
+51145,28.2567452265,0.0,"Powhatan County, Virginia",#000080
+51147,25.7111858802,0.0,"Prince Edward County, Virginia",#000080
+51149,24.6702860922,0.0,"Prince George County, Virginia",#000080
+51153,90.2549915077,0.0,"Prince William County, Virginia",#000080
+51155,28.6064913823,0.0,"Pulaski County, Virginia",#000080
+51157,17.3625554955,8.0,"Rappahannock County, Virginia",#ff6800
+51159,16.6857985429,8.0,"Richmond County, Virginia",#ff6800
+51161,49.0591641521,0.0,"Roanoke County, Virginia",#000080
+51163,23.0946207576,0.0,"Rockbridge County, Virginia",#000080
+51165,40.8382455743,0.0,"Rockingham County, Virginia",#000080
+51167,25.7069025997,8.0,"Russell County, Virginia",#ff6800
+51169,21.6097145262,8.0,"Scott County, Virginia",#ff6800
+51171,34.0710392311,0.0,"Shenandoah County, Virginia",#000080
+51173,29.3015317331,0.0,"Smyth County, Virginia",#000080
+51175,18.274505183,8.0,"Southampton County, Virginia",#ff6800
+51177,51.7431845063,0.0,"Spotsylvania County, Virginia",#000080
+51179,49.9980118652,0.0,"Stafford County, Virginia",#000080
+51181,11.1120376598,8.0,"Surry County, Virginia",#ff6800
+51183,16.6572473383,8.0,"Sussex County, Virginia",#ff6800
+51185,36.2615170539,0.0,"Tazewell County, Virginia",#000080
+51187,32.8001463895,0.0,"Warren County, Virginia",#000080
+51191,40.0486311519,0.0,"Washington County, Virginia",#000080
+51193,20.9666401696,0.0,"Westmoreland County, Virginia",#000080
+51195,33.083510255,0.0,"Wise County, Virginia",#000080
+51197,30.4650072488,0.0,"Wythe County, Virginia",#000080
+51199,40.8203575107,0.0,"York County, Virginia",#000080
+51510,80.9043183653,0.0,"Alexandria City, Virginia",#000080
+51515,18.7220585457,0.0,"Bedford City, Virginia",#000080
+51520,27.8983344215,0.0,"Bristol City, Virginia",#000080
+51530,13.100890555,8.0,"Buena Vista City, Virginia",#ff6800
+51540,50.1764980083,0.0,"Charlottesville City, Virginia",#000080
+51550,77.9752097357,0.0,"Chesapeake City, Virginia",#000080
+51570,28.7508453982,0.0,"Colonial Heights City, Virginia",#000080
+51580,17.9064699667,0.0,"Covington City, Virginia",#000080
+51590,40.6670521059,0.0,"Danville City, Virginia",#000080
+51595,17.414655842,8.0,"Emporia City, Virginia",#ff6800
+51600,42.815124905,0.0,"Fairfax City, Virginia",#000080
+51610,33.3033079057,0.0,"Falls Church City, Virginia",#000080
+51620,19.1186562256,3.0,"Franklin City, Virginia",#00b0ff
+51630,43.4761109372,0.0,"Fredericksburg City, Virginia",#000080
+51640,20.7926650681,3.0,"Galax City, Virginia",#00b0ff
+51650,54.1086942519,0.0,"Hampton City, Virginia",#000080
+51660,41.9435798292,0.0,"Harrisonburg City, Virginia",#000080
+51670,23.8345487536,0.0,"Hopewell City, Virginia",#000080
+51678,20.7879410251,3.0,"Lexington City, Virginia",#00b0ff
+51680,51.8171387961,0.0,"Lynchburg City, Virginia",#000080
+51683,40.629046807,0.0,"Manassas City, Virginia",#000080
+51685,17.5661674276,0.0,"Manassas Park City, Virginia",#000080
+51690,29.3383586063,0.0,"Martinsville City, Virginia",#000080
+51700,64.7069278203,0.0,"Newport News City, Virginia",#000080
+51710,78.8642871879,0.0,"Norfolk City, Virginia",#000080
+51720,17.5220609247,3.0,"Norton City, Virginia",#00b0ff
+51730,30.8760964718,0.0,"Petersburg City, Virginia",#000080
+51735,16.7023308895,0.0,"Poquoson City, Virginia",#000080
+51740,45.0935227461,0.0,"Portsmouth City, Virginia",#000080
+51750,20.1048738464,3.0,"Radford City, Virginia",#00b0ff
+51760,87.7054390994,0.0,"Richmond City, Virginia",#000080
+51770,59.6865655831,0.0,"Roanoke City, Virginia",#000080
+51775,33.5398542841,0.0,"Salem City, Virginia",#000080
+51790,30.6914431485,0.0,"Staunton City, Virginia",#000080
+51800,41.7101297125,0.0,"Suffolk City, Virginia",#000080
+51810,111.198571134,0.0,"Virginia Beach City, Virginia",#000080
+51820,26.658994432,0.0,"Waynesboro City, Virginia",#000080
+51830,26.9350409053,3.0,"Williamsburg City, Virginia",#00b0ff
+51840,40.3971455066,0.0,"Winchester City, Virginia",#000080
+51999,116.826575784,5.0,"Unknown Or Undefined, Virginia",#7dff7a
+53001,30.1356259663,8.0,"Adams County, Washington",#ff6800
+53003,27.1483943809,0.0,"Asotin County, Washington",#000080
+53005,75.7932128301,0.0,"Benton County, Washington",#000080
+53007,60.0404063679,0.0,"Chelan County, Washington",#000080
+53009,51.7886003575,0.0,"Clallam County, Washington",#000080
+53011,117.107388649,0.0,"Clark County, Washington",#000080
+53013,16.8156201005,8.0,"Columbia County, Washington",#ff6800
+53015,57.2962227626,0.0,"Cowlitz County, Washington",#000080
+53017,35.8231547005,0.0,"Douglas County, Washington",#000080
+53019,18.3068748471,8.0,"Ferry County, Washington",#ff6800
+53021,51.8040378092,0.0,"Franklin County, Washington",#000080
+53023,12.5696945954,8.0,"Garfield County, Washington",#ff6800
+53025,59.0560569048,0.0,"Grant County, Washington",#000080
+53027,53.410535641,0.0,"Grays Harbor County, Washington",#000080
+53029,46.0085352675,0.0,"Island County, Washington",#000080
+53031,34.931094303,0.0,"Jefferson County, Washington",#000080
+53033,292.857118177,0.0,"King County, Washington",#000080
+53035,84.3957819792,0.0,"Kitsap County, Washington",#000080
+53037,39.1236643364,0.0,"Kittitas County, Washington",#000080
+53039,29.6136028911,8.0,"Klickitat County, Washington",#ff6800
+53041,52.2813246271,0.0,"Lewis County, Washington",#000080
+53043,25.2402110524,8.0,"Lincoln County, Washington",#ff6800
+53045,38.7608407775,0.0,"Mason County, Washington",#000080
+53047,46.4474143692,8.0,"Okanogan County, Washington",#ff6800
+53049,32.333290378,8.0,"Pacific County, Washington",#ff6800
+53051,22.438540399,8.0,"Pend Oreille County, Washington",#ff6800
+53053,150.602402803,0.0,"Pierce County, Washington",#000080
+53055,32.7435744333,0.0,"San Juan County, Washington",#000080
+53057,65.5197353038,0.0,"Skagit County, Washington",#000080
+53059,17.9964833425,8.0,"Skamania County, Washington",#ff6800
+53061,142.012368118,0.0,"Snohomish County, Washington",#000080
+53063,128.539477291,0.0,"Spokane County, Washington",#000080
+53065,36.6388097644,8.0,"Stevens County, Washington",#ff6800
+53067,88.3996740998,0.0,"Thurston County, Washington",#000080
+53069,12.9208825685,8.0,"Wahkiakum County, Washington",#ff6800
+53071,48.9473194298,0.0,"Walla Walla County, Washington",#000080
+53073,85.9870399057,0.0,"Whatcom County, Washington",#000080
+53075,37.722267223,0.0,"Whitman County, Washington",#000080
+53077,93.7192023488,0.0,"Yakima County, Washington",#000080
+53999,36.4563611711,5.0,"Unknown Or Undefined, Washington",#7dff7a
+54001,18.2671315547,8.0,"Barbour County, West Virginia",#ff6800
+54003,45.3785488795,0.0,"Berkeley County, West Virginia",#000080
+54005,21.9024985891,8.0,"Boone County, West Virginia",#ff6800
+54007,20.0747808306,8.0,"Braxton County, West Virginia",#ff6800
+54009,23.7483499845,0.0,"Brooke County, West Virginia",#000080
+54011,55.78626303,0.0,"Cabell County, West Virginia",#000080
+54013,12.9838727805,6.0,"Calhoun County, West Virginia",#ceff29
+54015,13.2170975129,8.0,"Clay County, West Virginia",#ff6800
+54017,11.791508917,6.0,"Doddridge County, West Virginia",#ceff29
+54019,32.8180650987,0.0,"Fayette County, West Virginia",#000080
+54021,14.0605408688,6.0,"Gilmer County, West Virginia",#ceff29
+54023,18.2640356986,8.0,"Grant County, West Virginia",#ff6800
+54025,34.7718870208,0.0,"Greenbrier County, West Virginia",#000080
+54027,21.746254923,8.0,"Hampshire County, West Virginia",#ff6800
+54029,27.352983645,0.0,"Hancock County, West Virginia",#000080
+54031,19.2197814764,8.0,"Hardy County, West Virginia",#ff6800
+54033,46.8919900426,0.0,"Harrison County, West Virginia",#000080
+54035,26.0414428562,0.0,"Jackson County, West Virginia",#000080
+54037,33.9548135774,0.0,"Jefferson County, West Virginia",#000080
+54039,80.1024963446,0.0,"Kanawha County, West Virginia",#000080
+54041,23.0130225383,8.0,"Lewis County, West Virginia",#ff6800
+54043,18.0978491224,8.0,"Lincoln County, West Virginia",#ff6800
+54045,31.1005729034,0.0,"Logan County, West Virginia",#000080
+54047,21.2469979205,8.0,"McDowell County, West Virginia",#ff6800
+54049,38.4874025979,0.0,"Marion County, West Virginia",#000080
+54051,25.6160369536,0.0,"Marshall County, West Virginia",#000080
+54053,21.7918453512,8.0,"Mason County, West Virginia",#ff6800
+54055,39.6145515993,0.0,"Mercer County, West Virginia",#000080
+54057,24.6402931723,0.0,"Mineral County, West Virginia",#000080
+54059,24.8723247744,8.0,"Mingo County, West Virginia",#ff6800
+54061,51.4578769018,0.0,"Monongalia County, West Virginia",#000080
+54063,17.063466962,8.0,"Monroe County, West Virginia",#ff6800
+54065,18.04489551,0.0,"Morgan County, West Virginia",#000080
+54067,27.8339463862,0.0,"Nicholas County, West Virginia",#000080
+54069,41.0796023613,0.0,"Ohio County, West Virginia",#000080
+54071,14.5163974061,8.0,"Pendleton County, West Virginia",#ff6800
+54073,13.9320772959,8.0,"Pleasants County, West Virginia",#ff6800
+54075,17.6134418367,8.0,"Pocahontas County, West Virginia",#ff6800
+54077,27.0497337369,0.0,"Preston County, West Virginia",#000080
+54079,38.8833471108,0.0,"Putnam County, West Virginia",#000080
+54081,48.6227786451,0.0,"Raleigh County, West Virginia",#000080
+54083,30.2447424265,0.0,"Randolph County, West Virginia",#000080
+54085,16.5807786977,6.0,"Ritchie County, West Virginia",#ceff29
+54087,18.6193170727,6.0,"Roane County, West Virginia",#ceff29
+54089,15.8296737625,8.0,"Summers County, West Virginia",#ff6800
+54091,17.2575265384,8.0,"Taylor County, West Virginia",#ff6800
+54093,16.0152704907,8.0,"Tucker County, West Virginia",#ff6800
+54095,13.6155985476,8.0,"Tyler County, West Virginia",#ff6800
+54097,26.578828548,0.0,"Upshur County, West Virginia",#000080
+54099,26.6132798931,8.0,"Wayne County, West Virginia",#ff6800
+54101,15.4807484131,8.0,"Webster County, West Virginia",#ff6800
+54103,21.914290112,8.0,"Wetzel County, West Virginia",#ff6800
+54105,10.7108645332,6.0,"Wirt County, West Virginia",#ceff29
+54107,49.8095260858,0.0,"Wood County, West Virginia",#000080
+54109,21.8716675466,8.0,"Wyoming County, West Virginia",#ff6800
+54999,67.7579023682,5.0,"Unknown Or Undefined, West Virginia",#7dff7a
+55001,20.3696591987,0.0,"Adams County, Wisconsin",#000080
+55003,25.8028237657,8.0,"Ashland County, Wisconsin",#ff6800
+55005,38.1027485156,0.0,"Barron County, Wisconsin",#000080
+55007,23.949251902,0.0,"Bayfield County, Wisconsin",#000080
+55009,83.7517282456,0.0,"Brown County, Wisconsin",#000080
+55011,20.1797379913,0.0,"Buffalo County, Wisconsin",#000080
+55013,21.5194079992,0.0,"Burnett County, Wisconsin",#000080
+55015,29.5068125037,0.0,"Calumet County, Wisconsin",#000080
+55017,39.9712744077,0.0,"Chippewa County, Wisconsin",#000080
+55019,29.0894283421,0.0,"Clark County, Wisconsin",#000080
+55021,40.2382833188,0.0,"Columbia County, Wisconsin",#000080
+55023,22.9684220768,0.0,"Crawford County, Wisconsin",#000080
+55025,122.396777048,0.0,"Dane County, Wisconsin",#000080
+55027,43.9036960154,0.0,"Dodge County, Wisconsin",#000080
+55029,37.688025971,0.0,"Door County, Wisconsin",#000080
+55031,34.3847569126,0.0,"Douglas County, Wisconsin",#000080
+55033,32.1491686925,0.0,"Dunn County, Wisconsin",#000080
+55035,52.5392294854,0.0,"Eau Claire County, Wisconsin",#000080
+55037,14.3031659277,8.0,"Florence County, Wisconsin",#ff6800
+55039,50.2679960668,0.0,"Fond Du Lac County, Wisconsin",#000080
+55041,18.5762371675,8.0,"Forest County, Wisconsin",#ff6800
+55043,37.9287343434,0.0,"Grant County, Wisconsin",#000080
+55045,32.7614029585,0.0,"Green County, Wisconsin",#000080
+55047,24.1894555934,0.0,"Green Lake County, Wisconsin",#000080
+55049,26.1393017359,0.0,"Iowa County, Wisconsin",#000080
+55051,16.6348267294,8.0,"Iron County, Wisconsin",#ff6800
+55053,22.9789499947,0.0,"Jackson County, Wisconsin",#000080
+55055,46.361784687,0.0,"Jefferson County, Wisconsin",#000080
+55057,26.1390512452,0.0,"Juneau County, Wisconsin",#000080
+55059,57.4368251986,0.0,"Kenosha County, Wisconsin",#000080
+55061,24.2679977395,0.0,"Kewaunee County, Wisconsin",#000080
+55063,55.9750192298,0.0,"La Crosse County, Wisconsin",#000080
+55065,21.4975266204,0.0,"Lafayette County, Wisconsin",#000080
+55067,26.559785809,0.0,"Langlade County, Wisconsin",#000080
+55069,28.7125947145,0.0,"Lincoln County, Wisconsin",#000080
+55071,44.4982655271,0.0,"Manitowoc County, Wisconsin",#000080
+55073,60.6039412779,0.0,"Marathon County, Wisconsin",#000080
+55075,37.340560525,0.0,"Marinette County, Wisconsin",#000080
+55077,20.1255484003,0.0,"Marquette County, Wisconsin",#000080
+55078,10.1089305167,8.0,"Menominee County, Wisconsin",#ff6800
+55079,154.289715373,0.0,"Milwaukee County, Wisconsin",#000080
+55081,33.692988296,0.0,"Monroe County, Wisconsin",#000080
+55083,29.6539298501,0.0,"Oconto County, Wisconsin",#000080
+55085,40.4992161398,0.0,"Oneida County, Wisconsin",#000080
+55087,73.3087864761,0.0,"Outagamie County, Wisconsin",#000080
+55089,54.6415157009,0.0,"Ozaukee County, Wisconsin",#000080
+55091,16.8553133255,0.0,"Pepin County, Wisconsin",#000080
+55093,30.2986130438,0.0,"Pierce County, Wisconsin",#000080
+55095,35.1518926312,0.0,"Polk County, Wisconsin",#000080
+55097,42.3899930165,0.0,"Portage County, Wisconsin",#000080
+55099,24.0839471004,8.0,"Price County, Wisconsin",#ff6800
+55101,66.092620797,0.0,"Racine County, Wisconsin",#000080
+55103,22.0239407975,8.0,"Richland County, Wisconsin",#ff6800
+55105,60.2269945541,0.0,"Rock County, Wisconsin",#000080
+55107,19.775576166,0.0,"Rusk County, Wisconsin",#000080
+55109,48.4014831532,0.0,"St. Croix County, Wisconsin",#000080
+55111,46.4386905944,0.0,"Sauk County, Wisconsin",#000080
+55113,28.2649946159,0.0,"Sawyer County, Wisconsin",#000080
+55115,33.98106966,0.0,"Shawano County, Wisconsin",#000080
+55117,54.8395965449,0.0,"Sheboygan County, Wisconsin",#000080
+55119,23.3964537402,0.0,"Taylor County, Wisconsin",#000080
+55121,27.8337681745,0.0,"Trempealeau County, Wisconsin",#000080
+55123,26.9249766031,0.0,"Vernon County, Wisconsin",#000080
+55125,33.7475689895,0.0,"Vilas County, Wisconsin",#000080
+55127,53.7429434275,0.0,"Walworth County, Wisconsin",#000080
+55129,25.0957689471,0.0,"Washburn County, Wisconsin",#000080
+55131,58.5088176776,0.0,"Washington County, Wisconsin",#000080
+55133,115.781379236,0.0,"Waukesha County, Wisconsin",#000080
+55135,37.7530719869,0.0,"Waupaca County, Wisconsin",#000080
+55137,24.7021623628,0.0,"Waushara County, Wisconsin",#000080
+55139,62.6142828171,0.0,"Winnebago County, Wisconsin",#000080
+55141,45.2211058323,0.0,"Wood County, Wisconsin",#000080
+55999,117.891605111,5.0,"Unknown Or Undefined, Wisconsin",#7dff7a
+56001,36.448212881,0.0,"Albany County, Wyoming",#000080
+56003,21.6199129258,7.0,"Big Horn County, Wyoming",#ffc400
+56005,43.0053198998,0.0,"Campbell County, Wyoming",#000080
+56007,27.7597687653,0.0,"Carbon County, Wyoming",#000080
+56009,24.8387418208,0.0,"Converse County, Wyoming",#000080
+56011,18.430844575,7.0,"Crook County, Wyoming",#ffc400
+56013,40.8708185571,0.0,"Fremont County, Wyoming",#000080
+56015,22.7404000328,0.0,"Goshen County, Wyoming",#000080
+56017,16.6725227807,7.0,"Hot Springs County, Wyoming",#ffc400
+56019,23.1522908462,0.0,"Johnson County, Wyoming",#000080
+56021,59.2392847454,0.0,"Laramie County, Wyoming",#000080
+56023,29.7028537991,0.0,"Lincoln County, Wyoming",#000080
+56025,58.551520523,0.0,"Natrona County, Wyoming",#000080
+56027,12.6574371136,7.0,"Niobrara County, Wyoming",#ffc400
+56029,39.5021247168,0.0,"Park County, Wyoming",#000080
+56031,20.8064588568,0.0,"Platte County, Wyoming",#000080
+56033,38.5503381493,0.0,"Sheridan County, Wyoming",#000080
+56035,25.6091733936,7.0,"Sublette County, Wyoming",#ffc400
+56037,42.2741384037,0.0,"Sweetwater County, Wyoming",#000080
+56039,47.8502210109,0.0,"Teton County, Wyoming",#000080
+56041,29.6732336231,0.0,"Uinta County, Wyoming",#000080
+56043,22.5883450773,0.0,"Washakie County, Wyoming",#000080
+56045,18.0417065325,7.0,"Weston County, Wyoming",#ffc400
+56999,25.7500963167,5.0,"Unknown Or Undefined, Wyoming",#7dff7a
+72001,17.299944949,3.0,"Adjuntas Municipio, Puerto Rico",#00b0ff
+72003,24.3343117872,3.0,"Aguada Municipio, Puerto Rico",#00b0ff
+72005,32.2210803027,3.0,"Aguadilla Municipio, Puerto Rico",#00b0ff
+72007,15.335662349,3.0,"Aguas Buenas Municipio, Puerto Rico",#00b0ff
+72009,20.4775913142,3.0,"Aibonito Municipio, Puerto Rico",#00b0ff
+72011,18.4318241869,3.0,"Anasco Municipio, Puerto Rico",#00b0ff
+72013,36.7668166901,3.0,"Arecibo Municipio, Puerto Rico",#00b0ff
+72015,12.0215580164,3.0,"Arroyo Municipio, Puerto Rico",#00b0ff
+72017,18.9881228541,3.0,"Barceloneta Municipio, Puerto Rico",#00b0ff
+72019,20.3779370266,3.0,"Barranquitas Municipio, Puerto Rico",#00b0ff
+72021,61.0702691805,3.0,"Bayamon Municipio, Puerto Rico",#00b0ff
+72023,26.7050467854,3.0,"Cabo Rojo Municipio, Puerto Rico",#00b0ff
+72025,52.7848583387,3.0,"Caguas Municipio, Puerto Rico",#00b0ff
+72027,19.8454344836,3.0,"Camuy Municipio, Puerto Rico",#00b0ff
+72029,21.5953955998,3.0,"Canovanas Municipio, Puerto Rico",#00b0ff
+72031,51.4753446915,3.0,"Carolina Municipio, Puerto Rico",#00b0ff
+72033,20.1378877693,3.0,"Catano Municipio, Puerto Rico",#00b0ff
+72035,25.5712512187,3.0,"Cayey Municipio, Puerto Rico",#00b0ff
+72037,12.2691541215,3.0,"Ceiba Municipio, Puerto Rico",#00b0ff
+72039,14.3369458349,3.0,"Ciales Municipio, Puerto Rico",#00b0ff
+72041,21.6517989282,3.0,"Cidra Municipio, Puerto Rico",#00b0ff
+72043,20.2110982399,3.0,"Coamo Municipio, Puerto Rico",#00b0ff
+72045,12.9981683691,3.0,"Comerio Municipio, Puerto Rico",#00b0ff
+72047,20.6377678133,3.0,"Corozal Municipio, Puerto Rico",#00b0ff
+72049,7.92727359605,3.0,"Culebra Municipio, Puerto Rico",#00b0ff
+72051,23.1341498415,3.0,"Dorado Municipio, Puerto Rico",#00b0ff
+72053,25.8066452006,3.0,"Fajardo Municipio, Puerto Rico",#00b0ff
+72054,11.5866302263,3.0,"Florida Municipio, Puerto Rico",#00b0ff
+72055,13.5539047264,3.0,"Guanica Municipio, Puerto Rico",#00b0ff
+72057,25.2837468968,3.0,"Guayama Municipio, Puerto Rico",#00b0ff
+72059,13.3103224055,3.0,"Guayanilla Municipio, Puerto Rico",#00b0ff
+72061,51.9120708048,0.0,"Guaynabo Municipio, Puerto Rico",#000080
+72063,19.9810525328,3.0,"Gurabo Municipio, Puerto Rico",#00b0ff
+72065,25.7417192726,3.0,"Hatillo Municipio, Puerto Rico",#00b0ff
+72067,15.4072236202,3.0,"Hormigueros Municipio, Puerto Rico",#00b0ff
+72069,31.7303620057,3.0,"Humacao Municipio, Puerto Rico",#00b0ff
+72071,23.8418732619,3.0,"Isabela Municipio, Puerto Rico",#00b0ff
+72073,15.0269202877,3.0,"Jayuya Municipio, Puerto Rico",#00b0ff
+72075,19.7466593518,3.0,"Juana Diaz Municipio, Puerto Rico",#00b0ff
+72077,18.5352624039,3.0,"Juncos Municipio, Puerto Rico",#00b0ff
+72079,17.135778962,3.0,"Lajas Municipio, Puerto Rico",#00b0ff
+72081,20.7177651703,3.0,"Lares Municipio, Puerto Rico",#00b0ff
+72083,12.3981885518,3.0,"Las Marias Municipio, Puerto Rico",#00b0ff
+72085,19.6827416144,3.0,"Las Piedras Municipio, Puerto Rico",#00b0ff
+72087,11.2424048436,3.0,"Loiza Municipio, Puerto Rico",#00b0ff
+72089,14.3997078895,3.0,"Luquillo Municipio, Puerto Rico",#00b0ff
+72091,28.0583009815,3.0,"Manati Municipio, Puerto Rico",#00b0ff
+72093,9.89388138644,3.0,"Maricao Municipio, Puerto Rico",#00b0ff
+72095,10.441446716,3.0,"Maunabo Municipio, Puerto Rico",#00b0ff
+72097,43.4417142811,3.0,"Mayaguez Municipio, Puerto Rico",#00b0ff
+72099,21.3243098476,3.0,"Moca Municipio, Puerto Rico",#00b0ff
+72101,16.342332312,3.0,"Morovis Municipio, Puerto Rico",#00b0ff
+72103,14.4661619398,3.0,"Naguabo Municipio, Puerto Rico",#00b0ff
+72105,20.3949009345,3.0,"Naranjito Municipio, Puerto Rico",#00b0ff
+72107,16.8715854864,3.0,"Orocovis Municipio, Puerto Rico",#00b0ff
+72109,13.4724439517,3.0,"Patillas Municipio, Puerto Rico",#00b0ff
+72111,15.1119368355,3.0,"Penuelas Municipio, Puerto Rico",#00b0ff
+72113,52.0069706866,3.0,"Ponce Municipio, Puerto Rico",#00b0ff
+72115,17.7167640995,3.0,"Quebradillas Municipio, Puerto Rico",#00b0ff
+72117,14.750262306,3.0,"Rincon Municipio, Puerto Rico",#00b0ff
+72119,19.925077921,3.0,"Rio Grande Municipio, Puerto Rico",#00b0ff
+72121,16.2107034012,3.0,"Sabana Grande Municipio, Puerto Rico",#00b0ff
+72123,17.183567732,3.0,"Salinas Municipio, Puerto Rico",#00b0ff
+72125,23.172284348,3.0,"San German Municipio, Puerto Rico",#00b0ff
+72127,114.962435204,0.0,"San Juan Municipio, Puerto Rico",#000080
+72129,19.044590533,3.0,"San Lorenzo Municipio, Puerto Rico",#00b0ff
+72131,26.4006824106,3.0,"San Sebastian Municipio, Puerto Rico",#00b0ff
+72133,15.6078302489,3.0,"Santa Isabel Municipio, Puerto Rico",#00b0ff
+72135,20.9768107038,3.0,"Toa Alta Municipio, Puerto Rico",#00b0ff
+72137,29.4401194787,3.0,"Toa Baja Municipio, Puerto Rico",#00b0ff
+72139,26.2820930045,3.0,"Trujillo Alto Municipio, Puerto Rico",#00b0ff
+72141,19.954829944,3.0,"Utuado Municipio, Puerto Rico",#00b0ff
+72143,20.0974115841,3.0,"Vega Alta Municipio, Puerto Rico",#00b0ff
+72145,25.1318033512,3.0,"Vega Baja Municipio, Puerto Rico",#00b0ff
+72147,13.321676452,3.0,"Vieques Municipio, Puerto Rico",#00b0ff
+72149,14.2595971581,3.0,"Villalba Municipio, Puerto Rico",#00b0ff
+72151,17.5435399407,3.0,"Yabucoa Municipio, Puerto Rico",#00b0ff
+72153,24.4256159449,3.0,"Yauco Municipio, Puerto Rico",#00b0ff
+72999,26.0908212286,5.0,"Unknown Or Undefined, Puerto Rico",#7dff7a
+78010,39.2139835765,0.0,"St. Croix, Virgin Islands",#000080
+78020,18.4852042936,0.0,"St. John, Virgin Islands",#000080
+78030,44.3572617129,0.0,"St. Thomas, Virgin Islands",#000080
+78999,1.41421356237,9.0,"Unknown Or Undefined, Virgin Islands",#f10800
