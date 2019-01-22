@@ -1,0 +1,48 @@
+NAICS 4245 Farm product raw material merch. whls.
+NAICS 3132 Fabric mills
+NAICS 4831 Sea, coastal, and great lakes transportation
+NAICS 3117 Seafood product preparation and packaging
+NAICS 4832 Inland water transportation
+NAICS 4251 Electronic markets and agents and brokers
+NAICS 5416 Management and technical consulting services
+NAICS 5415 Computer systems design and related services
+NAICS 5413 Architectural and engineering services
+NAICS 5613 Employment services
+NAICS 4911 Postal service
+NAICS 9211 Executive, legislative and general government
+NAICS 9221 Justice, public order, and safety activities
+NAICS 1114 Greenhouse and nursery production
+NAICS 2213 Water, sewage and other systems
+NAICS 9999 Unclassified
+NAICS 6241 Individual and family services
+NAICS 4841 General freight trucking
+NAICS 4842 Specialized freight trucking
+NAICS 7224 Drinking places, alcoholic beverages
+NAICS 3116 Animal slaughtering and processing
+NAICS 2212 Natural gas distribution
+NAICS 3321 Forging and stamping
+NAICS 3362 Motor vehicle body and trailer manufacturing
+NAICS 3262 Rubber product manufacturing
+NAICS 8141 Private households
+NAICS 7225 Restaurants and other eating places
+NAICS07 7222 Limited-service eating places
+NAICS07 7221 Full-service restaurants
+NAICS 2382 Building equipment contractors
+NAICS 1133 Logging
+NAICS 3211 Sawmills and wood preservation
+NAICS 1153 Support activities for forestry
+NAICS 2121 Coal mining
+NAICS 1125 Aquaculture
+NAICS 2131 Support activities for mining
+NAICS 2111 Oil and gas extraction
+NAICS 4862 Pipeline transportation of natural gas
+NAICS 4861 Pipeline transportation of crude oil
+NAICS 3365 Railroad rolling stock manufacturing
+NAICS 1121 Cattle ranching and farming
+NAICS 1113 Fruit and tree nut farming
+NAICS 1119 Other crop farming
+NAICS 1151 Support activities for crop production
+NAICS 1112 Vegetable and melon farming
+NAICS 1111 Oilseed and grain farming
+NAICS 1122 Hog and pig farming
+NAICS 2122 Metal ore mining
