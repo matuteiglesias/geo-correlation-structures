@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21458798"
-     inkscape:cx="1115.7959"
-     inkscape:cy="-911.87251"
+     inkscape:zoom="3.4334077"
+     inkscape:cx="1436.1973"
+     inkscape:cy="-817.85821"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="512"
-     inkscape:window-height="729"
-     inkscape:window-x="2432"
-     inkscape:window-y="18"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -2632,7 +2632,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <g
        id="g7820"
-       inkscape:export-filename="/home/miglesia/Documents/geo-correlation-structures/Figures/7_compo_USA_nw/figure2.png"
+       inkscape:export-filename="/home/miglesia/Documents/geo-correlation-structures/Figures/7_compo_USA_nw/CL.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <image
@@ -2645,7 +2645,7 @@
          y="-3117.8416" />
       <path
          transform="translate(1.9138618,308.55467)"
-         d="m 3244.1082,1185.2372 a 12.768836,12.768836 0 1 1 -25.5377,0 12.768836,12.768836 0 1 1 25.5377,0 z"
+         d="m 3244.1082,1185.2372 c 0,7.052 -5.7168,12.7688 -12.7688,12.7688 -7.0521,0 -12.7689,-5.7168 -12.7689,-12.7688 0,-7.0521 5.7168,-12.7689 12.7689,-12.7689 7.052,0 12.7688,5.7168 12.7688,12.7689 z"
          sodipodi:ry="12.768836"
          sodipodi:rx="12.768836"
          sodipodi:cy="1185.2372"
@@ -2655,7 +2655,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(307.68774,370.40479)"
-         d="m 3244.1082,1185.2372 a 12.768836,12.768836 0 1 1 -25.5377,0 12.768836,12.768836 0 1 1 25.5377,0 z"
+         d="m 3244.1082,1185.2372 c 0,7.052 -5.7168,12.7688 -12.7688,12.7688 -7.0521,0 -12.7689,-5.7168 -12.7689,-12.7688 0,-7.0521 5.7168,-12.7689 12.7689,-12.7689 7.052,0 12.7688,5.7168 12.7688,12.7689 z"
          sodipodi:ry="12.768836"
          sodipodi:rx="12.768836"
          sodipodi:cy="1185.2372"
@@ -3719,5 +3719,15 @@
          id="rect7621-6"
          style="fill:none;stroke:#ebebeb;stroke-width:3.00000024;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
+    <image
+       y="2190.1194"
+       x="778.66412"
+       id="image5227-7"
+       xlink:href="file:///home/miglesia/Documents/geo-correlation-structures/Figures/7_compo_USA_nw/network_screenshot.png"
+       height="507.60373"
+       width="565.24689"
+       inkscape:export-filename="/home/miglesia/Documents/geo-correlation-structures/Figures/7_compo_USA_nw/US_bare_nw.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
