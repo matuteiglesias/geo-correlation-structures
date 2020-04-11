@@ -1,0 +1,286 @@
+CNAE ID CNG,CNAE label CNG
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+108,Torrefacao e moagem de cafe
+,
+,
+,
+,
+,
+,
+132,"Tecelagem, exceto malha"
+133,Fabricacao de tecidos de malha
+134,"Acabamentos em fios, tecidos e artefatos texteis"
+135,"Fabricacao de artefatos texteis, exceto vestuario"
+,
+142,Fabricacao de artigos de malharia e tricotagem
+,
+,
+,
+,
+,
+,
+,
+,
+,
+174,"Fabricacao de produtos diversos de papel, cartolina, papel-cartao e papelao ondulado"
+181,Atividade de impressao
+182,Servicos de pre-impressao e acabamentos graficos
+183,Reproducao de materiais gravados em qualquer suporte
+191,Coquerias
+192,Fabricacao de produtos derivados do petroleo
+193,Fabricacao de biocombustiveis
+201,Fabricacao de produtos quimicos inorganicos
+202,Fabricacao de produtos quimicos organicos
+203,Fabricacao de resinas e elastomeros
+204,Fabricacao de fibras artificiais e sinteticas
+205,Fabricacao de defensivos agricolas e desinfestantes domissanitarios
+206,"Fabricacao de saboes, detergentes, produtos de limpeza, cosmeticos, produtos de perfumaria e de higiene pessoal"
+207,"Fabricacao de tintas, vernizes, esmaltes, lacas e produtos afins"
+209,Fabricacao de produtos e preparados quimicos diversos
+211,Fabricacao de produtos farmoquimicos
+212,Fabricacao de produtos farmaceuticos
+221,Fabricacao de produtos de borracha
+222,Fabricacao de produtos de material plastico
+231,Fabricacao de vidro e de produtos do vidro
+232,Fabricacao de cimento
+233,"Fabricacao de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+234,Fabricacao de produtos ceramicos
+239,Aparelhamento de pedras e fabricacao de outros produtos de minerais nao-metalicos
+241,Producao de ferro-gusa e de ferroligas
+242,Siderurgia
+243,"Producao de tubos de aco, exceto tubos sem costura"
+244,Metalurgia dos metais nao-ferrosos
+245,Fundicao
+251,Fabricacao de estruturas metalicas e obras de caldeiraria pesada
+252,"Fabricacao de tanques, reservatorios metalicos e caldeiras"
+253,"Forjaria, estamparia, metalurgia do po e servicos de tratamento de metais"
+254,"Fabricacao de artigos de cutelaria, de serralheria e ferramentas"
+255,"Fabricacao de equipamento belico pesado, armas de fogo e municoes"
+259,Fabricacao de produtos de metal nao especificados anteriormente
+261,Fabricacao de componentes eletronicos
+262,Fabricacao de equipamentos de informatica e perifericos
+263,Fabricacao de equipamentos de comunicacao
+264,"Fabricacao de aparelhos de recepcao, reproducao, gravacao e amplificacao de audio e video"
+265,"Fabricacao de aparelhos e instrumentos de medida, teste e controle; cronometros e relogios"
+266,Fabricacao de aparelhos eletromedicos e eletroterapeuticos e equipamentos de irradiacao
+267,"Fabricacao de equipamentos e instrumentos opticos, fotograficos e cinematograficos"
+268,"Fabricacao de midias virgens, magneticas e opticas"
+271,"Fabricacao de geradores, transformadores e motores eletricos"
+272,"Fabricacao de pilhas, baterias e acumuladores eletricos"
+273,Fabricacao de equipamentos para distribuicao e controle de energia eletrica
+274,Fabricacao de lampadas e outros equipamentos de iluminacao
+275,Fabricacao de eletrodomesticos
+279,Fabricacao de equipamentos e aparelhos eletricos nao especificados anteriormente
+281,"Fabricacao de motores, bombas, compressores e equipamentos de transmissao"
+282,Fabricacao de maquinas e equipamentos de uso geral
+283,Fabricacao de tratores e de maquinas e equipamentos para a agricultura e pecuaria
+284,Fabricacao de maquinas-ferramenta
+285,Fabricacao de maquinas e equipamentos de uso na extracao mineral e na construcao
+286,Fabricacao de maquinas e equipamentos de uso industrial especifico
+291,"Fabricacao de automoveis, camionetas e utilitarios"
+292,Fabricacao de caminhoes e onibus
+293,"Fabricacao de cabines, carrocerias e reboques para veiculos automotores"
+294,Fabricacao de pecas e acessorios para veiculos automotores
+295,Recondicionamento e recuperacao de motores para veiculos automotores
+301,Construcao de embarcacoes
+303,Fabricacao de veiculos ferroviarios
+304,Fabricacao de aeronaves
+305,Fabricacao de veiculos militares de combate
+309,Fabricacao de equipamentos de transporte nao especificados anteriormente
+310,Fabricacao de moveis
+321,"Fabricacao de artigos de joalheria, bijuteria e semelhantes"
+322,Fabricacao de instrumentos musicais
+323,Fabricacao de artefatos para pesca e esporte
+324,Fabricacao de brinquedos e jogos recreativos
+325,Fabricacao de instrumentos e materiais para uso medico e odontologico e de artigos opticos
+329,Fabricacao de produtos diversos
+331,Manutencao e reparacao de maquinas e equipamentos
+332,Instalacao de maquinas e equipamentos
+351,"Geracao, transmissao e distribuicao de energia eletrica"
+352,Producao e distribuicao de combustiveis gasosos por redes urbanas
+353,"Producao e distribuicao de vapor, agua quente e ar condicionado"
+360,"Captacao, tratamento e distribuicao de agua"
+370,Esgoto e atividades relacionadas
+381,Coleta de residuos
+382,Tratamento e disposicao de residuos
+383,Recuperacao de materiais
+390,Descontaminacao e outros servicos de gestao de residuos
+411,Incorporacao de empreendimentos imobiliarios
+412,Construcao de edificios
+421,"Construcao de rodovias, ferrovias, obras urbanas e obras-de-arte especiais"
+422,"Obras de infra-estrutura para energia eletrica, telecomunicacoes, agua, esgoto e transporte por dutos"
+429,Construcao de outras obras de infra-estrutura
+431,Demolicao e preparacao do terreno
+432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes"
+433,Obras de acabamento
+439,Outros servicos especializados para construcao
+451,Comercio de veiculos automotores
+452,Manutencao e reparacao de veiculos automotores
+453,Comercio de pecas e acessorios para veiculos automotores
+454,"Comercio, manutencao e reparacao de motocicletas, pecas e acessorios"
+461,"Representantes comerciais e agentes do comercio, exceto de veiculos automotores e motocicletas"
+462,Comercio atacadista de materias-primas agricolas e animais vivos
+463,"Comercio atacadista especializado em produtos alimenticios, bebidas e fumo"
+464,Comercio atacadista de produtos de consumo nao-alimentar
+465,Comercio atacadista de equipamentos e produtos de tecnologias de informacao e comunicacao
+466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao"
+468,Comercio atacadista especializado em outros produtos
+469,Comercio atacadista nao-especializado
+471,Comercio varejista nao-especializado
+472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+473,Comercio varejista de combustiveis para veiculos automotores
+474,Comercio varejista de material de construcao
+475,Comercio varejista de equipamentos de informatica e comunicacao; equipamentos e artigos de uso domestico
+476,"Comercio varejista de artigos culturais, recreativos e esportivos"
+477,"Comercio varejista de produtos farmaceuticos, perfumaria e cosmeticos e artigos medicos, opticos e ortopedicos"
+478,Comercio varejista de produtos novos nao especificados anteriormente e de produtos usados
+479,Comercio ambulante e outros tipos de comercio varejista
+491,Transporte ferroviario e metroferroviario
+492,Transporte rodoviario de passageiros
+493,Transporte rodoviario de carga
+494,Transporte dutoviario
+495,"Trens turisticos, telefericos e similares"
+501,Transporte maritimo de cabotagem e longo curso
+502,Transporte por navegacao interior
+503,Navegacao de apoio
+509,Outros transportes aquaviarios
+511,Transporte aereo de passageiros
+512,Transporte aereo de carga
+513,Transporte espacial
+521,"Armazenamento, carga e descarga"
+522,Atividades auxiliares dos transportes terrestres
+523,Atividades auxiliares dos transportes aquaviarios
+524,Atividades auxiliares dos transportes aereos
+525,Atividades relacionadas a organizacao do transporte de carga
+531,Atividades de correio
+532,Atividades de malote e de entrega
+551,Hoteis e similares
+559,Outros tipos de alojamento nao especificados anteriormente
+561,Restaurantes e outros servicos de alimentacao e bebidas
+562,"Servicos de catering, bufe e outros servicos de comida preparada"
+581,"Edicao de livros, jornais, revistas e outras atividades de edicao"
+582,"Edicao integrada a impressao de livros, jornais, revistas e outras publicacoes"
+591,"Atividades cinematograficas, producao de videos e de programas de televisao"
+592,Atividades de gravacao de som e de edicao de musica
+601,Atividades de radio
+602,Atividades de televisao
+611,Telecomunicacoes por fio
+612,Telecomunicacoes sem fio
+613,Telecomunicacoes por satelite
+614,Operadoras de televisao por assinatura
+619,Outras atividades de telecomunicacoes
+620,Atividades dos servicos de tecnologia da informacao
+631,"Tratamento de dados, hospedagem na internet e outras atividades relacionadas"
+639,Outras atividades de prestacao de servicos de informacao
+641,Banco central
+642,Intermediacao monetaria - depositos a vista
+643,Intermediacao nao-monetaria - outros instrumentos de captacao
+644,Arrendamento mercantil
+645,Sociedades de capitalizacao
+646,Atividades de sociedades de participacao
+647,Fundos de investimento
+649,Atividades de servicos financeiros nao especificadas anteriormente
+651,Seguros de vida e nao-vida
+652,Seguros-saude
+653,Resseguros
+654,Previdencia complementar
+655,Planos de saude
+661,Atividades auxiliares dos servicos financeiros
+662,"Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude"
+663,Atividades de administracao de fundos por contrato ou comissao
+681,Atividades imobiliarias de imoveis proprios
+682,Atividades imobiliarias por contrato ou comissao
+691,Atividades juridicas
+692,"Atividades de contabilidade, consultoria e auditoria contabil e tributaria"
+701,Sedes de empresas e unidades administrativas locais
+702,Atividades de consultoria em gestao empresarial
+711,Servicos de arquitetura e engenharia e atividades tecnicas relacionadas
+712,Testes e analises tecnicas
+721,Pesquisa e desenvolvimento experimental em ciencias fisicas e naturais
+722,Pesquisa e desenvolvimento experimental em ciencias sociais e humanas
+731,Publicidade
+732,Pesquisas de mercado e de opiniao publica
+741,Design e decoracao de interiores
+742,Atividades fotograficas e similares
+749,"Atividades profissionais, cientificas e tecnicas nao especificadas anteriormente"
+750,Atividades veterinarias
+771,Locacao de meios de transporte sem condutor
+772,Aluguel de objetos pessoais e domesticos
+773,Aluguel de maquinas e equipamentos sem operador
+774,Gestao de ativos intangiveis nao-financeiros
+781,Selecao e agenciamento de mao-de-obra
+782,Locacao de mao-de-obra temporaria
+783,Fornecimento e gestao de recursos humanos para terceiros
+791,Agencias de viagens e operadores turisticos
+799,Servicos de reservas e outros servicos de turismo nao especificados anteriormente
+801,"Atividades de vigilancia, seguranca privada e transporte de valores"
+802,Atividades de monitoramento de sistemas de seguranca
+803,Atividades de investigacao particular
+811,Servicos combinados para apoio a edificios
+812,Atividades de limpeza
+813,Atividades paisagisticas
+821,Servicos de escritorio e apoio administrativo
+822,Atividades de teleatendimento
+823,"Atividades de organizacao de eventos, exceto culturais e esportivos"
+829,Outras atividades de servicos prestados principalmente as empresas
+841,Administracao do estado e da politica economica e social
+842,Servicos coletivos prestados pela administracao publica
+843,Seguridade social obrigatoria
+851,Educacao infantil e ensino fundamental
+852,Ensino medio
+853,Educacao superior
+854,Educacao profissional de nivel tecnico e tecnologico
+855,Atividades de apoio a educacao
+859,Outras atividades de ensino
+861,Atividades de atendimento hospitalar
+862,Servicos moveis de atendimento a urgencias e de remocao de pacientes
+863,Atividades de atencao ambulatorial executadas por medicos e odontologos
+864,Atividades de servicos de complementacao diagnostica e terapeutica
+865,"Atividades de profissionais da area de saude, exceto medicos e odontologos"
+866,Atividades de apoio a gestao de saude
+869,Atividades de atencao a saude humana nao especificadas anteriormente
+871,"Atividades de assistencia a idosos, deficientes fisicos, imunodeprimidos e convalescentes, e de infra-estrutura e apoio a pacientes prestadas em residencias coletivas e particulares"
+872,"Atividades de assistencia psicossocial e a saude a portadores de disturbios psiquicos, deficiencia mental e dependencia quimica"
+873,Atividades de assistencia social prestadas em residencias coletivas e particulares
+880,Servicos de assistencia social sem alojamento
+900,"Atividades artisticas, criativas e de espetaculos"
+910,Atividades ligadas ao patrimonio cultural e ambiental
+920,Atividades de exploracao de jogos de azar e apostas
+931,Atividades esportivas
+932,Atividades de recreacao e lazer
+941,"Atividades de organizacoes associativas patronais, empresariais e profissionais"
+942,Atividades de organizacoes sindicais
+943,Atividades de associacoes de defesa de direitos sociais
+949,Atividades de organizacoes associativas nao especificadas anteriormente
+951,Reparacao e manutencao de equipamentos de informatica e comunicacao
+952,Reparacao e manutencao de objetos e equipamentos pessoais e domesticos
+960,Outras atividades de servicos pessoais
+970,Servicos domesticos
+990,Organismos internacionais e outras instituicoes extraterritoriais
