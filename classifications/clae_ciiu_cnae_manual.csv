@@ -164,203 +164,277 @@ CLAE 3,Descripción CLAE 3,Ramas,Descripción,CNAE ID CNG,CNAE label CNG
 352.0,Fabricación Y Distribución De Gas  Y De Combustibles Gaseosos Por Tuberías,4012.0,Transporte de energía eléctrica,351,"Geracao, transmissao e distribuicao de energia eletrica"
 352.0,Fabricación Y Distribución De Gas  Y De Combustibles Gaseosos Por Tuberías,4013.0,Distribución de energía eléctrica,351,"Geracao, transmissao e distribuicao de energia eletrica"
 352.0,Fabricación Y Distribución De Gas  Y De Combustibles Gaseosos Por Tuberías,4020.0,Fabricación de gas y distribución de combustibles gaseosos por tuberías,352,Producao e distribuicao de combustiveis gasosos por redes urbanas
-353.0,Suministro De Vapor Y Aire Acondicionado,4020.0,Fabricación de gas y distribución de combustibles gaseosos por tuberías,353,"Producao e distribuicao de vapor, agua quente e ar condicionado"
-431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4511.0,Demolición y voladura de edificios y de sus partes ,,
-431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4512.0,"Perforación y sondeo, excepto: perforación de pozos de petróleo, de gas, de minas e hidráulicos  y prospección de yacimientos de petróleo",,
-431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4519.0,Movimiento de suelos y preparación de terrenos para obras n.c.p.,,
-410.0,Construcción De Edificios Y Sus Partes,4520.0,Construcción de edificios y sus partes y obras de ingeniería civil,,
-410.0,Construcción De Edificios Y Sus Partes,4531.0,"Ejecución y mantenimiento de instalaciones eléctricas, electromecánicas y electrónicas",,
-432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4532.0,"Aislamiento térmico, acústico, hídrico y antivibratorio",,
-432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4533.0,"Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos",,
-432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4539.0,Instalaciones para edificios y obras de ingeniería civil n.c.p.,,
-432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4541.0,"Instalaciones de carpintería, herrería de obra y artística",,
-433.0,Terminación De Edificios,4542.0,Terminación y revestimiento de paredes y pisos,,
-433.0,Terminación De Edificios,4543.0,Colocación de cristales en obra,,
-433.0,Terminación De Edificios,4544.0,Pintura y trabajos de decoración,,
-433.0,Terminación De Edificios,4549.0,Terminación de edificios y obras de ingeniería civil n.c.p.,,
-439.0,Alquiler De Equipo De Construcción O Demolición Dotado De Operarios Y Actividades Especializadas De Construcción Ncp,4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,,
-429.0,Obras De Ingeniería Civil Ncp,4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,,
-421.0,"Construcción, Reforma Y Reparación De Obras De Infraestructura Para El Transporte",4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,,
-422.0,Construcción De Proyectos De Servicios Públicos,4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,,
-422.0,Construcción De Proyectos De Servicios Públicos,5011.0,"Venta de vehículos automotores nuevos, excepto motocicletas",,
-451.0,"Venta De Vehículos Automotores, Excepto Motocicletas",5012.0,"Venta de vehículos automotores usados, excepto motocicletas",,
-452.0,"Mantenimiento Y Reparación De Vehículos Automotores, Excepto Motocicletas",5012.0,"Venta de vehículos automotores usados, excepto motocicletas",,
-454.0,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios",5020.0,"Mantenimiento y reparación de vehículos automotores, excepto motocicletas",,
-454.0,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios",5031.0,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores",,
-454.0,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios",5032.0,"Venta al por menor de partes, piezas y accesorios de vehículos automotores",,
-473.0,Venta Al Por Menor De Combustible Para Vehículos Automotores Y Motocicletas,5050.0,Venta al por menor de combustible para vehículos automotores y motocicletas,,
+353.0,Suministro De Vapor Y Aire Acondicionado,,,353,"Producao e distribuicao de vapor, agua quente e ar condicionado"
+431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4511.0,Demolición y voladura de edificios y de sus partes ,431,Demolicao e preparacao do terreno
+431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4512.0,"Perforación y sondeo, excepto: perforación de pozos de petróleo, de gas, de minas e hidráulicos  y prospección de yacimientos de petróleo",431,Demolicao e preparacao do terreno
+431.0,"Demolición, Movimiento Y Preparación De Terrenos Para Obras",4519.0,Movimiento de suelos y preparación de terrenos para obras n.c.p.,431,Demolicao e preparacao do terreno
+410.0,Construcción De Edificios Y Sus Partes,4520.0,Construcción de edificios y sus partes y obras de ingeniería civil,412,Construcao de edificios
+410.0,Construcción De Edificios Y Sus Partes,4531.0,"Ejecución y mantenimiento de instalaciones eléctricas, electromecánicas y electrónicas",412,Construcao de edificios
+432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4532.0,"Aislamiento térmico, acústico, hídrico y antivibratorio",432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes"
+432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4533.0,"Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos",432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes"
+432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4539.0,Instalaciones para edificios y obras de ingeniería civil n.c.p.,432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes"
+432.0,Instalaciones Para Edificios Y Obras De Ingeniería Civil,4541.0,"Instalaciones de carpintería, herrería de obra y artística",432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes"
+433.0,Terminación De Edificios,4542.0,Terminación y revestimiento de paredes y pisos,433,Obras de acabamento
+433.0,Terminación De Edificios,4543.0,Colocación de cristales en obra,433,Obras de acabamento
+433.0,Terminación De Edificios,4544.0,Pintura y trabajos de decoración,433,Obras de acabamento
+433.0,Terminación De Edificios,4549.0,Terminación de edificios y obras de ingeniería civil n.c.p.,433,Obras de acabamento
+439.0,Alquiler De Equipo De Construcción O Demolición Dotado De Operarios Y Actividades Especializadas De Construcción Ncp,4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,439,Outros servicos especializados para construcao
+429.0,Obras De Ingeniería Civil Ncp,4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,429,Construcao de outras obras de infra-estrutura
+421.0,"Construcción, Reforma Y Reparación De Obras De Infraestructura Para El Transporte",,,421,"Construcao de rodovias, ferrovias, obras urbanas e obras-de-arte especiais"
+422.0,Construcción De Proyectos De Servicios Públicos,,,422,"Obras de infra-estrutura para energia eletrica, telecomunicacoes, agua, esgoto e transporte por dutos"
+451.0,"Venta De Vehículos Automotores, Excepto Motocicletas",5011.0,"Venta de vehículos automotores nuevos, excepto motocicletas",451,Comercio de veiculos automotores
+451.0,"Venta De Vehículos Automotores, Excepto Motocicletas",5012.0,"Venta de vehículos automotores usados, excepto motocicletas",451,Comercio de veiculos automotores
+452.0,"Mantenimiento Y Reparación De Vehículos Automotores, Excepto Motocicletas",5020.0,"Mantenimiento y reparación de vehículos automotores, excepto motocicletas",452,Manutencao e reparacao de veiculos automotores
+,,,,,
+454.0,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios",5031.0,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores",454,"Comercio, manutencao e reparacao de motocicletas, pecas e acessorios"
+454.0,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios",5032.0,"Venta al por menor de partes, piezas y accesorios de vehículos automotores",454,"Comercio, manutencao e reparacao de motocicletas, pecas e acessorios"
+473.0,Venta Al Por Menor De Combustible Para Vehículos Automotores Y Motocicletas,5050.0,Venta al por menor de combustible para vehículos automotores y motocicletas,473,Comercio varejista de combustiveis para veiculos automotores
 461.0,Venta Al Por Mayor En Comisión O Consignación,5111.0,Venta al por mayor en comisión o consignación de productos agrícolas y pecuarios,,
 461.0,Venta Al Por Mayor En Comisión O Consignación,5119.0,Venta al por mayor en comisión o consignación de mercancías n.c.p.,,
-462.0,Venta Al Por Mayor De Materias Primas Agropecuarias Y De Animales Vivos,5121.0,Venta al por mayor de materias primas agropecuarias y de animales vivos,,
-463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5122.0,Venta al por mayor de alimentos ,,
-463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5123.0,Venta al por mayor de bebidas,,
-463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5124.0,Venta al por mayor de cigarrillos y productos de tabaco ,,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5131.0,"Venta al por mayor de productos textiles, prendas de vestir, calzado excepto el ortopédico, cueros, pieles, artículos de marroquinería,  paraguas y similares ",,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5132.0,"Venta al por mayor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería",,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5133.0,"Venta al por mayor de productos farmacéuticos, veterinarios, cosméticos y de perfumería, instrumental médico y odontológico y artículos ortopédicos",,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5134.0,"Venta al por mayor de artículos de óptica, fotografía, relojería, joyería y fantasías",,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5135.0,"Venta al por mayor de muebles, artículos de iluminación y  demás artefactos para el hogar",,
-464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5139.0,Venta al por mayor de artículos de uso doméstico y/o personal n.c.p.,,
-469.0,Venta Al Por Mayor De Mercancías Ncp,5141.0,"Venta al por mayor de combustibles, incluso gaseosos y productos conexos",,
-469.0,Venta Al Por Mayor De Mercancías Ncp,5142.0,Venta al por mayor de metales y minerales metalíferos,,
-469.0,Venta Al Por Mayor De Mercancías Ncp,5143.0,"Venta al por mayor de madera,  materiales de construcción, artículos de ferretería y materiales para plomería e instalaciones de  gas",,
-469.0,Venta Al Por Mayor De Mercancías Ncp,5149.0,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos",,
-465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5151.0,"Venta al por mayor de máquinas, equipos e implementos de uso especial",,
-465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5152.0,Venta al por mayor de máquinas-herramienta de uso general,,
-465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5153.0,"Venta al por mayor de vehículos, equipos y máquinas para el transporte ferroviario, aéreo y de navegación",,
-465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5154.0,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios",,
-465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5159.0,"Venta al por mayor de máquinas, equipo y materiales conexos n.c.p.",,
-466.0,Venta Al Por Mayor Especializada,5190.0,Venta al por mayor de mercancías n.c.p.,,
-471.0,Venta Al Por Menor En Comercios No Especializados,5211.0,Venta al por menor en comercios no especializados con predominio de productos alimenticios y bebidas ,,
-471.0,Venta Al Por Menor En Comercios No Especializados,5212.0,"Venta al por menor excepto la especializada, sin predominio de productos alimenticios y bebidas",,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5221.0,"Venta al por menor de productos de almacén, fiambrería y dietética",,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5222.0,Venta al por menor de carnes rojas y productos de granja y de la caza,,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5223.0,"Venta al por menor de frutas, legumbres y hortalizas frescas",,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5224.0,Venta al por menor de pan y productos de panadería y confitería,,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5225.0,Venta al por menor de bebidas,,
-472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5229.0,"Venta al por menor de productos  alimenticios n.c.p. y tabaco, en comercios especializados",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5229.0,"Venta al por menor de productos  alimenticios n.c.p. y tabaco, en comercios especializados",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5231.0,"Venta al por menor de productos farmacéuticos, cosméticos, de perfumería, instrumental médico y odontológico y artículos ortopédicos",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5232.0,"Venta al por menor de productos textiles, excepto prendas de vestir",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5233.0,"Venta al por menor de prendas y accesorios de vestir excepto calzado, artículos de marroquinería, paraguas y similares",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5234.0,"Venta al por menor de calzado excepto el ortopédico, artículos de marroquinería, paraguas y similares",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5235.0,"Venta al  por menor de muebles, artículos de mimbre y corcho, colchones y somieres, artículos de  iluminación y artefactos para el hogar",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5236.0,"Venta al por menor de materiales de construcción, artículos de ferretería, pinturas, cristales y espejos, y artículos para la decoración",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5237.0,"Venta al por menor de artículos de óptica, fotografía, relojería, joyería y fantasía",,
-474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",5238.0,"Venta al por menor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería",,
-476.0,Venta Al Por Menor De Bienes Culturales Y Recreativos En Comercios Especializados,5238.0,"Venta al por menor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería",,
+462.0,Venta Al Por Mayor De Materias Primas Agropecuarias Y De Animales Vivos,5121.0,Venta al por mayor de materias primas agropecuarias y de animales vivos,462,Comercio atacadista de materias-primas agricolas e animais vivos
+463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5122.0,Venta al por mayor de alimentos ,463,"Comercio atacadista especializado em produtos alimenticios, bebidas e fumo"
+463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5123.0,Venta al por mayor de bebidas,463,"Comercio atacadista especializado em produtos alimenticios, bebidas e fumo"
+463.0,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco",5124.0,Venta al por mayor de cigarrillos y productos de tabaco ,463,"Comercio atacadista especializado em produtos alimenticios, bebidas e fumo"
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5131.0,"Venta al por mayor de productos textiles, prendas de vestir, calzado excepto el ortopédico, cueros, pieles, artículos de marroquinería,  paraguas y similares ",464,Comercio atacadista de produtos de consumo nao-alimentar
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5132.0,"Venta al por mayor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería",464,Comercio atacadista de produtos de consumo nao-alimentar
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5133.0,"Venta al por mayor de productos farmacéuticos, veterinarios, cosméticos y de perfumería, instrumental médico y odontológico y artículos ortopédicos",464,Comercio atacadista de produtos de consumo nao-alimentar
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5134.0,"Venta al por mayor de artículos de óptica, fotografía, relojería, joyería y fantasías",464,Comercio atacadista de produtos de consumo nao-alimentar
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5135.0,"Venta al por mayor de muebles, artículos de iluminación y  demás artefactos para el hogar",464,Comercio atacadista de produtos de consumo nao-alimentar
+464.0,Venta Al Por Mayor De Artículos De Uso Doméstico Y/O Personal,5139.0,Venta al por mayor de artículos de uso doméstico y/o personal n.c.p.,464,Comercio atacadista de produtos de consumo nao-alimentar
+469.0,Venta Al Por Mayor De Mercancías Ncp,5141.0,"Venta al por mayor de combustibles, incluso gaseosos y productos conexos",467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao"
+469.0,Venta Al Por Mayor De Mercancías Ncp,5142.0,Venta al por mayor de metales y minerales metalíferos,467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao"
+469.0,Venta Al Por Mayor De Mercancías Ncp,5143.0,"Venta al por mayor de madera,  materiales de construcción, artículos de ferretería y materiales para plomería e instalaciones de  gas",467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao"
+469.0,Venta Al Por Mayor De Mercancías Ncp,5149.0,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos",467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao"
+465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5151.0,"Venta al por mayor de máquinas, equipos e implementos de uso especial",466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5152.0,Venta al por mayor de máquinas-herramienta de uso general,466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5153.0,"Venta al por mayor de vehículos, equipos y máquinas para el transporte ferroviario, aéreo y de navegación",466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5154.0,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios",466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+465.0,"Venta Al Por Mayor De Máquinas, Equipo Y Materiales Conexos",5159.0,"Venta al por mayor de máquinas, equipo y materiales conexos n.c.p.",466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao"
+466.0,Venta Al Por Mayor Especializada,5190.0,Venta al por mayor de mercancías n.c.p.,468,Comercio atacadista especializado em outros produtos
+471.0,Venta Al Por Menor En Comercios No Especializados,5211.0,Venta al por menor en comercios no especializados con predominio de productos alimenticios y bebidas ,469,Comercio atacadista nao-especializado
+471.0,Venta Al Por Menor En Comercios No Especializados,5212.0,"Venta al por menor excepto la especializada, sin predominio de productos alimenticios y bebidas",471,Comercio varejista nao-especializado
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5221.0,"Venta al por menor de productos de almacén, fiambrería y dietética",472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5222.0,Venta al por menor de carnes rojas y productos de granja y de la caza,472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5223.0,"Venta al por menor de frutas, legumbres y hortalizas frescas",472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5224.0,Venta al por menor de pan y productos de panadería y confitería,472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5225.0,Venta al por menor de bebidas,472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+472.0,"Venta Al Por Menor De Productos Alimenticios, Bebidas Y Tabaco En Comercios Especializados",5229.0,"Venta al por menor de productos  alimenticios n.c.p. y tabaco, en comercios especializados",472,"Comercio varejista de produtos alimenticios, bebidas e fumo"
+474.0,"Venta Al Por Menor De Equipos, Periféricos,  Accesorios Y Programas Informáticos;  Equipos De Telecomunicaciones En Comercios Especializados",,,475,Comercio varejista de equipamentos de informatica e comunicacao; equipamentos e artigos de uso domestico
+,,5231.0,"Venta al por menor de productos farmacéuticos, cosméticos, de perfumería, instrumental médico y odontológico y artículos ortopédicos",477,"Comercio varejista de produtos farmaceuticos, perfumaria e cosmeticos e artigos medicos, opticos e ortopedicos"
+,,5232.0,"Venta al por menor de productos textiles, excepto prendas de vestir",,
+,,5233.0,"Venta al por menor de prendas y accesorios de vestir excepto calzado, artículos de marroquinería, paraguas y similares",,
+,,5234.0,"Venta al por menor de calzado excepto el ortopédico, artículos de marroquinería, paraguas y similares",,
+,,5235.0,"Venta al  por menor de muebles, artículos de mimbre y corcho, colchones y somieres, artículos de  iluminación y artefactos para el hogar",,
+,,5236.0,"Venta al por menor de materiales de construcción, artículos de ferretería, pinturas, cristales y espejos, y artículos para la decoración",474,Comercio varejista de material de construcao
+,,5237.0,"Venta al por menor de artículos de óptica, fotografía, relojería, joyería y fantasía",,
+,,5238.0,"Venta al por menor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería",,
+476.0,Venta Al Por Menor De Bienes Culturales Y Recreativos En Comercios Especializados,,,,
 477.0,"Venta Al Por Menor De Productos Ncp, En Comercios Especializados",5239.0,Venta al por menor en comercios especializados n.c.p.,,
 477.0,"Venta Al Por Menor De Productos Ncp, En Comercios Especializados",5242.0,"Venta al por menor de libros, revistas y similares usados",,
-478.0,Venta Al Por Menor En Puestos Móviles Y Mercados,5249.0,Venta al por menor de artículos usados n.c.p.,,
-479.0,"Venta Al Por Menor No Realizada En Comercios, Puestos O Mercados",5259.0,Venta al por menor no realizada en establecimientos  n.c.p.,,
-479.0,"Venta Al Por Menor No Realizada En Comercios, Puestos O Mercados",5251.0,"Venta al por menor  por correo, televisión, internet y otros medios de comunicación",,
+478.0,Venta Al Por Menor En Puestos Móviles Y Mercados,5249.0,Venta al por menor de artículos usados n.c.p.,478,Comercio varejista de produtos novos nao especificados anteriormente e de produtos usados
+479.0,"Venta Al Por Menor No Realizada En Comercios, Puestos O Mercados",5259.0,Venta al por menor no realizada en establecimientos  n.c.p.,479,Comercio ambulante e outros tipos de comercio varejista
+479.0,"Venta Al Por Menor No Realizada En Comercios, Puestos O Mercados",5251.0,"Venta al por menor  por correo, televisión, internet y otros medios de comunicación",479,Comercio ambulante e outros tipos de comercio varejista
 952.0,Reparación De Efectos Personales Y Enseres Domésticos,5262.0,Reparación de artículos eléctricos de uso doméstico,,
-952.0,Reparación De Efectos Personales Y Enseres Domésticos,5269.0,Reparación de efectos personales y enseres domésticos n.c.p.,,
-552.0,Servicios De Alojamiento En Campings,5511.0,Servicios de alojamiento en camping,,
-551.0,"Servicios De Alojamiento, Excepto En Camping",5512.0,Servicios de alojamiento excepto en camping,,
-561.0,Servicios De Expendio De Comidas Y Bebidas,5521.0,"Servicios de expendio de comidas y bebidas en restaurantes, bares y otros establecimientos con servicio de mesa y/o en mostrador excepto en heladerías",,
-562.0,Servicios De Preparación De Comidas Para Empresas Y  Servicios De Comidas Ncp,5522.0,Preparación y venta de comidas para llevar,,
-491.0,Servicio De Transporte Ferroviario,6010.0,Servicio de transporte ferroviario,,
-492.0,Servicio De Transporte Automotor,6010.0,Servicio de transporte ferroviario,,
-492.0,Servicio De Transporte Automotor,6021.0,Servicio de transporte automotor de cargas,,
-492.0,Servicio De Transporte Automotor,6022.0,Servicio de transporte automotor de pasajeros,,
-493.0,Servicio De Transporte Por Tuberías,6030.0,Servicio de transporte por tuberías,,
-501.0,Servicio De Transporte Marítimo,6110.0,Servicio de transporte marítimo ,,
-502.0,Servicio De Transporte Fluvial Y Lacustre,6120.0,Servicio de transporte fluvial,,
-512.0,Servicio De Transporte Aéreo De Cargas,6200.0,Servicio de transporte aéreo de carga y de pasajeros,,
-511.0,Servicio De Transporte Aéreo De Pasajeros,6200.0,Servicio de transporte aéreo de carga y de pasajeros,,
-521.0,Servicios De Manipulación De Cargas,6310.0,Servicios de manipulación de carga,,
-522.0,Servicios De Almacenamiento Y Depósito,6320.0,Servicios de almacenamiento y depósito,,
-524.0,Servicios Complementarios Para El Transporte,6331.0,Servicios complementarios para el transporte terrestre,,
-524.0,Servicios Complementarios Para El Transporte,6332.0,Servicios complementarios para el transporte por agua,,
-524.0,Servicios Complementarios Para El Transporte,6333.0,Servicios complementarios para el transporte aéreo,,
-791.0,Servicios De Agencias De Viaje Y Otras Actividades Complementarias De Apoyo Turístico,6340.0,Servicios de agencias de viaje y actividades complementarias de apoyo turístico,,
-523.0,Servicios De Gestión Y Logística Para El Transporte De Mercaderías,6350.0,Servicios de gestión y logística para el transporte de mercaderías,,
-530.0,Servicios De Correos Y Mensajerías,6410.0,Servicios de correos,,
-581.0,Edición,2211.0,"Edición de libros, folletos, partituras y otras publicaciones",,
-581.0,Edición,2212.0,"Edición de periódicos, revistas y publicaciones periódicas",,
-592.0,Servicios De Grabación De Sonido Y Edición De Música,2213.0,Edición de grabaciones,,
-592.0,Servicios De Grabación De Sonido Y Edición De Música,2219.0,Edición n.c.p.,,
+952.0,Reparación De Efectos Personales Y Enseres Domésticos,5269.0,Reparación de efectos personales y enseres domésticos n.c.p.,952,Reparacao e manutencao de objetos e equipamentos pessoais e domesticos
+552.0,Servicios De Alojamiento En Campings,5511.0,Servicios de alojamiento en camping,559,Outros tipos de alojamento nao especificados anteriormente
+551.0,"Servicios De Alojamiento, Excepto En Camping",5512.0,Servicios de alojamiento excepto en camping,551,Hoteis e similares
+561.0,Servicios De Expendio De Comidas Y Bebidas,5521.0,"Servicios de expendio de comidas y bebidas en restaurantes, bares y otros establecimientos con servicio de mesa y/o en mostrador excepto en heladerías",561,Restaurantes e outros servicos de alimentacao e bebidas
+562.0,Servicios De Preparación De Comidas Para Empresas Y  Servicios De Comidas Ncp,5522.0,Preparación y venta de comidas para llevar,562,"Servicos de catering, bufe e outros servicos de comida preparada"
+491.0,Servicio De Transporte Ferroviario,6010.0,Servicio de transporte ferroviario,491,Transporte ferroviario e metroferroviario
+,,,,,
+492.0,Servicio De Transporte Automotor,6021.0,Servicio de transporte automotor de cargas,493,Transporte rodoviario de carga
+492.0,Servicio De Transporte Automotor,6022.0,Servicio de transporte automotor de pasajeros,492,Transporte rodoviario de passageiros
+493.0,Servicio De Transporte Por Tuberías,6030.0,Servicio de transporte por tuberías,494,Transporte dutoviario
+501.0,Servicio De Transporte Marítimo,6110.0,Servicio de transporte marítimo ,501,Transporte maritimo de cabotagem e longo curso
+502.0,Servicio De Transporte Fluvial Y Lacustre,6120.0,Servicio de transporte fluvial,502,Transporte por navegacao interior
+512.0,Servicio De Transporte Aéreo De Cargas,6200.0,Servicio de transporte aéreo de carga y de pasajeros,512,Transporte aereo de carga
+511.0,Servicio De Transporte Aéreo De Pasajeros,6200.0,Servicio de transporte aéreo de carga y de pasajeros,511,Transporte aereo de passageiros
+521.0,Servicios De Manipulación De Cargas,6310.0,Servicios de manipulación de carga,521,"Armazenamento, carga e descarga"
+522.0,Servicios De Almacenamiento Y Depósito,6320.0,Servicios de almacenamiento y depósito,521,"Armazenamento, carga e descarga"
+524.0,Servicios Complementarios Para El Transporte,6331.0,Servicios complementarios para el transporte terrestre,522,Atividades auxiliares dos transportes terrestres
+524.0,Servicios Complementarios Para El Transporte,6332.0,Servicios complementarios para el transporte por agua,523,Atividades auxiliares dos transportes aquaviarios
+524.0,Servicios Complementarios Para El Transporte,6333.0,Servicios complementarios para el transporte aéreo,524,Atividades auxiliares dos transportes aereos
+791.0,Servicios De Agencias De Viaje Y Otras Actividades Complementarias De Apoyo Turístico,6340.0,Servicios de agencias de viaje y actividades complementarias de apoyo turístico,791,Agencias de viagens e operadores turisticos
+523.0,Servicios De Gestión Y Logística Para El Transporte De Mercaderías,6350.0,Servicios de gestión y logística para el transporte de mercaderías,525,Atividades relacionadas a organizacao do transporte de carga
+530.0,Servicios De Correos Y Mensajerías,6410.0,Servicios de correos,531,Atividades de correio
+581.0,Edición,2211.0,"Edición de libros, folletos, partituras y otras publicaciones",581,"Edicao de livros, jornais, revistas e outras atividades de edicao"
+581.0,Edición,2212.0,"Edición de periódicos, revistas y publicaciones periódicas",581,"Edicao de livros, jornais, revistas e outras atividades de edicao"
+592.0,Servicios De Grabación De Sonido Y Edición De Música,2213.0,Edición de grabaciones,592,Atividades de gravacao de som e de edicao de musica
+592.0,Servicios De Grabación De Sonido Y Edición De Música,2219.0,Edición n.c.p.,592,Atividades de gravacao de som e de edicao de musica
 182.0,Reproducción De Grabaciones,2230.0,Reproducción de grabaciones,,
-181.0,Impresión Y Servicios Relacionados Con La Impresión,2221.0,Impresión,,
-181.0,Impresión Y Servicios Relacionados Con La Impresión,2222.0,Servicios relacionados con la impresión,,
-591.0,Servicios De Cinematografía,9211.0,Producción y distribución de filmes y videocintas,,
-591.0,Servicios De Cinematografía,9212.0,Exhibición de filmes y videocintas,,
-591.0,Servicios De Cinematografía,9213.0,Servicios de radio y televisión ,,
-601.0,Emisión Y Retransmisión De Radio,6420.0,Servicios de telecomunicaciones,,
-602.0,Servicios De Televisión,6420.0,Servicios de telecomunicaciones,,
-611.0,Servicios De Telefonía Fija,6420.0,Servicios de telecomunicaciones,,
-612.0,Servicios De Telefonía Móvil,6420.0,Servicios de telecomunicaciones,,
-613.0,"Servicios De Telecomunicaciones Vía Satélite, Excepto Servicios De Transmisión De Televisión",6420.0,Servicios de telecomunicaciones,,
-619.0,Servicios De Telecomunicaciones Ncp,6420.0,Servicios de telecomunicaciones,,
-631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",6420.0,Servicios de telecomunicaciones,,
-631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7210.0,Servicios de consultores en equipo de informática ,,
-631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7220.0,Servicios de consultores en informática y suministros de programas de informática,,
-631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7230.0,Procesamiento de datos ,,
-631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7240.0,Servicios relacionados con bases de datos ,,
-951.0,Reparación Y Mantenimiento De Equipos Informáticos Y Equipos De Comunicación,7250.0,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",,
-951.0,Reparación Y Mantenimiento De Equipos Informáticos Y Equipos De Comunicación,7290.0,Actividades de informática n.c.p.,,
-641.0,Intermediación Monetaria,7290.0,Actividades de informática n.c.p.,,
+181.0,Impresión Y Servicios Relacionados Con La Impresión,2221.0,Impresión,582,"Edicao integrada a impressao de livros, jornais, revistas e outras publicacoes"
+181.0,Impresión Y Servicios Relacionados Con La Impresión,2222.0,Servicios relacionados con la impresión,582,"Edicao integrada a impressao de livros, jornais, revistas e outras publicacoes"
+591.0,Servicios De Cinematografía,9211.0,Producción y distribución de filmes y videocintas,591,"Atividades cinematograficas, producao de videos e de programas de televisao"
+591.0,Servicios De Cinematografía,9212.0,Exhibición de filmes y videocintas,591,"Atividades cinematograficas, producao de videos e de programas de televisao"
+,,,,591,"Atividades cinematograficas, producao de videos e de programas de televisao"
+601.0,Emisión Y Retransmisión De Radio,9213.0,Servicios de radio y televisión ,601,Atividades de radio
+602.0,Servicios De Televisión,9213.0,Servicios de radio y televisión ,602,Atividades de televisao
+611.0,Servicios De Telefonía Fija,6420.0,Servicios de telecomunicaciones,611,Telecomunicacoes por fio
+612.0,Servicios De Telefonía Móvil,6420.0,Servicios de telecomunicaciones,612,Telecomunicacoes sem fio
+613.0,"Servicios De Telecomunicaciones Vía Satélite, Excepto Servicios De Transmisión De Televisión",6420.0,Servicios de telecomunicaciones,613,Telecomunicacoes por satelite
+619.0,Servicios De Telecomunicaciones Ncp,6420.0,Servicios de telecomunicaciones,619,Outras atividades de telecomunicacoes
+,,7210.0,Servicios de consultores en equipo de informática ,620,Atividades dos servicos de tecnologia da informacao
+,,7220.0,Servicios de consultores en informática y suministros de programas de informática,,
+,,,,,
+631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7230.0,Procesamiento de datos ,631,"Tratamento de dados, hospedagem na internet e outras atividades relacionadas"
+631.0,"Procesamiento De Datos,  Hospedaje Y Actividades Conexas; Portales Web",7240.0,Servicios relacionados con bases de datos ,631,"Tratamento de dados, hospedagem na internet e outras atividades relacionadas"
+951.0,Reparación Y Mantenimiento De Equipos Informáticos Y Equipos De Comunicación,7250.0,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",951,Reparacao e manutencao de equipamentos de informatica e comunicacao
+951.0,Reparación Y Mantenimiento De Equipos Informáticos Y Equipos De Comunicación,7290.0,Actividades de informática n.c.p.,639,Outras atividades de prestacao de servicos de informacao
+641.0,Intermediación Monetaria,,,642,Intermediacao monetaria - depositos a vista
 642.0,Servicios De Sociedades De Cartera,6521.0,Servicios de las entidades financieras bancarias,,
 642.0,Servicios De Sociedades De Cartera,6522.0,Servicios de las entidades financieras no bancarias,,
-643.0,Fondos Y Sociedades De Inversión Y Entidades Financieras Similares,6522.0,Servicios de las entidades financieras no bancarias,,
-649.0,Servicios Financieros Excepto Los De La Banca Central Y Las Entidades Financieras,6590.0,Servicios financieros excepto los de la banca central y las entidades financieras,,
-651.0,Servicios De Seguros,6610.0,Servicios de seguros ,,
+643.0,Fondos Y Sociedades De Inversión Y Entidades Financieras Similares,,,647,Fundos de investimento
+649.0,Servicios Financieros Excepto Los De La Banca Central Y Las Entidades Financieras,6590.0,Servicios financieros excepto los de la banca central y las entidades financieras,649,Atividades de servicos financeiros nao especificadas anteriormente
+651.0,Servicios De Seguros,6610.0,Servicios de seguros ,651,Seguros de vida e nao-vida
+651.0,Servicios De Seguros,6610.0,Servicios de seguros ,652,Seguros-saude
 653.0,Administración De Fondos De Pensiones,6620.0,Administración de fondos de jubilaciones y pensiones (AFJP),,
-652.0,Reaseguros,6620.0,Administración de fondos de jubilaciones y pensiones (AFJP),,
-661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6711.0,Servicios de administración de mercados financieros,,
-661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6712.0,Servicios bursátiles de mediación o por cuenta de terceros,,
-661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6719.0,"Servicios auxiliares a la actividad financiera n.c.p., excepto a los servicios de seguros y de administración de fondos de jubilaciones y pensiones",,
-662.0,Servicios Auxiliares A Los Servicios De Seguros,6721.0,Servicios auxiliares a los servicios de seguros ,,
-662.0,Servicios Auxiliares A Los Servicios De Seguros,6722.0,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,,
-663.0,Servicios De Gestión De Fondos A Cambio De Una Retribución O Por Contrata,6722.0,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,,
-681.0,"Servicios Inmobiliarios Realizados Por Cuenta Propia, Con Bienes Propios O Arrendados",7010.0,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados",,
-682.0,Servicios Inmobiliarios Realizados A Cambio De Una Retribución O Por Contrata,7020.0,Servicios inmobiliarios realizados a cambio de un retribución o por contrata,,
+652.0,Reaseguros,,,653,Resseguros
+661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6711.0,Servicios de administración de mercados financieros,661,Atividades auxiliares dos servicos financeiros
+661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6712.0,Servicios bursátiles de mediación o por cuenta de terceros,661,Atividades auxiliares dos servicos financeiros
+661.0,"Servicios Auxiliares A La Actividad Financiera, Excepto A Los Servicios De Seguros",6719.0,"Servicios auxiliares a la actividad financiera n.c.p., excepto a los servicios de seguros y de administración de fondos de jubilaciones y pensiones",661,Atividades auxiliares dos servicos financeiros
+662.0,Servicios Auxiliares A Los Servicios De Seguros,6721.0,Servicios auxiliares a los servicios de seguros ,662,"Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude"
+662.0,Servicios Auxiliares A Los Servicios De Seguros,6722.0,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,662,"Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude"
+663.0,Servicios De Gestión De Fondos A Cambio De Una Retribución O Por Contrata,6722.0,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,662,"Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude"
+681.0,"Servicios Inmobiliarios Realizados Por Cuenta Propia, Con Bienes Propios O Arrendados",7010.0,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados",681,Atividades imobiliarias de imoveis proprios
+682.0,Servicios Inmobiliarios Realizados A Cambio De Una Retribución O Por Contrata,7020.0,Servicios inmobiliarios realizados a cambio de un retribución o por contrata,682,Atividades imobiliarias por contrato ou comissao
 771.0,Alquiler De Vehículos Automotores Y Equipo De Transporte Sin Conductor Ni Operarios,7111.0,"Alquiler de equipo de transporte para vía terrestre, sin operarios ",,
 771.0,Alquiler De Vehículos Automotores Y Equipo De Transporte Sin Conductor Ni Operarios,7112.0,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación ",,
 771.0,Alquiler De Vehículos Automotores Y Equipo De Transporte Sin Conductor Ni Operarios,7113.0,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",,
 772.0,Alquiler De Efectos Personales Y Enseres Domésticos,7120.0,Alquiler de maquinaria y equipo n.c.p.,,
 774.0,Arrendamiento Y Gestión De Bienes Intangibles No Financieros,7130.0,Alquiler de efectos personales y enseres domésticos n.c.p.,,
-721.0,Investigación Y Desarrollo Experimental En El Campo De La Ingeniería Y De Las Ciencias Exactas Y Naturales,7300.0,Investigación y desarrollo,,
-722.0,Investigación  Y Desarrollo Experimental En El Campo De Las Ciencias Sociales Y Las Humanidades,7300.0,Investigación y desarrollo,,
-691.0,Servicios Jurídicos,7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",,
-692.0,"Servicios De Contabilidad, Auditoría Y Asesoría Fiscal",7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",,
-732.0,"Estudio De Mercado, Realización De Encuestas De Opinión Pública",7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",,
-712.0,Ensayos Y Análisis Técnicos,7422.0,Ensayos y análisis técnicos,,
-702.0,"Servicios De Asesoramiento, Dirección Y Gestión Empresarial",7430.0,Servicios de publicidad,,
-829.0,Servicios Empresariales Ncp,7430.0,Servicios de publicidad,,
-780.0,Obtención Y Dotación De Personal,7491.0,Obtención y dotación de personal,,
+721.0,Investigación Y Desarrollo Experimental En El Campo De La Ingeniería Y De Las Ciencias Exactas Y Naturales,7300.0,Investigación y desarrollo,721,Pesquisa e desenvolvimento experimental em ciencias fisicas e naturais
+722.0,Investigación  Y Desarrollo Experimental En El Campo De Las Ciencias Sociales Y Las Humanidades,7300.0,Investigación y desarrollo,722,Pesquisa e desenvolvimento experimental em ciencias sociais e humanas
+691.0,Servicios Jurídicos,7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",691,Atividades juridicas
+692.0,"Servicios De Contabilidad, Auditoría Y Asesoría Fiscal",7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",692,"Atividades de contabilidade, consultoria e auditoria contabil e tributaria"
+732.0,"Estudio De Mercado, Realización De Encuestas De Opinión Pública",7410.0,"Servicios jurídicos y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercados y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión ",732,Pesquisas de mercado e de opiniao publica
+712.0,Ensayos Y Análisis Técnicos,7422.0,Ensayos y análisis técnicos,712,Testes e analises tecnicas
+702.0,"Servicios De Asesoramiento, Dirección Y Gestión Empresarial",7430.0,Servicios de publicidad,731,Publicidade
+829.0,Servicios Empresariales Ncp,,,731,Publicidade
+780.0,Obtención Y Dotación De Personal,7491.0,Obtención y dotación de personal,781,Selecao e agenciamento de mao-de-obra
+780.0,Obtención Y Dotación De Personal,7500.0,Agencias de empleo temporario,782,Locacao de mao-de-obra temporaria
+780.0,Obtención Y Dotación De Personal,7491.0,Obtención y dotación de personal,783,Fornecimento e gestao de recursos humanos para terceiros
+,,,,,
 801.0,Servicios De Seguridad E Investigación,7492.0,Servicios de investigación y seguridad,,
 811.0,Servicios De Seguridad E Investigación,7492.0,Servicios de investigación y seguridad,,
-812.0,Servicios De Limpieza De Edificios,7493.0,Servicios de limpieza de edificios ,,
-812.0,Servicio Combinado De Apoyo A Edificios,7493.0,Servicios de limpieza de edificios ,,
-813.0,Servicios De Jardinería Y Mantenimiento De Espacios Verdes,7493.0,Servicios de limpieza de edificios ,,
-741.0,Servicios De Diseño Especializado,7493.0,Servicios de limpieza de edificios ,,
-742.0,Servicios De Fotografía,7494.0,Servicios de fotografía ,,
-749.0,"Actividades Profesionales, Científicas Y Técnicas Ncp",7494.0,Servicios de fotografía ,,
-821.0,Servicios De Apoyo A La Administración De Oficinas Y Empresas,7494.0,Servicios de fotografía ,,
+812.0,Servicios De Limpieza De Edificios,7493.0,Servicios de limpieza de edificios ,812,Atividades de limpeza
+812.0,Servicio Combinado De Apoyo A Edificios,7493.0,Servicios de limpieza de edificios ,811,Servicos combinados para apoio a edificios
+813.0,Servicios De Jardinería Y Mantenimiento De Espacios Verdes,,,,
+741.0,Servicios De Diseño Especializado,,,741,Design e decoracao de interiores
+742.0,Servicios De Fotografía,7494.0,Servicios de fotografía ,742,Atividades fotograficas e similares
+749.0,"Actividades Profesionales, Científicas Y Técnicas Ncp",,,749,"Atividades profissionais, cientificas e tecnicas nao especificadas anteriormente"
+,,,,,
 821.0,Servicios De Apoyo A La Administración De Oficinas Y Empresas,7496.0,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones ",,
-822.0,Servicios De Call Center,7496.0,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones ",,
-823.0,"Servicios De Organización De Convenciones Y Exposiciones Comerciales, Excepto Culturales Y Deportivos",7496.0,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones ",,
-823.0,"Servicios De Organización De Convenciones Y Exposiciones Comerciales, Excepto Culturales Y Deportivos",7499.0,Servicios empresariales n.c.p.,,
+822.0,Servicios De Call Center,,,,
+823.0,"Servicios De Organización De Convenciones Y Exposiciones Comerciales, Excepto Culturales Y Deportivos",,,,
+,,7499.0,Servicios empresariales n.c.p.,,
 823.0,"Servicios De Organización De Convenciones Y Exposiciones Comerciales, Excepto Culturales Y Deportivos",7495.0,Servicios de envase y empaque ,,
-841.0,Servicios De La Administración Pública,7500.0,Agencias de empleo temporario,,
-842.0,Prestación Pública De Servicios A La Comunidad En General,7500.0,Agencias de empleo temporario,,
-843.0,"Servicios De La Seguridad Social Obligatoria, Excepto Obras Sociales",7500.0,Agencias de empleo temporario,,
-851.0,Enseñanza Inicial Y Primaria,8000.0,Enseñanza,,
-852.0,Enseñanza Secundaria,8000.0,Enseñanza,,
-853.0,Enseñanza Superior Y Formación De Posgrado,8000.0,Enseñanza,,
-854.0,Servicios De Enseñanza Ncp,8000.0,Enseñanza,,
-855.0,Servicios De Apoyo A La Educación,8000.0,Enseñanza,,
-861.0,Servicios De Hospitales,8510.0,Servicios relacionados con la salud humana,,
-862.0,Servicios De Atención Ambulatoria Realizados Por Médicos Y Odontólogos,8510.0,Servicios relacionados con la salud humana,,
-863.0,"Servicios De Prácticas De Diagnóstico Y Tratamiento; Servicios Integrados De Consulta, Diagnóstico Y Tratamiento",8510.0,Servicios relacionados con la salud humana,,
-864.0,Servicios De Emergencias Y Traslados,8510.0,Servicios relacionados con la salud humana,,
+,,,,,
+,,,,,
+,,,,,
+841.0,Servicios De La Administración Pública,,,,
+842.0,Prestación Pública De Servicios A La Comunidad En General,,,,
+843.0,"Servicios De La Seguridad Social Obligatoria, Excepto Obras Sociales",,,,
+851.0,Enseñanza Inicial Y Primaria,8000.0,Enseñanza,851,Educacao infantil e ensino fundamental
+852.0,Enseñanza Secundaria,8000.0,Enseñanza,852,Ensino medio
+853.0,Enseñanza Superior Y Formación De Posgrado,8000.0,Enseñanza,853,Educacao superior
+854.0,Servicios De Enseñanza Ncp,8000.0,Enseñanza,859,Outras atividades de ensino
+855.0,Servicios De Apoyo A La Educación,8000.0,Enseñanza,855,Atividades de apoio a educacao
+861.0,Servicios De Hospitales,8510.0,Servicios relacionados con la salud humana,861,Atividades de atendimento hospitalar
+862.0,Servicios De Atención Ambulatoria Realizados Por Médicos Y Odontólogos,8510.0,Servicios relacionados con la salud humana,862,Servicos moveis de atendimento a urgencias e de remocao de pacientes
+863.0,"Servicios De Prácticas De Diagnóstico Y Tratamiento; Servicios Integrados De Consulta, Diagnóstico Y Tratamiento",8510.0,Servicios relacionados con la salud humana,864,Atividades de servicos de complementacao diagnostica e terapeutica
+864.0,Servicios De Emergencias Y Traslados,8510.0,Servicios relacionados con la salud humana,863,Atividades de atencao ambulatorial executadas por medicos e odontologos
 869.0,Servicios Relacionados Con La Salud Humana Ncp,8510.0,Servicios relacionados con la salud humana,,
-750.0,Servicios Veterinarios,8520.0,Servicios veterinarios,,
+750.0,Servicios Veterinarios,8520.0,Servicios veterinarios,750,Atividades veterinarias
 870.0,Servicios Sociales Con Alojamiento,8530.0,Servicios sociales,,
-880.0,Servicios Sociales Sin Alojamiento,8530.0,Servicios sociales,,
+880.0,Servicios Sociales Sin Alojamiento,8530.0,Servicios sociales,880,Servicos de assistencia social sem alojamento
 863.0,"Servicios De Prácticas De Diagnóstico Y Tratamiento; Servicios Integrados De Consulta, Diagnóstico Y Tratamiento",8530.0,Servicios sociales,,
 869.0,Servicios Relacionados Con La Salud Humana Ncp,8530.0,Servicios sociales,,
-750.0,Servicios Veterinarios,8530.0,Servicios sociales,,
-370.0,"Servicios De Depuración De Aguas Residuales, Alcantarillado Y Cloacas",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,
-381.0,"Recolección, Transporte, Tratamiento Y Disposición Final De Residuos",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,
-382.0,Recuperación De Materiales Y Deshechos,9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,
-390.0,Descontaminación Y Otros Servicios De Gestión De Residuos,9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,
-941.0,"Servicios De Organizaciones Empresariales, Profesionales Y De Empleadores",9100.0,Servicios de asociaciones n.c.p.,,
-942.0,Servicios De Sindicatos,9100.0,Servicios de asociaciones n.c.p.,,
-949.0,Servicios De Asociaciones Ncp,9100.0,Servicios de asociaciones n.c.p.,,
-900.0,Servicios Artísticos Y De Espectáculos,9100.0,Servicios de asociaciones n.c.p.,,
+370.0,"Servicios De Depuración De Aguas Residuales, Alcantarillado Y Cloacas",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",360,"Captacao, tratamento e distribuicao de agua"
+370.0,"Servicios De Depuración De Aguas Residuales, Alcantarillado Y Cloacas",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",370,Esgoto e atividades relacionadas
+381.0,"Recolección, Transporte, Tratamiento Y Disposición Final De Residuos",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",381,Coleta de residuos
+381.0,"Recolección, Transporte, Tratamiento Y Disposición Final De Residuos",9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",382,Tratamento e disposicao de residuos
+382.0,Recuperación De Materiales Y Deshechos,9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",383,Recuperacao de materiais
+390.0,Descontaminación Y Otros Servicios De Gestión De Residuos,9000.0,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",390,Descontaminacao e outros servicos de gestao de residuos
+941.0,"Servicios De Organizaciones Empresariales, Profesionales Y De Empleadores",9100.0,Servicios de asociaciones n.c.p.,941,"Atividades de organizacoes associativas patronais, empresariais e profissionais"
+942.0,Servicios De Sindicatos,9100.0,Servicios de asociaciones n.c.p.,942,Atividades de organizacoes sindicais
+949.0,Servicios De Asociaciones Ncp,9100.0,Servicios de asociaciones n.c.p.,949,Atividades de organizacoes associativas nao especificadas anteriormente
+900.0,Servicios Artísticos Y De Espectáculos,,,,
 900.0,Servicios Artísticos Y De Espectáculos,9214.0,Servicios teatrales y musicales y servicios artísticos n.c.p.,,
 900.0,Servicios Artísticos Y De Espectáculos,9219.0,Servicios de espectáculos artísticos y de diversión  n.c.p.,,
 639.0,Servicios De Agencias De Noticias Y Servicios De Información Ncp,9220.0,Servicios de agencias de noticias,,
 910.0,"Servicios De Bibliotecas, Archivos Y Museos Y  Servicios Culturales Ncp",9230.0,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.",,
-920.0,Servicios  Relacionados Con Juegos De Azar Y Apuestas,9230.0,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.",,
+920.0,Servicios  Relacionados Con Juegos De Azar Y Apuestas,,,920,Atividades de exploracao de jogos de azar e apostas
 931.0,Servicios Para La Práctica Deportiva,9241.0,Servicios para prácticas deportivas,,
 939.0,Servicios De Esparcimiento Ncp,9249.0,Servicios de esparcimiento n.c.p.,,
 960.0,Servicios Personales Ncp,9301.0,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco",,
 960.0,Servicios Personales Ncp,9302.0,Servicios de peluquería y  tratamientos de belleza,,
 960.0,Servicios Personales Ncp,9303.0,Pompas fúnebres y servicios conexos,,
-960.0,Servicios Personales Ncp,9309.0,Servicios n.c.p.,,
-970.0,Actividades De Empleo Doméstico,9309.0,Servicios n.c.p.,,
-990.0,Actividades De Organismos Extraterritoriales,9309.0,Servicios n.c.p.,,
+960.0,Servicios Personales Ncp,9309.0,Servicios n.c.p.,960,Outras atividades de servicos pessoais
+970.0,Actividades De Empleo Doméstico,,,970,Servicos domesticos
+990.0,Actividades De Organismos Extraterritoriales,,,990,Organismos internacionais e outras instituicoes extraterritoriais
+,,,,108,Torrefacao e moagem de cafe
+,,,,132,"Tecelagem, exceto malha"
+,,,,133,Fabricacao de tecidos de malha
+,,,,134,"Acabamentos em fios, tecidos e artefatos texteis"
+,,,,135,"Fabricacao de artefatos texteis, exceto vestuario"
+,,,,142,Fabricacao de artigos de malharia e tricotagem
+,,,,174,"Fabricacao de produtos diversos de papel, cartolina, papel-cartao e papelao ondulado"
+,,,,181,Atividade de impressao
+,,,,182,Servicos de pre-impressao e acabamentos graficos
+,,,,183,Reproducao de materiais gravados em qualquer suporte
+,,,,193,Fabricacao de biocombustiveis
+,,,,201,Fabricacao de produtos quimicos inorganicos
+,,,,203,Fabricacao de resinas e elastomeros
+,,,,211,Fabricacao de produtos farmoquimicos
+,,,,212,Fabricacao de produtos farmaceuticos
+,,,,241,Producao de ferro-gusa e de ferroligas
+,,,,411,Incorporacao de empreendimentos imobiliarios
+,,,,453,Comercio de pecas e acessorios para veiculos automotores
+,,,,461,"Representantes comerciais e agentes do comercio, exceto de veiculos automotores e motocicletas"
+,,,,465,Comercio atacadista de equipamentos e produtos de tecnologias de informacao e comunicacao
+,,,,476,"Comercio varejista de artigos culturais, recreativos e esportivos"
+,,,,495,"Trens turisticos, telefericos e similares"
+,,,,503,Navegacao de apoio
+,,,,509,Outros transportes aquaviarios
+,,,,513,Transporte espacial
+,,,,532,Atividades de malote e de entrega
+,,,,614,Operadoras de televisao por assinatura
+,,,,641,Banco central
+,,,,643,Intermediacao nao-monetaria - outros instrumentos de captacao
+,,,,644,Arrendamento mercantil
+,,,,645,Sociedades de capitalizacao
+,,,,646,Atividades de sociedades de participacao
+,,,,654,Previdencia complementar
+,,,,655,Planos de saude
+,,,,663,Atividades de administracao de fundos por contrato ou comissao
+,,,,701,Sedes de empresas e unidades administrativas locais
+,,,,702,Atividades de consultoria em gestao empresarial
+,,,,711,Servicos de arquitetura e engenharia e atividades tecnicas relacionadas
+,,,,771,Locacao de meios de transporte sem condutor
+,,,,772,Aluguel de objetos pessoais e domesticos
+,,,,773,Aluguel de maquinas e equipamentos sem operador
+,,,,774,Gestao de ativos intangiveis nao-financeiros
+,,,,799,Servicos de reservas e outros servicos de turismo nao especificados anteriormente
+,,,,801,"Atividades de vigilancia, seguranca privada e transporte de valores"
+,,,,802,Atividades de monitoramento de sistemas de seguranca
+,,,,803,Atividades de investigacao particular
+,,,,813,Atividades paisagisticas
+,,,,821,Servicos de escritorio e apoio administrativo
+,,,,822,Atividades de teleatendimento
+,,,,823,"Atividades de organizacao de eventos, exceto culturais e esportivos"
+,,,,829,Outras atividades de servicos prestados principalmente as empresas
+,,,,841,Administracao do estado e da politica economica e social
+,,,,842,Servicos coletivos prestados pela administracao publica
+,,,,843,Seguridade social obrigatoria
+,,,,854,Educacao profissional de nivel tecnico e tecnologico
+,,,,865,"Atividades de profissionais da area de saude, exceto medicos e odontologos"
+,,,,866,Atividades de apoio a gestao de saude
+,,,,869,Atividades de atencao a saude humana nao especificadas anteriormente
+,,,,871,"Atividades de assistencia a idosos, deficientes fisicos, imunodeprimidos e convalescentes, e de infra-estrutura e apoio a pacientes prestadas em residencias coletivas e particulares"
+,,,,872,"Atividades de assistencia psicossocial e a saude a portadores de disturbios psiquicos, deficiencia mental e dependencia quimica"
+,,,,873,Atividades de assistencia social prestadas em residencias coletivas e particulares
+,,,,900,"Atividades artisticas, criativas e de espetaculos"
+,,,,910,Atividades ligadas ao patrimonio cultural e ambiental
+,,,,931,Atividades esportivas
+,,,,932,Atividades de recreacao e lazer
+,,,,943,Atividades de associacoes de defesa de direitos sociais
