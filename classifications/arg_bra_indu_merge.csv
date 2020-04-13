@@ -1,0 +1,293 @@
+CNAE ID CNG,CNAE label CNG,annual_avg_emplvl,CLAE 3,Descripción CLAE 3,annual_avg_emplvl
+0,SIN ASIGNAR,,0,SIN ASIGNAR,2.32
+11,Producao de lavouras temporarias,0.85,11,CULTIVOS TEMPORALES,2.57
+12,Horticultura e floricultura,0.09,11,CULTIVOS TEMPORALES,2.57
+13,Producao de lavouras permanentes,0.55,12,CULTIVOS PERENNES,1.84
+14,Producao de sementes e mudas certificadas,0.03,13,PRODUCCIÓN DE SEMILLAS Y DE OTRAS FORMAS DE PROPAGACIÓN DE CULTIVOS AGRÍCOLAS,0.1
+15,Pecuaria,1.03,14,CRÍA DE ANIMALES,1.95
+16,Atividades de apoio a agricultura e a pecuaria; atividades de pos-colheita,0.28,16,SERVICIOS DE APOYO AGRÍCOLAS Y PECUARIOS,1.16
+17,Caca e servicos relacionados,0.0,17,"CAZA, REPOBLACIÓN DE ANIMALES DE CAZA Y SERVICIOS DE APOYO",0.0
+21,Producao florestal - florestas plantadas,0.14,21,SILVICULTURA,0.02
+22,Producao florestal - florestas nativas,0.02,22,EXTRACCIÓN DE PRODUCTOS FORESTALES,0.09
+23,Atividades de apoio a producao florestal,0.09,24,SERVICIOS DE APOYO A LA SILVICULTURA,0.09
+31,Pesca,0.02,31,PESCA Y SERVICIOS DE APOYO,0.24
+32,Aquicultura,0.02,32,"EXPLOTACIÓN DE CRIADEROS DE PECES, GRANJAS PISCÍCOLAS Y OTROS FRUTOS ACUÁTICOS (ACUICULTURA)",0.0
+50,Extracao de carvao mineral,0.01,51,EXTRACCIÓN Y AGLOMERACIÓN DE CARBÓN,0.0
+60,Extracao de petroleo e gas natural,0.07,61,EXTRACCIÓN DE PETRÓLEO CRUDO,0.0
+60,Extracao de petroleo e gas natural,0.07,62,EXTRACCIÓN DE GAS NATURAL,0.0
+71,Extracao de minerio de ferro,0.11,71,EXTRACCIÓN DE MINERALES DE HIERRO,0.0
+72,Extracao de minerais metalicos nao-ferrosos,0.07,72,EXTRACCIÓN DE MINERALES METALÍFEROS NO FERROSOS,0.04
+81,"Extracao de pedra, areia e argila",0.15,81,"EXTRACCIÓN DE PIEDRA, ARENA Y ARCILLAS",0.09
+89,Extracao de outros minerais nao-metalicos,0.05,89,EXPLOTACIÓN DE MINAS Y CANTERAS NCP,0.05
+91,Atividades de apoio a extracao de petroleo e gas natural,0.06,91,SERVICIOS DE APOYO PARA LA EXTRACCIÓN DE PETRÓLEO Y GAS NATURAL,0.37
+99,"Atividades de apoio a extracao de minerais, exceto petroleo e gas natural",0.01,99,"SERVICIOS DE APOYO PARA LA MINERÍA, EXCEPTO PARA LA EXTRACCIÓN DE PETRÓLEO Y GAS NATURAL",0.01
+101,Abate e fabricacao de produtos de carne,0.89,101,"PRODUCCIÓN Y PROCESAMIENTO DE CARNE Y PRODUCTOS CÁRNICOS, EXCEPTO PESCADO",1.18
+102,Preservacao do pescado e fabricacao de produtos do pescado,0.03,102,ELABORACIÓN DE PESCADO Y PRODUCTOS DE PESCADO,0.18
+103,"Fabricacao de conservas de frutas, legumes e outros vegetais",0.1,103,"PREPARACIÓN DE FRUTAS, HORTALIZAS Y LEGUMBRES",0.33
+104,Fabricacao de oleos e gorduras vegetais e animais,0.07,104,ELABORACIÓN DE ACEITES Y GRASAS DE ORIGEN VEGETAL,0.12
+105,Laticinios,0.25,105,ELABORACIÓN DE PRODUCTOS LÁCTEOS,0.58
+106,"Moagem, fabricacao de produtos amilaceos e de alimentos para animais",0.27,108,ELABORACIÓN DE ALIMENTOS PREPARADOS PARA ANIMALES,0.08
+107,Fabricacao e refino de acucar,0.68,106,"ELABORACIÓN DE PRODUCTOS DE MOLINERÍA, ALMIDONES Y PRODUCTOS DERIVADOS DEL ALMIDÓN",0.15
+108,Torrefacao e moagem de cafe,0.04,107,ELABORACIÓN DE PRODUCTOS ALIMENTICIOS NCP,2.53
+109,Fabricacao de outros produtos alimenticios,0.75,107,ELABORACIÓN DE PRODUCTOS ALIMENTICIOS NCP,2.53
+111,Fabricacao de bebidas alcoolicas,0.12,110,ELABORACIÓN DE BEBIDAS,1.18
+112,Fabricacao de bebidas nao-alcoolicas,0.17,110,ELABORACIÓN DE BEBIDAS,1.18
+121,Processamento industrial do fumo,0.01,120,ELABORACIÓN DE PRODUCTOS DE TABACO,0.0
+122,Fabricacao de produtos do fumo,0.02,120,ELABORACIÓN DE PRODUCTOS DE TABACO,0.0
+131,Preparacao e fiacao de fibras texteis,0.11,131,"FABRICACIÓN DE HILADOS Y TEJIDOS, ACABADO DE PRODUCTOS TEXTILES",0.45
+132,"Tecelagem, exceto malha",0.12,131,"FABRICACIÓN DE HILADOS Y TEJIDOS, ACABADO DE PRODUCTOS TEXTILES",0.45
+133,Fabricacao de tecidos de malha,0.05,131,"FABRICACIÓN DE HILADOS Y TEJIDOS, ACABADO DE PRODUCTOS TEXTILES",0.45
+134,"Acabamentos em fios, tecidos e artefatos texteis",0.09,131,"FABRICACIÓN DE HILADOS Y TEJIDOS, ACABADO DE PRODUCTOS TEXTILES",0.45
+135,"Fabricacao de artefatos texteis, exceto vestuario",0.25,139,FABRICACIÓN DE PRODUCTOS TEXTILES NCP,0.41
+141,Confeccao de artigos do vestuario e acessorios,1.37,141,"CONFECCIÓN DE PRENDAS DE VESTIR, EXCEPTO PRENDAS DE PIEL",0.56
+141,Confeccao de artigos do vestuario e acessorios,1.37,142,TERMINACIÓN Y TEÑIDO DE PIELES; FABRICACIÓN DE ARTÍCULOS DE PIEL,0.0
+142,Fabricacao de artigos de malharia e tricotagem,0.07,143,FABRICACIÓN DE PRENDAS DE VESTIR DE PUNTO,0.06
+142,Fabricacao de artigos de malharia e tricotagem,0.07,149,SERVICIOS INDUSTRIALES PARA LA INDUSTRIA CONFECCIONISTA,0.0
+151,Curtimento e outras preparacoes de couro,0.08,151,CURTIDO Y TERMINACIÓN DE CUEROS; FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA Y TALABARTERÍA,0.15
+152,Fabricacao de artigos para viagem e de artefatos diversos de couro,0.06,151,CURTIDO Y TERMINACIÓN DE CUEROS; FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA Y TALABARTERÍA,0.15
+153,Fabricacao de calcados,0.64,152,FABRICACIÓN DE CALZADO Y DE SUS PARTES,0.43
+154,"Fabricacao de partes para calcados, de qualquer material",0.05,152,FABRICACIÓN DE CALZADO Y DE SUS PARTES,0.43
+161,Desdobramento de madeira,0.17,161,ASERRADO Y CEPILLADO DE MADERA,0.28
+162,"Fabricacao de produtos de madeira, cortica e material trancado, exceto moveis",0.24,162,"FABRICACIÓN DE PRODUCTOS DE MADERA, CORCHO, PAJA Y MATERIALES TRENZABLES",0.33
+171,Fabricacao de celulose e outras pastas para a fabricacao de papel,0.03,170,FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL,0.58
+172,"Fabricacao de papel, cartolina e papel-cartao",0.08,170,FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL,0.58
+173,"Fabricacao de embalagens de papel, cartolina, papel-cartao e papelao ondulado",0.14,170,FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL,0.58
+174,"Fabricacao de produtos diversos de papel, cartolina, papel-cartao e papelao ondulado",0.12,170,FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL,0.58
+181,Atividade de impressao,0.18,181,IMPRESIÓN Y SERVICIOS RELACIONADOS CON LA IMPRESIÓN,0.4
+182,Servicos de pre-impressao e acabamentos graficos,0.07,181,IMPRESIÓN Y SERVICIOS RELACIONADOS CON LA IMPRESIÓN,0.4
+183,Reproducao de materiais gravados em qualquer suporte,0.01,182,REPRODUCCIÓN DE GRABACIONES,0.0
+191,Coquerias,0.0,191,FABRICACIÓN DE PRODUCTOS DE HORNOS DE COQUE,0.0
+192,Fabricacao de produtos derivados do petroleo,0.08,192,FABRICACIÓN DE PRODUCTOS DE LA REFINACIÓN DEL PETRÓLEO,0.01
+193,Fabricacao de biocombustiveis,0.25,193,Fabricacao de biocombustiveis,0.25
+201,Fabricacao de produtos quimicos inorganicos,0.09,201,FABRICACIÓN DE SUSTANCIAS QUÍMICAS BÁSICAS,0.15
+202,Fabricacao de produtos quimicos organicos,0.04,201,FABRICACIÓN DE SUSTANCIAS QUÍMICAS BÁSICAS,0.15
+203,Fabricacao de resinas e elastomeros,0.02,202,FABRICACIÓN DE PRODUCTOS QUÍMICOS NCP,0.94
+204,Fabricacao de fibras artificiais e sinteticas,0.01,203,FABRICACIÓN DE FIBRAS MANUFACTURADAS,0.0
+205,Fabricacao de defensivos agricolas e desinfestantes domissanitarios,0.02,202,FABRICACIÓN DE PRODUCTOS QUÍMICOS NCP,0.94
+206,"Fabricacao de saboes, detergentes, produtos de limpeza, cosmeticos, produtos de perfumaria e de higiene pessoal",0.18,202,FABRICACIÓN DE PRODUCTOS QUÍMICOS NCP,0.94
+207,"Fabricacao de tintas, vernizes, esmaltes, lacas e produtos afins",0.07,202,FABRICACIÓN DE PRODUCTOS QUÍMICOS NCP,0.94
+209,Fabricacao de produtos e preparados quimicos diversos,0.14,202,FABRICACIÓN DE PRODUCTOS QUÍMICOS NCP,0.94
+211,Fabricacao de produtos farmoquimicos,0.01,210,"FABRICACIÓN DE PRODUCTOS FARMACEÚTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACEÚTICO",0.32
+212,Fabricacao de produtos farmaceuticos,0.19,210,"FABRICACIÓN DE PRODUCTOS FARMACEÚTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACEÚTICO",0.32
+221,Fabricacao de produtos de borracha,0.21,221,FABRICACIÓN DE PRODUCTOS DE CAUCHO,0.2
+222,Fabricacao de produtos de material plastico,0.73,222,FABRICACIÓN DE PRODUCTOS DE PLÁSTICO,1.15
+231,Fabricacao de vidro e de produtos do vidro,0.09,231,FABRICACIÓN DE VIDRIO Y PRODUCTOS DE VIDRIO,0.15
+232,Fabricacao de cimento,0.04,239,FABRICACIÓN DE PRODUCTOS MINERALES NO METÁLICOS NCP,0.75
+233,"Fabricacao de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",0.27,239,FABRICACIÓN DE PRODUCTOS MINERALES NO METÁLICOS NCP,0.75
+234,Fabricacao de produtos ceramicos,0.37,239,FABRICACIÓN DE PRODUCTOS MINERALES NO METÁLICOS NCP,0.75
+239,Aparelhamento de pedras e fabricacao de outros produtos de minerais nao-metalicos,0.17,239,FABRICACIÓN DE PRODUCTOS MINERALES NO METÁLICOS NCP,0.75
+241,Producao de ferro-gusa e de ferroligas,0.04,241,INDUSTRIAS BÁSICAS DE HIERRO Y ACERO,0.24
+242,Siderurgia,0.18,241,INDUSTRIAS BÁSICAS DE HIERRO Y ACERO,0.24
+243,"Producao de tubos de aco, exceto tubos sem costura",0.03,241,INDUSTRIAS BÁSICAS DE HIERRO Y ACERO,0.24
+244,Metalurgia dos metais nao-ferrosos,0.1,242,FABRICACIÓN DE PRODUCTOS PRIMARIOS DE METALES PRECIOSOS Y METALES NO FERROSOS,0.03
+245,Fundicao,0.15,243,FUNDICIÓN DE METALES,0.15
+251,Fabricacao de estruturas metalicas e obras de caldeiraria pesada,0.32,251,"FABRICACIÓN DE PRODUCTOS METÁLICOS PARA USO ESTRUCTURAL, TANQUES, DEPÓSITOS Y GENERADORES DE VAPOR",0.65
+252,"Fabricacao de tanques, reservatorios metalicos e caldeiras",0.03,251,"FABRICACIÓN DE PRODUCTOS METÁLICOS PARA USO ESTRUCTURAL, TANQUES, DEPÓSITOS Y GENERADORES DE VAPOR",0.65
+253,"Forjaria, estamparia, metalurgia do po e servicos de tratamento de metais",0.21,259,FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL NCP; SERVICIOS DE TRABAJO DE METALES,1.47
+254,"Fabricacao de artigos de cutelaria, de serralheria e ferramentas",0.15,259,FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL NCP; SERVICIOS DE TRABAJO DE METALES,1.47
+255,"Fabricacao de equipamento belico pesado, armas de fogo e municoes",0.01,252,FABRICACIÓN DE ARMAS Y MUNICIONES,0.0
+259,Fabricacao de produtos de metal nao especificados anteriormente,0.39,259,FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL NCP; SERVICIOS DE TRABAJO DE METALES,1.47
+261,Fabricacao de componentes eletronicos,0.09,261,FABRICACIÓN DE COMPONENTES ELECTRÓNICOS,0.0
+262,Fabricacao de equipamentos de informatica e perifericos,0.1,262,FABRICACIÓN DE EQUIPOS Y PRODUCTOS INFORMÁTICOS,0.03
+263,Fabricacao de equipamentos de comunicacao,0.06,263,FABRICACIÓN DE EQUIPOS DE COMUNICACIONES Y TRANSMISORES DE RADIO Y TELEVISIÓN,0.02
+264,"Fabricacao de aparelhos de recepcao, reproducao, gravacao e amplificacao de audio e video",0.04,264,"FABRICACIÓN DE RECEPTORES DE RADIO Y TELEVISIÓN, APARATOS DE GRABACIÓN Y REPRODUCCIÓN DE SONIDO Y VIDEO, Y PRODUCTOS CONEXOS",0.06
+265,"Fabricacao de aparelhos e instrumentos de medida, teste e controle; cronometros e relogios",0.06,265,"FABRICACIÓN DE APARATOS E INSTRUMENTOS PARA MEDIR, VERIFICAR, ENSAYAR, NAVEGAR Y OTROS FINES, EXCEPTO INSTRUMENTOS DE ÓPTICA",0.04
+266,Fabricacao de aparelhos eletromedicos e eletroterapeuticos e equipamentos de irradiacao,0.01,266,FABRICACIÓN DE EQUIPO MÉDICO Y QUIRÚRGICO Y DE APARATOS ORTOPÉDICOS,0.05
+267,"Fabricacao de equipamentos e instrumentos opticos, fotograficos e cinematograficos",0.01,267,FABRICACIÓN DE INSTRUMENTOS DE ÓPTICA Y EQUIPO FOTOGRÁFICO,0.01
+268,"Fabricacao de midias virgens, magneticas e opticas",0.0,268,FABRICACIÓN DE SOPORTES ÓPTICOS Y MAGNÉTICOS,0.0
+271,"Fabricacao de geradores, transformadores e motores eletricos",0.09,271,"FABRICACIÓN DE MOTORES, GENERADORES Y TRANSFORMADORES ELÉCTRICOS Y APARATOS DE DISTRIBUCIÓN Y CONTROL DE LA ENERGÍA ELÉCTRICA",0.18
+272,"Fabricacao de pilhas, baterias e acumuladores eletricos",0.02,272,"FABRICACIÓN DE ACUMULADORES, PILAS Y BATERÍAS PRIMARIAS",0.01
+273,Fabricacao de equipamentos para distribuicao e controle de energia eletrica,0.14,273,FABRICACIÓN DE HILOS Y CABLES AISLADOS,0.04
+274,Fabricacao de lampadas e outros equipamentos de iluminacao,0.03,274,FABRICACIÓN DE LÁMPARAS ELÉCTRICAS Y EQUIPO DE ILUMINACIÓN,0.02
+275,Fabricacao de eletrodomesticos,0.12,275,FABRICACIÓN DE APARATOS DE USO DOMÉSTICO NCP,0.26
+279,Fabricacao de equipamentos e aparelhos eletricos nao especificados anteriormente,0.07,279,FABRICACIÓN DE EQUIPO ELÉCTRICO NCP,0.08
+281,"Fabricacao de motores, bombas, compressores e equipamentos de transmissao",0.12,281,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO GENERAL,0.31
+282,Fabricacao de maquinas e equipamentos de uso geral,0.27,281,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO GENERAL,0.31
+283,Fabricacao de tratores e de maquinas e equipamentos para a agricultura e pecuaria,0.16,282,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO ESPECIAL,0.75
+284,Fabricacao de maquinas-ferramenta,0.04,282,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO ESPECIAL,0.75
+285,Fabricacao de maquinas e equipamentos de uso na extracao mineral e na construcao,0.06,282,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO ESPECIAL,0.75
+286,Fabricacao de maquinas e equipamentos de uso industrial especifico,0.2,282,FABRICACIÓN DE MAQUINARIA Y EQUIPO DE USO ESPECIAL,0.75
+291,"Fabricacao de automoveis, camionetas e utilitarios",0.2,291,FABRICACIÓN DE VEHÍCULOS AUTOMOTORES,0.01
+292,Fabricacao de caminhoes e onibus,0.06,291,FABRICACIÓN DE VEHÍCULOS AUTOMOTORES,0.01
+293,"Fabricacao de cabines, carrocerias e reboques para veiculos automotores",0.13,292,FABRICACIÓN DE CARROCERÍAS PARA VEHÍCULOS AUTOMOTORES; FABRICACIÓN DE REMOLQUES Y SEMIRREMOLQUES,0.11
+294,Fabricacao de pecas e acessorios para veiculos automotores,0.66,293,"FABRICACIÓN DE PARTES, PIEZAS Y ACCESORIOS PARA VEHÍCULOS AUTOMOTORES Y SUS MOTORES",0.92
+295,Recondicionamento e recuperacao de motores para veiculos automotores,0.02,293,"FABRICACIÓN DE PARTES, PIEZAS Y ACCESORIOS PARA VEHÍCULOS AUTOMOTORES Y SUS MOTORES",0.92
+301,Construcao de embarcacoes,0.11,301,CONSTRUCCIÓN Y REPARACIÓN DE BUQUES Y EMBARCACIONES,0.09
+303,Fabricacao de veiculos ferroviarios,0.01,302,FABRICACIÓN Y REPARACIÓN DE LOCOMOTORAS Y DE MATERIAL RODANTE PARA TRANSPORTE FERROVIARIO,0.0
+304,Fabricacao de aeronaves,0.04,303,FABRICACIÓN Y REPARACIÓN DE AERONAVES,0.0
+305,Fabricacao de veiculos militares de combate,0.0,309,FABRICACIÓN DE EQUIPO DE TRANSPORTE NCP,0.04
+309,Fabricacao de equipamentos de transporte nao especificados anteriormente,0.06,309,FABRICACIÓN DE EQUIPO DE TRANSPORTE NCP,0.04
+310,Fabricacao de moveis,0.58,310,FABRICACIÓN DE MUEBLES Y COLCHONES,0.5
+321,"Fabricacao de artigos de joalheria, bijuteria e semelhantes",0.04,321,"FABRICACIÓN DE JOYAS, BIJOUTERIE Y ARTÍCULOS CONEXOS",0.0
+322,Fabricacao de instrumentos musicais,0.0,322,FABRICACIÓN DE INSTRUMENTOS DE MÚSICA,0.0
+323,Fabricacao de artefatos para pesca e esporte,0.01,323,FABRICACIÓN DE ARTÍCULOS DE DEPORTE,0.01
+324,Fabricacao de brinquedos e jogos recreativos,0.03,324,FABRICACIÓN DE JUEGOS Y JUGUETES,0.01
+325,Fabricacao de instrumentos e materiais para uso medico e odontologico e de artigos opticos,0.11,329,INDUSTRIAS MANUFACTURERAS NCP,0.19
+329,Fabricacao de produtos diversos,0.12,329,INDUSTRIAS MANUFACTURERAS NCP,0.19
+331,Manutencao e reparacao de maquinas e equipamentos,0.28,331,REPARACIÓN Y MANTENIMIENTO DE MÁQUINAS Y EQUIPO,0.11
+332,Instalacao de maquinas e equipamentos,0.08,332,INSTALACIÓN DE MAQUINARIA Y EQUIPOS INDUSTRIALES,0.0
+351,"Geracao, transmissao e distribuicao de energia eletrica",0.25,351,"GENERACIÓN, TRANSPORTE Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA",0.39
+352,Producao e distribuicao de combustiveis gasosos por redes urbanas,0.01,352,FABRICACIÓN Y DISTRIBUCIÓN DE GAS Y DE COMBUSTIBLES GASEOSOS POR TUBERÍAS,0.0
+353,"Producao e distribuicao de vapor, agua quente e ar condicionado",0.0,353,SUMINISTRO DE VAPOR Y AIRE ACONDICIONADO,0.0
+360,"Captacao, tratamento e distribuicao de agua",0.27,360,"CAPTACIÓN, DEPURACIÓN Y DISTRIBUCIÓN DE AGUA",0.08
+370,Esgoto e atividades relacionadas,0.04,370,"SERVICIOS DE DEPURACIÓN DE AGUAS RESIDUALES, ALCANTARILLADO Y CLOACAS",0.01
+381,Coleta de residuos,0.26,381,"RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS",0.26
+382,Tratamento e disposicao de residuos,0.07,381,"RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS",0.26
+383,Recuperacao de materiais,0.07,382,RECUPERACIÓN DE MATERIALES Y DESHECHOS,0.04
+390,Descontaminacao e outros servicos de gestao de residuos,0.0,390,DESCONTAMINACIÓN Y OTROS SERVICIOS DE GESTIÓN DE RESIDUOS,0.0
+411,Incorporacao de empreendimentos imobiliarios,0.39,410,CONSTRUCCIÓN DE EDIFICIOS Y SUS PARTES,4.89
+412,Construcao de edificios,2.38,410,CONSTRUCCIÓN DE EDIFICIOS Y SUS PARTES,4.89
+421,"Construcao de rodovias, ferrovias, obras urbanas e obras-de-arte especiais",0.72,421,"CONSTRUCCIÓN, REFORMA Y REPARACIÓN DE OBRAS DE INFRAESTRUCTURA PARA EL TRANSPORTE",0.65
+422,"Obras de infra-estrutura para energia eletrica, telecomunicacoes, agua, esgoto e transporte por dutos",0.47,422,CONSTRUCCIÓN DE PROYECTOS DE SERVICIOS PÚBLICOS,0.69
+429,Construcao de outras obras de infra-estrutura,0.74,429,OBRAS DE INGENIERÍA CIVIL NCP,0.63
+431,Demolicao e preparacao do terreno,0.22,431,"DEMOLICIÓN, MOVIMIENTO Y PREPARACIÓN DE TERRENOS PARA OBRAS",0.22
+432,"Instalacoes eletricas, hidraulicas e outras instalacoes em construcoes",0.57,432,INSTALACIONES PARA EDIFICIOS Y OBRAS DE INGENIERÍA CIVIL,0.73
+433,Obras de acabamento,0.36,433,TERMINACIÓN DE EDIFICIOS,0.2
+439,Outros servicos especializados para construcao,0.42,439,ALQUILER DE EQUIPO DE CONSTRUCCIÓN O DEMOLICIÓN DOTADO DE OPERARIOS Y ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN NCP,0.32
+451,Comercio de veiculos automotores,0.61,451,"VENTA DE VEHÍCULOS AUTOMOTORES, EXCEPTO MOTOCICLETAS",0.85
+452,Manutencao e reparacao de veiculos automotores,0.41,452,"MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES, EXCEPTO MOTOCICLETAS",0.58
+453,Comercio de pecas e acessorios para veiculos automotores,0.91,453,"VENTA DE PARTES, PIEZAS Y ACCESORIOS DE VEHÍCULOS AUTOMOTORES",0.75
+454,"Comercio, manutencao e reparacao de motocicletas, pecas e acessorios",0.19,454,"VENTA, MANTENIMIENTO Y REPARACIÓN DE MOTOCICLETAS Y DE SUS PARTES, PIEZAS Y ACCESORIOS",0.13
+461,"Representantes comerciais e agentes do comercio, exceto de veiculos automotores e motocicletas",0.12,461,VENTA AL POR MAYOR EN COMISIÓN O CONSIGNACIÓN,1.03
+462,Comercio atacadista de materias-primas agricolas e animais vivos,0.14,462,VENTA AL POR MAYOR DE MATERIAS PRIMAS AGROPECUARIAS Y DE ANIMALES VIVOS,0.23
+463,"Comercio atacadista especializado em produtos alimenticios, bebidas e fumo",0.97,463,"VENTA AL POR MAYOR DE ALIMENTOS, BEBIDAS Y TABACO",2.31
+464,Comercio atacadista de produtos de consumo nao-alimentar,0.7,464,VENTA AL POR MAYOR DE ARTÍCULOS DE USO DOMÉSTICO Y/O PERSONAL,1.09
+465,Comercio atacadista de equipamentos e produtos de tecnologias de informacao e comunicacao,0.08,465,"VENTA AL POR MAYOR DE MÁQUINAS, EQUIPO Y MATERIALES CONEXOS",0.63
+466,"Comercio atacadista de maquinas, aparelhos e equipamentos, exceto de tecnologias de informacao e comunicacao",0.25,465,"VENTA AL POR MAYOR DE MÁQUINAS, EQUIPO Y MATERIALES CONEXOS",0.63
+467,"Comercio atacadista de madeira, ferragens, ferramentas, material eletrico e material de construcao",0.24,465,"VENTA AL POR MAYOR DE MÁQUINAS, EQUIPO Y MATERIALES CONEXOS",0.63
+468,Comercio atacadista especializado em outros produtos,0.46,466,VENTA AL POR MAYOR ESPECIALIZADA,1.07
+469,Comercio atacadista nao-especializado,0.28,469,VENTA AL POR MAYOR DE MERCANCÍAS NCP,0.38
+471,Comercio varejista nao-especializado,3.45,471,VENTA AL POR MENOR EN COMERCIOS NO ESPECIALIZADOS,2.9
+472,"Comercio varejista de produtos alimenticios, bebidas e fumo",1.27,472,"VENTA AL POR MENOR DE PRODUCTOS ALIMENTICIOS, BEBIDAS Y TABACO EN COMERCIOS ESPECIALIZADOS",1.71
+473,Comercio varejista de combustiveis para veiculos automotores,0.72,473,VENTA AL POR MENOR DE COMBUSTIBLE PARA VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS,1.23
+474,Comercio varejista de material de construcao,1.66,477,"VENTA AL POR MENOR DE PRODUCTOS NCP, EN COMERCIOS ESPECIALIZADOS",3.8
+475,Comercio varejista de equipamentos de informatica e comunicacao; equipamentos e artigos de uso domestico,1.93,475,VENTA AL POR MENOR DE EQUIPOS DE USO DOMÉSTICO NCP EN COMERCIOS ESPECIALIZADOS,2.71
+475,Comercio varejista de equipamentos de informatica e comunicacao; equipamentos e artigos de uso domestico,1.93,474,"VENTA AL POR MENOR DE EQUIPOS, PERIFÉRICOS, ACCESORIOS Y PROGRAMAS INFORMÁTICOS; EQUIPOS DE TELECOMUNICACIONES EN COMERCIOS ESPECIALIZADOS",0.15
+476,"Comercio varejista de artigos culturais, recreativos e esportivos",0.45,476,VENTA AL POR MENOR DE BIENES CULTURALES Y RECREATIVOS EN COMERCIOS ESPECIALIZADOS,0.47
+477,"Comercio varejista de produtos farmaceuticos, perfumaria e cosmeticos e artigos medicos, opticos e ortopedicos",1.24,477,"VENTA AL POR MENOR DE PRODUCTOS NCP, EN COMERCIOS ESPECIALIZADOS",3.8
+478,Comercio varejista de produtos novos nao especificados anteriormente e de produtos usados,3.15,477,"VENTA AL POR MENOR DE PRODUCTOS NCP, EN COMERCIOS ESPECIALIZADOS",3.8
+478,Comercio varejista de produtos novos nao especificados anteriormente e de produtos usados,3.15,478,VENTA AL POR MENOR EN PUESTOS MÓVILES Y MERCADOS,0.0
+478,Comercio varejista de produtos novos nao especificados anteriormente e de produtos usados,3.15,479,"VENTA AL POR MENOR NO REALIZADA EN COMERCIOS, PUESTOS O MERCADOS",0.05
+491,Transporte ferroviario e metroferroviario,0.13,491,SERVICIO DE TRANSPORTE FERROVIARIO,0.0
+492,Transporte rodoviario de passageiros,1.55,492,SERVICIO DE TRANSPORTE AUTOMOTOR,6.08
+493,Transporte rodoviario de carga,1.81,492,SERVICIO DE TRANSPORTE AUTOMOTOR,6.08
+494,Transporte dutoviario,0.01,493,SERVICIO DE TRANSPORTE POR TUBERÍAS,0.0
+495,"Trens turisticos, telefericos e similares",0.0,491,SERVICIO DE TRANSPORTE FERROVIARIO,0.0
+501,Transporte maritimo de cabotagem e longo curso,0.02,501,SERVICIO DE TRANSPORTE MARÍTIMO,0.0
+502,Transporte por navegacao interior,0.02,502,SERVICIO DE TRANSPORTE FLUVIAL Y LACUSTRE,0.02
+503,Navegacao de apoio,0.03,502,SERVICIO DE TRANSPORTE FLUVIAL Y LACUSTRE,0.02
+509,Outros transportes aquaviarios,0.01,502,SERVICIO DE TRANSPORTE FLUVIAL Y LACUSTRE,0.02
+511,Transporte aereo de passageiros,0.14,511,SERVICIO DE TRANSPORTE AÉREO DE PASAJEROS,0.0
+512,Transporte aereo de carga,0.0,512,SERVICIO DE TRANSPORTE AÉREO DE CARGAS,0.0
+513,Transporte espacial,0.0,513,Transporte espacial,0.0
+521,"Armazenamento, carga e descarga",0.26,521,SERVICIOS DE MANIPULACIÓN DE CARGAS,0.11
+521,"Armazenamento, carga e descarga",0.26,522,SERVICIOS DE ALMACENAMIENTO Y DEPÓSITO,0.05
+522,Atividades auxiliares dos transportes terrestres,0.26,523,SERVICIOS DE GESTIÓN Y LOGÍSTICA PARA EL TRANSPORTE DE MERCADERÍAS,0.26
+522,Atividades auxiliares dos transportes terrestres,0.26,524,SERVICIOS COMPLEMENTARIOS PARA EL TRANSPORTE,0.39
+523,Atividades auxiliares dos transportes aquaviarios,0.1,524,SERVICIOS COMPLEMENTARIOS PARA EL TRANSPORTE,0.39
+524,Atividades auxiliares dos transportes aereos,0.09,524,SERVICIOS COMPLEMENTARIOS PARA EL TRANSPORTE,0.39
+525,Atividades relacionadas a organizacao do transporte de carga,0.16,524,SERVICIOS COMPLEMENTARIOS PARA EL TRANSPORTE,0.39
+531,Atividades de correio,0.28,530,SERVICIOS DE CORREOS Y MENSAJERÍAS,0.06
+532,Atividades de malote e de entrega,0.11,530,SERVICIOS DE CORREOS Y MENSAJERÍAS,0.06
+551,Hoteis e similares,0.64,551,"SERVICIOS DE ALOJAMIENTO, EXCEPTO EN CAMPING",1.15
+559,Outros tipos de alojamento nao especificados anteriormente,0.04,552,SERVICIOS DE ALOJAMIENTO EN CAMPINGS,0.01
+561,Restaurantes e outros servicos de alimentacao e bebidas,2.46,561,SERVICIOS DE EXPENDIO DE COMIDAS Y BEBIDAS,3.12
+562,"Servicos de catering, bufe e outros servicos de comida preparada",0.58,562,SERVICIOS DE PREPARACIÓN DE COMIDAS PARA EMPRESAS Y SERVICIOS DE COMIDAS NCP,0.5
+581,"Edicao de livros, jornais, revistas e outras atividades de edicao",0.07,581,EDICIÓN,0.22
+582,"Edicao integrada a impressao de livros, jornais, revistas e outras publicacoes",0.16,581,EDICIÓN,0.22
+591,"Atividades cinematograficas, producao de videos e de programas de televisao",0.05,591,SERVICIOS DE CINEMATOGRAFÍA,0.06
+592,Atividades de gravacao de som e de edicao de musica,0.01,592,SERVICIOS DE GRABACIÓN DE SONIDO Y EDICIÓN DE MÚSICA,0.0
+601,Atividades de radio,0.08,601,EMISIÓN Y RETRANSMISIÓN DE RADIO,0.08
+602,Atividades de televisao,0.12,602,SERVICIOS DE TELEVISIÓN,0.24
+611,Telecomunicacoes por fio,0.13,611,SERVICIOS DE TELEFONÍA FIJA,0.04
+612,Telecomunicacoes sem fio,0.08,612,SERVICIOS DE TELEFONÍA MÓVIL,0.0
+613,Telecomunicacoes por satelite,0.0,613,"SERVICIOS DE TELECOMUNICACIONES VÍA SATÉLITE, EXCEPTO SERVICIOS DE TRANSMISIÓN DE TELEVISIÓN",0.0
+614,Operadoras de televisao por assinatura,0.03,614,SERVICIOS DE TELECOMUNICACIÓN VÍA INTERNET,0.0
+619,Outras atividades de telecomunicacoes,0.16,619,SERVICIOS DE TELECOMUNICACIONES NCP,0.04
+620,Atividades dos servicos de tecnologia da informacao,0.66,620,SERVICIOS DE PROGRAMACIÓN Y CONSULTORÍA INFORMÁTICA Y ACTIVIDADES CONEXAS,0.37
+631,"Tratamento de dados, hospedagem na internet e outras atividades relacionadas",0.18,631,"PROCESAMIENTO DE DATOS, HOSPEDAJE Y ACTIVIDADES CONEXAS; PORTALES WEB",0.04
+639,Outras atividades de prestacao de servicos de informacao,0.06,639,SERVICIOS DE AGENCIAS DE NOTICIAS Y SERVICIOS DE INFORMACIÓN NCP,0.0
+641,Banco central,0.01,641,INTERMEDIACIÓN MONETARIA,0.04
+642,Intermediacao monetaria - depositos a vista,1.14,641,INTERMEDIACIÓN MONETARIA,0.04
+643,Intermediacao nao-monetaria - outros instrumentos de captacao,0.04,642,SERVICIOS DE SOCIEDADES DE CARTERA,0.0
+644,Arrendamento mercantil,0.0,642,SERVICIOS DE SOCIEDADES DE CARTERA,0.0
+645,Sociedades de capitalizacao,0.0,642,SERVICIOS DE SOCIEDADES DE CARTERA,0.0
+646,Atividades de sociedades de participacao,0.08,643,FONDOS Y SOCIEDADES DE INVERSIÓN Y ENTIDADES FINANCIERAS SIMILARES,0.0
+647,Fundos de investimento,0.0,643,FONDOS Y SOCIEDADES DE INVERSIÓN Y ENTIDADES FINANCIERAS SIMILARES,0.0
+649,Atividades de servicos financeiros nao especificadas anteriormente,0.05,649,SERVICIOS FINANCIEROS EXCEPTO LOS DE LA BANCA CENTRAL Y LAS ENTIDADES FINANCIERAS,0.37
+651,Seguros de vida e nao-vida,0.09,651,SERVICIOS DE SEGUROS,0.37
+652,Seguros-saude,0.01,651,SERVICIOS DE SEGUROS,0.37
+653,Resseguros,0.0,652,REASEGUROS,0.0
+654,Previdencia complementar,0.03,653,ADMINISTRACIÓN DE FONDOS DE PENSIONES,0.0
+655,Planos de saude,0.16,653,ADMINISTRACIÓN DE FONDOS DE PENSIONES,0.0
+661,Atividades auxiliares dos servicos financeiros,0.08,661,"SERVICIOS AUXILIARES A LA ACTIVIDAD FINANCIERA, EXCEPTO A LOS SERVICIOS DE SEGUROS",0.04
+662,"Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude",0.1,662,SERVICIOS AUXILIARES A LOS SERVICIOS DE SEGUROS,0.16
+663,Atividades de administracao de fundos por contrato ou comissao,0.01,663,SERVICIOS DE GESTIÓN DE FONDOS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA,0.0
+681,Atividades imobiliarias de imoveis proprios,0.09,681,"SERVICIOS INMOBILIARIOS REALIZADOS POR CUENTA PROPIA, CON BIENES PROPIOS O ARRENDADOS",0.84
+682,Atividades imobiliarias por contrato ou comissao,0.18,682,SERVICIOS INMOBILIARIOS REALIZADOS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA,0.28
+691,Atividades juridicas,0.31,691,SERVICIOS JURÍDICOS,0.34
+692,"Atividades de contabilidade, consultoria e auditoria contabil e tributaria",0.52,692,"SERVICIOS DE CONTABILIDAD, AUDITORÍA Y ASESORÍA FISCAL",0.46
+702,Atividades de consultoria em gestao empresarial,0.21,702,"SERVICIOS DE ASESORAMIENTO, DIRECCIÓN Y GESTIÓN EMPRESARIAL",0.82
+711,Servicos de arquitetura e engenharia e atividades tecnicas relacionadas,0.6,711,SERVICIOS DE ARQUITECTURA E INGENIERÍA Y SERVICIOS TÉCNICOS NCP,0.84
+712,Testes e analises tecnicas,0.05,712,ENSAYOS Y ANÁLISIS TÉCNICOS,0.02
+721,Pesquisa e desenvolvimento experimental em ciencias fisicas e naturais,0.08,721,INVESTIGACIÓN Y DESARROLLO EXPERIMENTAL EN EL CAMPO DE LA INGENIERÍA Y DE LAS CIENCIAS EXACTAS Y NATURALES,0.02
+722,Pesquisa e desenvolvimento experimental em ciencias sociais e humanas,0.01,722,INVESTIGACIÓN Y DESARROLLO EXPERIMENTAL EN EL CAMPO DE LAS CIENCIAS SOCIALES Y LAS HUMANIDADES,0.0
+731,Publicidade,0.17,731,SERVICIOS DE PUBLICIDAD,0.14
+732,Pesquisas de mercado e de opiniao publica,0.02,732,"ESTUDIO DE MERCADO, REALIZACIÓN DE ENCUESTAS DE OPINIÓN PÚBLICA",0.0
+741,Design e decoracao de interiores,0.01,741,SERVICIOS DE DISEÑO ESPECIALIZADO,0.0
+742,Atividades fotograficas e similares,0.04,742,SERVICIOS DE FOTOGRAFÍA,0.02
+749,"Atividades profissionais, cientificas e tecnicas nao especificadas anteriormente",0.16,749,"ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS NCP",0.03
+750,Atividades veterinarias,0.01,750,SERVICIOS VETERINARIOS,0.04
+771,Locacao de meios de transporte sem condutor,0.11,771,ALQUILER DE VEHÍCULOS AUTOMOTORES Y EQUIPO DE TRANSPORTE SIN CONDUCTOR NI OPERARIOS,0.03
+772,Aluguel de objetos pessoais e domesticos,0.06,772,ALQUILER DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS,0.01
+773,Aluguel de maquinas e equipamentos sem operador,0.26,773,"ALQUILER DE MAQUINARIA Y EQUIPO NCP, SIN PERSONAL",0.1
+774,Gestao de ativos intangiveis nao-financeiros,0.01,774,ARRENDAMIENTO Y GESTIÓN DE BIENES INTANGIBLES NO FINANCIEROS,0.0
+781,Selecao e agenciamento de mao-de-obra,0.28,780,OBTENCIÓN Y DOTACIÓN DE PERSONAL,0.25
+782,Locacao de mao-de-obra temporaria,0.68,780,OBTENCIÓN Y DOTACIÓN DE PERSONAL,0.25
+783,Fornecimento e gestao de recursos humanos para terceiros,0.22,780,OBTENCIÓN Y DOTACIÓN DE PERSONAL,0.25
+791,Agencias de viagens e operadores turisticos,0.15,791,SERVICIOS DE AGENCIAS DE VIAJE Y OTRAS ACTIVIDADES COMPLEMENTARIAS DE APOYO TURÍSTICO,0.21
+799,Servicos de reservas e outros servicos de turismo nao especificados anteriormente,0.01,791,SERVICIOS DE AGENCIAS DE VIAJE Y OTRAS ACTIVIDADES COMPLEMENTARIAS DE APOYO TURÍSTICO,0.21
+801,"Atividades de vigilancia, seguranca privada e transporte de valores",1.31,801,SERVICIOS DE SEGURIDAD E INVESTIGACIÓN,2.01
+802,Atividades de monitoramento de sistemas de seguranca,0.1,801,SERVICIOS DE SEGURIDAD E INVESTIGACIÓN,2.01
+803,Atividades de investigacao particular,0.0,801,SERVICIOS DE SEGURIDAD E INVESTIGACIÓN,2.01
+811,Servicos combinados para apoio a edificios,1.41,811,SERVICIO COMBINADO DE APOYO A EDIFICIOS,0.0
+812,Atividades de limpeza,1.6,812,SERVICIOS DE LIMPIEZA DE EDIFICIOS,1.19
+813,Atividades paisagisticas,0.04,813,SERVICIOS DE JARDINERÍA Y MANTENIMIENTO DE ESPACIOS VERDES,0.03
+821,Servicos de escritorio e apoio administrativo,0.56,821,SERVICIOS DE APOYO A LA ADMINISTRACIÓN DE OFICINAS Y EMPRESAS,0.05
+822,Atividades de teleatendimento,0.91,822,SERVICIOS DE CALL CENTER,0.67
+823,"Atividades de organizacao de eventos, exceto culturais e esportivos",0.08,823,"SERVICIOS DE ORGANIZACIÓN DE CONVENCIONES Y EXPOSICIONES COMERCIALES, EXCEPTO CULTURALES Y DEPORTIVOS",0.0
+829,Outras atividades de servicos prestados principalmente as empresas,1.11,829,SERVICIOS EMPRESARIALES NCP,1.01
+841,Administracao do estado e da politica economica e social,17.02,841,Servicios de la administración pública,
+842,Servicos coletivos prestados pela administracao publica,2.08,842,Prestación pública de servicios a la comunidad en general,
+843,Seguridade social obrigatoria,0.11,843,Servicios de la seguridad social obligatoria,
+851,Educacao infantil e ensino fundamental,1.09,851,ENSEÑANZA INICIAL Y PRIMARIA,5.33
+852,Ensino medio,0.3,852,ENSEÑANZA SECUNDARIA,1.35
+853,Educacao superior,1.42,853,ENSEÑANZA SUPERIOR Y FORMACIÓN DE POSGRADO,0.77
+854,Educacao profissional de nivel tecnico e tecnologico,0.16,854,SERVICIOS DE ENSEÑANZA NCP,0.44
+855,Atividades de apoio a educacao,0.06,855,SERVICIOS DE APOYO A LA EDUCACIÓN,0.0
+859,Outras atividades de ensino,0.7,855,SERVICIOS DE APOYO A LA EDUCACIÓN,0.0
+861,Atividades de atendimento hospitalar,2.19,861,SERVICIOS DE HOSPITALES,0.91
+862,Servicos moveis de atendimento a urgencias e de remocao de pacientes,0.02,862,SERVICIOS DE ATENCIÓN AMBULATORIA REALIZADOS POR MÉDICOS Y ODONTÓLOGOS,0.34
+863,Atividades de atencao ambulatorial executadas por medicos e odontologos,0.55,863,"SERVICIOS DE PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO; SERVICIOS INTEGRADOS DE CONSULTA, DIAGNÓSTICO Y TRATAMIENTO",0.65
+864,Atividades de servicos de complementacao diagnostica e terapeutica,0.41,864,SERVICIOS DE EMERGENCIAS Y TRASLADOS,0.17
+865,"Atividades de profissionais da area de saude, exceto medicos e odontologos",0.14,869,SERVICIOS RELACIONADOS CON LA SALUD HUMANA NCP,1.33
+866,Atividades de apoio a gestao de saude,0.09,869,SERVICIOS RELACIONADOS CON LA SALUD HUMANA NCP,1.33
+869,Atividades de atencao a saude humana nao especificadas anteriormente,0.2,869,SERVICIOS RELACIONADOS CON LA SALUD HUMANA NCP,1.33
+871,"Atividades de assistencia a idosos, deficientes fisicos, imunodeprimidos e convalescentes, e de infra-estrutura e apoio a pacientes prestadas em residencias coletivas e particulares",0.1,870,SERVICIOS SOCIALES CON ALOJAMIENTO,0.39
+872,"Atividades de assistencia psicossocial e a saude a portadores de disturbios psiquicos, deficiencia mental e dependencia quimica",0.03,870,SERVICIOS SOCIALES CON ALOJAMIENTO,0.39
+873,Atividades de assistencia social prestadas em residencias coletivas e particulares,0.08,870,SERVICIOS SOCIALES CON ALOJAMIENTO,0.39
+880,Servicos de assistencia social sem alojamento,0.26,880,SERVICIOS SOCIALES SIN ALOJAMIENTO,0.03
+900,"Atividades artisticas, criativas e de espetaculos",0.04,900,SERVICIOS ARTÍSTICOS Y DE ESPECTÁCULOS,0.05
+910,Atividades ligadas ao patrimonio cultural e ambiental,0.01,910,"SERVICIOS DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y SERVICIOS CULTURALES NCP",0.02
+920,Atividades de exploracao de jogos de azar e apostas,0.0,920,SERVICIOS RELACIONADOS CON JUEGOS DE AZAR Y APUESTAS,0.67
+931,Atividades esportivas,0.34,931,SERVICIOS PARA LA PRÁCTICA DEPORTIVA,0.53
+932,Atividades de recreacao e lazer,0.09,939,SERVICIOS DE ESPARCIMIENTO NCP,0.19
+941,"Atividades de organizacoes associativas patronais, empresariais e profissionais",0.16,911,"Servicios de organizaciones empresariales, profesionales y de empleadores",
+942,Atividades de organizacoes sindicais,0.26,912,Servicios de sindicatos,
+943,Atividades de associacoes de defesa de direitos sociais,0.78,949,SERVICIOS DE ASOCIACIONES NCP,0.0
+949,Atividades de organizacoes associativas nao especificadas anteriormente,0.62,949,SERVICIOS DE ASOCIACIONES NCP,0.0
+951,Reparacao e manutencao de equipamentos de informatica e comunicacao,0.13,951,REPARACIÓN Y MANTENIMIENTO DE EQUIPOS INFORMÁTICOS Y EQUIPOS DE COMUNICACIÓN,0.01
+952,Reparacao e manutencao de objetos e equipamentos pessoais e domesticos,0.12,952,REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS,0.05
+960,Outras atividades de servicos pessoais,0.46,960,SERVICIOS PERSONALES NCP,1.35
+970,Servicos domesticos,0.01,950,Servicios de hogares privados que contratan servicio doméstico,
+990,Organismos internacionais e outras instituicoes extraterritoriais,0.01,990,Servicios de organizaciones y órganos extraterritoriales,
